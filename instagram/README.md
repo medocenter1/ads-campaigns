@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 111 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **112 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 112 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `bens_hardware` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **113 unique profiles**.
 
 ## Current verified shortlist
 
@@ -78,6 +78,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | France | [@get.switched](https://www.instagram.com/get.switched/) | French / English | 2026-10-29 and 2026-10-31 |
 | Germany | [@boschglobal](https://www.instagram.com/boschglobal/) | English | 2026-10-07 |
 | Germany | [@herr_tech](https://www.instagram.com/herr_tech/) | German | 159 posts in last 30 days; latest 2 days before snapshot |
+| Germany | [@bens_hardware](https://www.instagram.com/bens_hardware/) | German | 2026-11-01 (28 posts / 30 days in Nindo snapshot) |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
 | United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
 | United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
@@ -139,7 +140,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Country | Accounts |
 |---|---:|
 | France | 6 |
-| Germany | 9 |
+| Germany | 10 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 6 |
@@ -147,7 +148,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Switzerland | 1 |
 | United Kingdom | 14 |
 | United States | 68 |
-| **Total** | **112** |
+| **Total** | **113** |
 
 ## Evidence sources
 
@@ -262,3 +263,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.30
 
 - United States — [@andythesalemtechguy October 18, 2026 Instagram post](https://imginn.com/p/DeohowIBqiK/) reviews the Phanteks EX5 PC case and explicitly uses #tech, #technology, #pc and #computer. [Dated post and full caption](https://imginn.com/p/DeohowIBqiK/). Modash identifies Andy Harding as being in the United States and reproduces his public bio, “The Greatest Technician Boston Based”; it also links directly to his Instagram handle. [Country, Boston bio and Instagram account](https://www.modash.io/content-library/brands/jackery-examples/influencers). HypeAuditor independently categorizes the account under Personal Computers, Tech, Technology and Electronics and records additional publishing activity in October 2026. [Technology categories and October account activity](https://hypeauditor.com/instagram/andythesalemtechguy/).
+
+## Evidence added in V 0.31
+
+- Germany — [@bens_hardware Instagram profile](https://www.instagram.com/bens_hardware/). Its bio describes custom PC building and hardware. Nindo's Instagram channel snapshot marks the account DE, records 28 contributions in the preceding 30 days and places the latest post about two days before the November 3, 2026 snapshot (approximately November 1). [Nindo Instagram activity and language marker](https://nindo.de/bens-hardware/stats/a61424ffa7967041026e912e2d6dee5eb64b8fb5). [Feedspot's German technology-creator list](https://influencers.feedspot.com/german_tech_instagram_influencers/) lists Ben in Germany/Munich and describes PC building and hardware; [Socialveins confirms Germany and the account bio](https://socialveins.com/influencer/instagram/bens_hardware); [StreamersBase records German channel language and links the Instagram account](https://streamersbase.de/streamers/bens_hardware).
