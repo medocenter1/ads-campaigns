@@ -562,3 +562,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-30 and 2026-11-02
   - Evidence: [October 30 Reel testing the HP OmniBook X with Snapdragon X2 Plus](https://app.fohr.co/creators/peachietech); [November 2 Reel about Switch 2 game emulation on AYN Thor and Galaxy Z Fold8](https://app.fohr.co/creators/peachietech)
   - Note: Fohr identifies Christina Liu as a Los Angeles-based tech educator, gamer and PC builder, and gives Fremont, California, United States as her location. It records English as the account's top language. [Creator profile, location and language](https://app.fohr.co/creators/peachietech); [PC-building creator spotlight](https://pixiogaming.com/blogs/articles-1/creator-spotlight-peachietech)
+
+- **Profile:** [@chubee.tech](https://www.instagram.com/chubee.tech/)
+  - Content language: English
+  - Technology focus: Gaming setups, PC and PlayStation 5 hardware, gaming keyboards and peripherals, tech accessories and creator equipment
+  - Qualifying post observed: 2026-11-01
+  - Evidence: [November 1, 2026 Instagram post about the Razer Joro keyboard](https://www.monitormentions.com/brand/razer/instagram)
+  - Note: Creatorland lists Allison De la Rosa (@chubee.tech) in the United States and describes her as a gaming and technology content creator; her bio notes Dominican Republic origin. The November 1 public Instagram caption is in English and discusses a Razer keyboard. [Creator profile and US country label](https://www.creatorland.com/chubee.tech); [dated post and caption](https://www.monitormentions.com/brand/razer/instagram)

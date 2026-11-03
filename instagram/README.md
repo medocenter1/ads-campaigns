@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 126 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handles `tocbgaming` and `peachietech` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **128 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 128 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `chubee.tech` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **129 unique profiles**.
 
 ## Current verified shortlist
 
@@ -147,10 +147,10 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@saladpictures_](https://www.instagram.com/saladpictures_/) | English | 2026-10-26 |
 
 | United States | [@mattmurphyai](https://www.instagram.com/mattmurphyai/) | English | 2026-10-26 and 2026-10-28 |
-| United States | [@detroitborg](https://www.instagram.com/detroitborg/) | Eng
+| United States | [@detroitborg](https://www.instagram.com/detroitborg/) | English | 2026-10-23 |
 | United Kingdom | [@tocbgaming](https://www.instagram.com/tocbgaming/) | English | 2026-10-14, 2026-10-15 and 2026-11-01 |
 | United States | [@peachietech](https://www.instagram.com/peachietech/) | English | 2026-10-30 and 2026-11-02 |
-lish | 2026-10-23 |
+| United States | [@chubee.tech](https://www.instagram.com/chubee.tech/) | English | 2026-11-01 |
 
 ## Country totals
 
@@ -164,8 +164,8 @@ lish | 2026-10-23 |
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 16 |
-| United States | 79 |
-| **Total** | **128** |
+| United States | 80 |
+| **Total** | **129** |
 
 ## Evidence sources
 
@@ -218,9 +218,11 @@ lish | 2026-10-23 |
 - United Kingdom — [@tocbgaming November 1, 2026 Reel about the Razer Kiyo V2 Pro 4K webcam and AI auto-framing](https://www.instagram.com/p/DfM3F6po20L/); [Monitor Mentions records the date, caption and creator's tech/gaming identity](https://www.monitormentions.com/creator/tocbgaming); [Infldb identifies @tocbgaming as UK-based](https://infldb.com/top-influencers-by-category/tech).
 - United States — [@peachietech October 30, 2026 Reel testing HP OmniBook X with Snapdragon X2 Plus, and November 2 Reel about Switch 2 emulation](https://app.fohr.co/creators/peachietech); [Fohr identifies Christina Liu as a US-based tech educator, gamer and PC builder and lists English as the top audience language](https://app.fohr.co/creators/peachietech).
 
+- United States — [@chubee.tech's November 1, 2026 Razer Joro keyboard Instagram post](https://www.monitormentions.com/brand/razer/instagram); [Creatorland identifies Allison De la Rosa as a US-based gaming and tech content creator](https://www.creatorland.com/chubee.tech).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 128-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 129-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -348,3 +350,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United Kingdom — [@tocbgaming Instagram profile](https://www.instagram.com/tocbgaming/) is Tom's English-language gaming and technology account. The public profile describes PC, PS5 and desk setups; Infldb assigns the account to the United Kingdom. Pikory records technology-related posts on October 14 and 15, 2026. On [November 1, 2026](https://www.instagram.com/p/DfM3F6po20L/), Tom posted a Reel about the Razer Kiyo V2 Pro 4K webcam, its Sony STARVIS 2 sensor and AI auto-framing. [Creator bio and UK attribution](https://infldb.com/top-influencers-by-category/tech); [profile and post archive](https://pikory.com/u/tocbgaming/8761444658); [dated Reel and caption](https://www.monitormentions.com/creator/tocbgaming).
 
 - United States — [@peachietech Instagram profile](https://www.instagram.com/peachietech/) belongs to Christina Liu, a Fremont/Los Angeles-area tech educator, gamer and PC builder. Fohr's recent-post index records an [October 30, 2026 Reel](https://app.fohr.co/creators/peachietech) testing the HP OmniBook X powered by Snapdragon X2 Plus and a [November 2, 2026 Reel](https://app.fohr.co/creators/peachietech) discussing Switch 2 emulation on AYN Thor and Galaxy Z Fold8. Fohr lists English as the account's top language; [Pixio's creator spotlight](https://pixiogaming.com/blogs/articles-1/creator-spotlight-peachietech) describes her PC-building tutorials and component reviews.
+
+
+## Evidence added in V 0.44
+
+- United States — [@chubee.tech Instagram profile](https://www.instagram.com/chubee.tech/) is Allison De la Rosa's gaming and technology creator account. Creatorland lists the creator's country as the United States and describes content centered on gaming setups, PC and PlayStation 5 equipment, peripherals and creator gear; her bio notes Dominican Republic origin. A public Instagram post dated [November 1, 2026](https://www.monitormentions.com/brand/razer/instagram) showcases the Razer Joro keyboard, with an English caption (“Small setup, big possibilities”), satisfying the recent-post and language criteria. [Creator profile and country label](https://www.creatorland.com/chubee.tech); [dated post and caption](https://www.monitormentions.com/brand/razer/instagram).
