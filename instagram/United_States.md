@@ -80,3 +80,24 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 14 ChatGPT Work post](https://imginn.com/p/Dee-0a6BP_X/)
   - Note: [UGC Agent lists the account as a US-based English-language Instagram tech creator](https://ugcagent.app/creators/instagram/carol.yaps/).
 
+- **Profile:** [@cleoabram](https://www.instagram.com/cleoabram/)
+  - Content language: English
+  - Technology focus: Technology journalism, science explainers, AI, computing and emerging technologies
+  - Qualifying posts observed: 2026-10-16 and 2026-10-26
+  - Evidence: [October 16 Tesla/technology post](https://imginn.com/p/DekAnWqocqW/) and [October 26 supersonic aircraft/technology post](https://imginn.com/p/De9iirao3Ea/)
+  - Note: Creator profile classifies Cleo Abram as a US-based tech news and explainers creator; her professional profile lists New York, United States: https://www.getmrbl.ai/influencers/profile/cleoabram ; https://www.linkedin.com/in/cleocabram.
+
+- **Profile:** [@michellescomputer](https://www.instagram.com/michellescomputer/)
+  - Content language: English
+  - Technology focus: AI engineering, AI tools, voice models, software and accessible technology education
+  - Qualifying post observed: 2026-10-24
+  - Evidence: [October 24 AI voice-model post](https://imginn.com/p/De5C-v-ku1W/) and [October 26 technology education post](https://imginn.com/p/De8Y8imGz_4/)
+  - Note: CreatorDB identifies Michelle as a San Francisco-based AI engineer; her public Instagram bio also states SF: https://creatordb.app/creatorstats/michellescomputer/ ; https://imginn.com/michellescomputer/.
+
+- **Profile:** [@verge](https://www.instagram.com/verge/)
+  - Content language: English
+  - Technology focus: Consumer technology, devices, software, AI, reviews and technology news
+  - Qualifying posts observed: 2026-10-21 and 2026-10-28
+  - Evidence: [October 21 iPhone Duo review post](https://imginn.com/p/DexN8PGPw1Z/) and [October 28 touchscreen MacBook post](https://imginn.com/p/DfDMkB9ypWP/)
+  - Note: The Verge is a technology publication. Its terms identify The Verge as a Vox Media, LLC brand, with a US mailing address: https://www.voxmedia.com/terms-of-use/.
+
