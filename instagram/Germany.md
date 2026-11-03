@@ -79,3 +79,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying activity observed: 9 Instagram posts in the 30 days before the 2026-11-03 Nindo snapshot; latest post approximately 2026-10-28 (6 days before the snapshot)
   - Evidence: [Nindo Instagram channel statistics and 30-day activity](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1)
   - Note: Nindo labels the channel DE and the bio states “Tech, Hardware, Gaming PCs”; Socialveins identifies @hardwaredealz as based in Germany. [Germany location and public bio](https://socialveins.com/influencer/instagram/hardwaredealz); [German-language activity and niche](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1)
+
+- **Profile:** [@michael.truch](https://www.instagram.com/michael.truch/)
+  - Content language: German
+  - Technology focus: Artificial intelligence, data science, software engineering, cybersecurity and practical technology explainers
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [October 23 Instagram post explaining AI-assisted discovery of PHP security vulnerabilities](https://imginn.com/p/De2FWSZuNzG/)
+  - Note: Nindo labels the Instagram channel DE and its public bio identifies Michael as a tech enthusiast specializing in AI and data science; Feedspot lists @michael.truch among German technology creators and gives Germany as location. [Nindo channel, DE marker and bio](https://nindo.de/michael.truch/stats/0dc8ea860932458817bff05a152ec3c809601c9f); [German technology creator directory and location](https://influencers.feedspot.com/german_tech_instagram_influencers/).

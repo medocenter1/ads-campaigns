@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 121 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `saladpictures_` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **122 unique profiles**....
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 122 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `michael.truch` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **123 unique profiles**.....
 
 ## Current verified shortlist
 
@@ -80,6 +80,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Germany | [@herr_tech](https://www.instagram.com/herr_tech/) | German | 159 posts in last 30 days; latest 2 days before snapshot |
 | Germany | [@bens_hardware](https://www.instagram.com/bens_hardware/) | German | 2026-11-01 (28 posts / 30 days in Nindo snapshot) |
 | Germany | [@hardwaredealz](https://www.instagram.com/hardwaredealz/) | German | 2026-10-28; 9 posts / 30 days in Nindo snapshot |
+| Germany | [@michael.truch](https://www.instagram.com/michael.truch/) | German | 2026-10-23 |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
 | United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
 | United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
@@ -149,7 +150,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Country | Accounts |
 |---|---:|
 | France | 6 |
-| Germany | 11 |
+| Germany | 12 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 6 |
@@ -157,7 +158,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Switzerland | 1 |
 | United Kingdom | 15 |
 | United States | 75 |
-| **Total** | **122** |
+| **Total** | **123** |
 
 ## Evidence sources
 
@@ -306,3 +307,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.37
 
 - United States — [@saladpictures_ Instagram profile](https://www.instagram.com/saladpictures_/) focuses on technology, PC builds and gaming hardware; the creator's public bio says “tech • lifestyle • pc builds”. A public [Instagram Reel dated October 26, 2026](https://universe.beacons.ai/brands/framework) is titled “Can you build your own laptop?” and is categorized under gaming/esports and technology/science, satisfying the one-month activity criterion. The public creator listing identifies the creator as based in the United States and the content language is English. [Dated Instagram Reel and creator category](https://universe.beacons.ai/brands/framework); [creator bio and PC-building niche](https://influencers.feedspot.com/pc_building_instagram_influencers/); [United States / AI & Technology listing](https://www.storika.ai/creators/page/3); [US profile cross-check](https://crevideo.com/tiktok/saladpictures_).
+
+## Evidence added in V 0.38
+
+- Germany — [@michael.truch Instagram profile](https://www.instagram.com/michael.truch/) describes Michael as a tech enthusiast and specialist in AI and data science; Nindo labels the channel DE. A public [October 23, 2026 post](https://imginn.com/p/De2FWSZuNzG/) explains how AI-assisted security research uncovered critical PHP vulnerabilities and discusses software patching and cybersecurity; the caption is in German. Feedspot lists @michael.truch in its German Tech Influencers directory and gives Germany as the creator's location. [Nindo profile, DE marker and bio](https://nindo.de/michael.truch/stats/0dc8ea860932458817bff05a152ec3c809601c9f); [October 23 post](https://imginn.com/p/De2FWSZuNzG/); [Feedspot German technology directory](https://influencers.feedspot.com/german_tech_instagram_influencers/).
