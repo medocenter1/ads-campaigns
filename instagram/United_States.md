@@ -555,3 +555,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-23
   - Evidence: [October 23, 2026 “Duo Day!” post](https://imginn.com/p/De2M_vVFVhS/)
   - Note: Socialveins identifies Michael Kukielka (@detroitborg) as based in Michigan, United States, and categorizes the account under Technology. The profile bio reads “Technology Assimilated!”; the October 23 post features consumer devices and its English caption is “Duo Day!”. [Creator location and technology category](https://socialveins.com/influencer/instagram/detroitborg); [public dated Instagram post](https://imginn.com/p/De2M_vVFVhS/)
+
+- **Profile:** [@peachietech](https://www.instagram.com/peachietech/)
+  - Content language: English
+  - Technology focus: PC building, computer hardware, gaming PCs, custom builds, Windows laptops and handheld gaming devices
+  - Qualifying posts observed: 2026-10-30 and 2026-11-02
+  - Evidence: [October 30 Reel testing the HP OmniBook X with Snapdragon X2 Plus](https://app.fohr.co/creators/peachietech); [November 2 Reel about Switch 2 game emulation on AYN Thor and Galaxy Z Fold8](https://app.fohr.co/creators/peachietech)
+  - Note: Fohr identifies Christina Liu as a Los Angeles-based tech educator, gamer and PC builder, and gives Fremont, California, United States as her location. It records English as the account's top language. [Creator profile, location and language](https://app.fohr.co/creators/peachietech); [PC-building creator spotlight](https://pixiogaming.com/blogs/articles-1/creator-spotlight-peachietech)

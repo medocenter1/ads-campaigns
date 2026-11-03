@@ -107,3 +107,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-23
   - Evidence: [2026-10-23 Instagram post](https://imginn.com/p/De2InQaswOR/)
   - Note: Country attribution, technology focus and language are cross-checked against the cited public profile and creator-directory sources.
+
+- **Profile:** [@tocbgaming](https://www.instagram.com/tocbgaming/)
+  - Content language: English
+  - Technology focus: Gaming hardware, PC and PlayStation setups, streaming equipment, webcams and gaming peripherals
+  - Qualifying posts observed: 2026-10-14, 2026-10-15 and 2026-11-01
+  - Evidence: [November 1 Reel reviewing the Razer Kiyo V2 Pro 4K webcam and AI auto-framing](https://www.instagram.com/p/DfM3F6po20L/); [October 14 and 15 profile-post activity](https://pikory.com/u/tocbgaming/8761444658)
+  - Note: Infldb lists Tom (@tocbgaming) in the United Kingdom and gives his profile bio; Pikory's public profile describes PC, PS5 and desk setups. The captions are in English. [UK creator listing and bio](https://infldb.com/top-influencers-by-category/tech); [public profile/post archive](https://pikory.com/u/tocbgaming/8761444658)
