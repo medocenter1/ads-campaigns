@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 117 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `jayztwocents` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **118 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 118 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handles `masonwattss` and `deepister.tech` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **120 unique profiles**..
 
 ## Current verified shortlist
 
@@ -88,6 +88,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United Kingdom | [@techbible.ai](https://www.instagram.com/techbible.ai/) | English | 2026-10-25 and 2026-10-26 |
 | United Kingdom | [@digiportuk](https://www.instagram.com/digiportuk/) | English | 2026-11-01 |
 | United Kingdom | [@ksetups](https://www.instagram.com/ksetups/) | English | 2026-10-04 to 2026-10-30 (multiple posts) |
+| United Kingdom | [@masonwattss](https://www.instagram.com/masonwattss/) | English | 2026-10-23 |
 | United States | [@apple](https://www.instagram.com/apple/) | English | 2026-10-27 |
 | United States | [@google](https://www.instagram.com/google/) | English | 2026-10-27 |
 | United States | [@amazon](https://www.instagram.com/amazon/) | English | 2026-10-29 |
@@ -139,6 +140,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/) | English | 2026-10-13 |
 | United States | [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) | English | 2026-10-27 (plus newer posts visible in the public profile archive) |
 | United States | [@jayztwocents](https://www.instagram.com/jayztwocents/) | English | 2026-10-20 |
+| United States | [@deepister.tech](https://www.instagram.com/deepister.tech/) | English | 2026-10-19 |
 
 ## Country totals
 
@@ -151,9 +153,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Netherlands | 6 |
 | Spain | 6 |
 | Switzerland | 1 |
-| United Kingdom | 14 |
-| United States | 72 |
-| **Total** | **118** |
+| United Kingdom | 15 |
+| United States | 73 |
+| **Total** | **120** |
 
 ## Evidence sources
 
@@ -288,3 +290,9 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.34
 
 - United States — [@jayztwocents Instagram profile](https://www.instagram.com/jayztwocents/) publishes PC hardware, custom builds, cooling and component tests. A public [October 20, 2026 post](https://imginn.com/p/DeuHgtHOc17/) tests a 650W SFX power supply under load; the caption and account bio are in English. Zaver classifies the Instagram profile as a United States-based technology creator and records its public “Tech, Cars, Gaming, and more!” bio. [Zaver creator profile](https://zaver.one/creators/instagram/jayztwocents). Socialveins independently lists United States as location and reproduces the bio. [Socialveins country cross-check](https://socialveins.com/influencer/instagram/jayztwocents). CollabGlam describes its focus as PC hardware, AI and PC building/how-to content. [PC-building profile](https://www.collabglam.com/creator/jayztwocents).
+
+## Evidence added in V 0.35
+
+- United Kingdom — [@masonwattss Instagram profile](https://www.instagram.com/masonwattss/) is identified as “Mason | Setups & Tech”; the public profile bio says “Sharing my tech obsession” and “UK Based”. A dated [October 23, 2026 Instagram post](https://imginn.com/p/De2InQaswOR/) shows a desk/workspace setup and uses #desksetup, #setupinspiration, #workspace and #homeoffice. His public Ko-fi creator description also identifies him as a tech enthusiast from the UK; the Infldb technology-creator directory lists @masonwattss in the United Kingdom. [Instagram profile and UK bio](https://imginn.com/masonwattss/); [UK-based creator statement](https://ko-fi.com/masonwattss); [technology directory and UK attribution](https://infldb.com/top-influencers-by-category/tech).
+
+- United States — [@deepister.tech Instagram profile](https://www.instagram.com/deepister.tech/) describes the creator as interested in Tech, Code and Gaming and lists Washington in the public bio. A public [October 19, 2026 Instagram post](https://imginn.com/p/DerymsnIPq3/) is captioned “Expensive taste … in tech”; the post and surrounding profile content are in English. Infldb's technology-creator directory places the account in the United States and lists Seattle/Washington in its public profile text; CheckBB independently classifies it as a United States-based Tech & Gadgets creator. [Public dated post](https://imginn.com/p/DerymsnIPq3/); [US location and tech/code/gaming bio](https://infldb.com/top-influencers-by-category/tech); [independent US Tech & Gadgets classification](https://checkbb.com/en/instagram/deepister.tech); [Seattle location in public tech-creator ranking](https://infludata.com/de/rankings/top-20-influencer-united-states-of-america-washington-dc-tech-instagram).

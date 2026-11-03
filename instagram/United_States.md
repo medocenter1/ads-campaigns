@@ -514,3 +514,9 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-20
   - Evidence: [October 20 Instagram post testing a 650W SFX power supply under load](https://imginn.com/p/DeuHgtHOc17/)
   - Note: Zaver classifies the Instagram account as a United States-based technology creator; its bio is “Tech, Cars, Gaming, and more!” and its technology category is recorded separately. Socialveins independently lists the account location as United States. [Zaver public Instagram creator profile and country/niche](https://zaver.one/creators/instagram/jayztwocents); [Socialveins country and bio cross-check](https://socialveins.com/influencer/instagram/jayztwocents); [creator profile with PC-building specialization](https://www.collabglam.com/creator/jayztwocents).
+- **Profile:** [@deepister.tech](https://www.instagram.com/deepister.tech/)
+  - Content language: English
+  - Technology focus: Technology, computer hardware, coding, gaming PCs and technology culture
+  - Qualifying post observed: 2026-10-19
+  - Evidence: [2026-10-19 Instagram post](https://imginn.com/p/DerymsnIPq3/)
+  - Note: Country attribution, technology focus and language are cross-checked against the cited public profile and creator-directory sources.

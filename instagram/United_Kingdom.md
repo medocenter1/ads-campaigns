@@ -101,3 +101,9 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-04, 2026-10-12, 2026-10-14, 2026-10-16, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-23, 2026-10-24, 2026-10-27 and 2026-10-30
   - Evidence: [October 21 desk-setup and technology-accessories post](https://imginn.com/p/DevRZe4imeT/); [October 27 post discussing the M4 Mac mini, DaVinci Resolve and Final Cut Pro](https://imginn.com/p/De-scNCIDfG/); [October 30 home-office post](https://imginn.com/p/DfIowExsj-i/)
   - Note: The public Instagram profile archive lists the bio “all things tech”, describes desk-setup, tech and lifestyle content, and displays “UK” as its location. The cited post captions are in English. [Public profile, bio and location](https://imginn.com/ksetups/).
+- **Profile:** [@masonwattss](https://www.instagram.com/masonwattss/)
+  - Content language: English
+  - Technology focus: Tech-focused desk setups, workspace hardware, gaming and home-office equipment
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [2026-10-23 Instagram post](https://imginn.com/p/De2InQaswOR/)
+  - Note: Country attribution, technology focus and language are cross-checked against the cited public profile and creator-directory sources.
