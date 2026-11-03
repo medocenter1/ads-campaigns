@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 114 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handles `madeline.m.zhang`, `vishakha.sadhwani`, and `theblackfemaleengineer` were checked case-insensitively against the profile handles in all 51 files and were absent. No duplicate was added; the shortlist now contains **117 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 117 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `jayztwocents` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **118 unique profiles**.
 
 ## Current verified shortlist
 
@@ -138,6 +138,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@madeline.m.zhang](https://www.instagram.com/madeline.m.zhang/) | English | 2026-10-28 and 2026-10-29 |
 | United States | [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/) | English | 2026-10-13 |
 | United States | [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) | English | 2026-10-27 (plus newer posts visible in the public profile archive) |
+| United States | [@jayztwocents](https://www.instagram.com/jayztwocents/) | English | 2026-10-20 |
 
 ## Country totals
 
@@ -151,8 +152,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 14 |
-| United States | 71 |
-| **Total** | **117** |
+| United States | 72 |
+| **Total** | **118** |
 
 ## Evidence sources
 
@@ -283,3 +284,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United States — [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/) is a US-based cloud-technology educator whose work covers cloud architecture, APIs, microservices, DevOps, developer tools and AI engineering. Her October 13, 2026 Instagram post compares Solutions Architect and Developer Advocate roles and discusses cloud services, APIs, databases, system design, open source and developer tools. The post is in English. [October 13 Instagram post](https://imginn.com/p/DecTFBqILHp/); [US-based creator profile, Instagram activity and cloud-technology niche](https://creatordb.app/creatorstats/vishakhasadhwani/).
 
 - United States — [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) publicly lists NYC in its Instagram profile and focuses on making AI and technology skills accessible through practical education and resources. A public post dated October 27, 2026, and newer entries in the profile archive confirm recent posting activity; the page and post are in English. [October 27 Instagram post](https://imginn.com/p/DfAqax5D_bk/); [profile archive with NYC bio and recent post ages](https://imginn.com/theblackfemaleengineer/); [creator's official About page describing its AI/technology mission](https://www.theblackfemaleengineer.com/about).
+
+## Evidence added in V 0.34
+
+- United States — [@jayztwocents Instagram profile](https://www.instagram.com/jayztwocents/) publishes PC hardware, custom builds, cooling and component tests. A public [October 20, 2026 post](https://imginn.com/p/DeuHgtHOc17/) tests a 650W SFX power supply under load; the caption and account bio are in English. Zaver classifies the Instagram profile as a United States-based technology creator and records its public “Tech, Cars, Gaming, and more!” bio. [Zaver creator profile](https://zaver.one/creators/instagram/jayztwocents). Socialveins independently lists United States as location and reproduces the bio. [Socialveins country cross-check](https://socialveins.com/influencer/instagram/jayztwocents). CollabGlam describes its focus as PC hardware, AI and PC building/how-to content. [PC-building profile](https://www.collabglam.com/creator/jayztwocents).

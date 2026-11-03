@@ -507,3 +507,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-27 (plus newer posts visible in the public profile archive)
   - Evidence: [Public Instagram post]( https://imginn.com/p/DfAqax5D_bk/)
   - Note: Country attribution and technology niche are cross-checked in the public creator/profile sources documented in the README evidence section.
+
+- **Profile:** [@jayztwocents](https://www.instagram.com/jayztwocents/)
+  - Content language: English
+  - Technology focus: PC hardware, custom computer builds, power supplies, cooling, gaming PCs, component testing and troubleshooting
+  - Qualifying post observed: 2026-10-20
+  - Evidence: [October 20 Instagram post testing a 650W SFX power supply under load](https://imginn.com/p/DeuHgtHOc17/)
+  - Note: Zaver classifies the Instagram account as a United States-based technology creator; its bio is “Tech, Cars, Gaming, and more!” and its technology category is recorded separately. Socialveins independently lists the account location as United States. [Zaver public Instagram creator profile and country/niche](https://zaver.one/creators/instagram/jayztwocents); [Socialveins country and bio cross-check](https://socialveins.com/influencer/instagram/jayztwocents); [creator profile with PC-building specialization](https://www.collabglam.com/creator/jayztwocents).
