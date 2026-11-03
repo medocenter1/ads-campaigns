@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 50 country files were fetched and checked. Nine files contained 143 profile links (all distinct), while 41 files contained no Instagram profile links. The previous README still listed `why.cgi`, but its Denmark file had been inadvertently emptied in V 0.53; that existing entry has been restored using its retained V 0.52 evidence. The new handles `notionhq` and `claudeai` were compared case-insensitively with profile handles across all 50 country files and were absent. The corrected country files and central shortlist now contain **146 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 143 profile links (all distinct), while 42 files contained no Instagram profile links. The previous README still listed `why.cgi`, but its Denmark file had been inadvertently emptied in V 0.53; that existing entry has been restored using its retained V 0.52 evidence. The new handles `notionhq` and `claudeai` were compared case-insensitively with profile handles across all 51 country files and were absent. The corrected country files and central shortlist now contain **146 unique profiles**.
 
 ## Current verified shortlist
 
