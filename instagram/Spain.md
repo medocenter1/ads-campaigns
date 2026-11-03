@@ -23,3 +23,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-19
   - Evidence: [October 19, 2026 Instagram post](https://imginn.com/p/DerrAaVIxjl/)
   - Note: The creator's LinkedIn profile identifies Phil Franco in Palma, Balearic Islands, Spain; the same professional profile describes AI/video-creation work. [Professional/location cross-check](https://es.linkedin.com/in/phil-franco-443201326). CreatorDB classifies @ai.withphil as an AI Art & Technology Instagram creator: https://creatordb.app/creatorstats/aiwithphil/.
+
+- **Profile:** [@pabloprompt](https://www.instagram.com/pabloprompt/)
+  - Content language: Spanish
+  - Technology focus: Generative AI, AI video creation, AI-assisted visual storytelling, and tools such as Magnific, Kling, CapCut and Dreamina
+  - Qualifying post observed: 2026-10-21
+  - Evidence: [October 21, 2026 AI-video Instagram post](https://imginn.com/p/Dew4Vq4I0ix/)
+  - Note: The public profile bio identifies the creator as an AI video creator and educator in audiovisual AI; Spain attribution is corroborated by [InfluData's Spain Technology & Gadgets Instagram ranking](https://infludata.com/de/rankings/top-20-influencer-spain-tech-instagram).

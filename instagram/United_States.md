@@ -318,3 +318,24 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-14
   - Evidence: [October 14 post explaining Claude in Google Docs, Sheets and Slides](https://imginn.com/p/DefaMwKFGGQ/)
   - Note: CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI & Technology creator whose primary platform is Instagram. [Creator profile and country cross-check](https://creatordb.app/creatorstats/mollymahoneyofficial/).
+
+- **Profile:** [@futurism](https://www.instagram.com/futurism/)
+  - Content language: English
+  - Technology focus: Emerging technology, artificial intelligence, scientific breakthroughs, quantum computing and innovation journalism
+  - Qualifying posts observed: 2026-10-27 and 2026-10-28
+  - Evidence: [October 27 AI-industry post](https://imginn.com/p/DfA0DbJF2i4/) and [October 28 AI-data-center post](https://imginn.com/p/DfDaZg2l8Q_/)
+  - Note: Futurism's official About page identifies its New York City base and describes its technology/science reporting. [Company and editorial overview](https://futurism.com/about).
+
+- **Profile:** [@arstechnica](https://www.instagram.com/arstechnica/)
+  - Content language: English
+  - Technology focus: Technology journalism, software, hardware, gadgets, IT, technology policy and product reviews
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [October 23, 2026 technology-policy Instagram post](https://imginn.com/p/De12LhqAQpS/)
+  - Note: Ars Technica's official About page identifies it as a technology publication; its Instagram profile shows recent feed activity. US location is corroborated by [the outlet's public profile listing](https://instme.com/profile/arstechnica).
+
+- **Profile:** [@interestingengineering](https://www.instagram.com/interestingengineering/)
+  - Content language: English
+  - Technology focus: Engineering, robotics, aerospace, industrial innovation, scientific breakthroughs and emerging technology
+  - Qualifying posts observed: 2026-10-26, 2026-10-27, 2026-10-29 and 2026-10-31
+  - Evidence: [October 26 wearable touchscreen technology post](https://imginn.com/p/De9saqKjnxN/), [October 27 robotics post](https://imginn.com/p/DfA_PGAiWXk/) and [October 29 SpaceX Starship post](https://imginn.com/p/DfGCEDgAnxS/)
+  - Note: The company's official About page lists its New York headquarters and describes its coverage of scientific breakthroughs and technological innovations. [Company/country verification](https://interestingengineering.com/about-us).

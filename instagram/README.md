@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were checked: the eight populated files contained 50 existing profiles and the remaining 43 files contained no Instagram profile links. The 25 proposed profiles were checked against every existing handle and against one another. No duplicate was added; the shortlist now contains **75 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 78 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **82 unique profiles**.
 
 ## Current verified shortlist
 
@@ -97,8 +97,12 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@meta](https://www.instagram.com/meta/) | English | 2026-10-15 |
 | United States | [@mkbhd](https://www.instagram.com/mkbhd/) | English | 2026-10-27 |
 | Spain | [@ai.withphil](https://www.instagram.com/ai.withphil/) | English | 2026-10-19 |
+| Spain | [@pabloprompt](https://www.instagram.com/pabloprompt/) | Spanish | 2026-10-21 |
 | United States | [@uncover.ai](https://www.instagram.com/uncover.ai/) | English | 2026-10-20 and 2026-10-25 |
 | United States | [@mollymahoneyofficial](https://www.instagram.com/mollymahoneyofficial/) | English | 2026-10-14 |
+| United States | [@futurism](https://www.instagram.com/futurism/) | English | 2026-10-27 and 2026-10-28 |
+| United States | [@arstechnica](https://www.instagram.com/arstechnica/) | English | 2026-10-23 |
+| United States | [@interestingengineering](https://www.instagram.com/interestingengineering/) | English | 2026-10-26, 2026-10-27, 2026-10-29 and 2026-10-31 |
 
 ## Country totals
 
@@ -109,11 +113,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 3 |
-| Spain | 3 |
+| Spain | 4 |
 | Switzerland | 1 |
 | United Kingdom | 11 |
-| United States | 45 |
-| **Total** | **78** |
+| United States | 48 |
+| **Total** | **82** |
 
 ## Evidence sources
 
@@ -165,3 +169,10 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
+
+## Evidence added in V 0.15
+
+- Spain — [@pabloprompt October 21 AI-video-creation Instagram post](https://imginn.com/p/Dew4Vq4I0ix/); the public bio describes the creator as an AI video creator and audiovisual-AI educator; [InfluData's Spain Technology & Gadgets ranking](https://infludata.com/de/rankings/top-20-influencer-spain-tech-instagram) attributes the creator to Spain.
+- United States — [@futurism October 27 AI-industry post](https://imginn.com/p/DfA0DbJF2i4/) and [October 28 AI/data-center post](https://imginn.com/p/DfDaZg2l8Q_/); [Futurism's official About page](https://futurism.com/about) confirms its New York City base and technology/science editorial mission.
+- United States — [@arstechnica October 23 Instagram post](https://imginn.com/p/De12LhqAQpS/); [Ars Technica's official About page](https://arstechnica.com/about-us/) describes its coverage of technology, software, hardware and gadgets; [the account profile archive](https://imginn.com/arstechnica/) shows recent posting activity and its technology-focused bio.
+- United States — [@interestingengineering October 26 wearable touchscreen post](https://imginn.com/p/De9saqKjnxN/), [October 27 robotics post](https://imginn.com/p/DfA_PGAiWXk/) and [October 29 SpaceX Starship post](https://imginn.com/p/DfGCEDgAnxS/); [the official About page](https://interestingengineering.com/about-us) lists New York as headquarters and describes the publication's focus on scientific breakthroughs and technological innovations.
