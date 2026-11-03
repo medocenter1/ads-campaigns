@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 122 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `michael.truch` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **123 unique profiles**.....
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 123 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `johnnyhochstetler` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **124 unique profiles**.....
 
 ## Current verified shortlist
 
@@ -143,6 +143,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@jayztwocents](https://www.instagram.com/jayztwocents/) | English | 2026-10-20 |
 | United States | [@deepister.tech](https://www.instagram.com/deepister.tech/) | English | 2026-10-19 |
 | United States | [@theaifield](https://www.instagram.com/theaifield/) | English | 2026-10-25 |
+| United States | [@johnnyhochstetler](https://www.instagram.com/johnnyhochstetler/) | English | 2026-10-23 and 2026-10-29 |
 | United States | [@saladpictures_](https://www.instagram.com/saladpictures_/) | English | 2026-10-26 |
 
 ## Country totals
@@ -157,8 +158,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 15 |
-| United States | 75 |
-| **Total** | **123** |
+| United States | 76 |
+| **Total** | **124** |
 
 ## Evidence sources
 
@@ -259,6 +260,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - United States — [@911reviews Instagram profile](https://www.instagram.com/911reviews/) is a Tampa-based technology and product-review account. Its own creator page describes the Instagram channel as covering consumer technology, gadgets and product demonstrations; influData places @911reviews in Tampa, United States, in its Technology & Gadgets Instagram ranking. [Creator's Instagram description](https://www.911reviews.com/instagram/); [Tampa / US Technology & Gadgets ranking](https://infludata.com/rankings/top-20-influencer-united-states-of-america-tech-instagram). Activity check: HypeAuditor's Instagram history records total posts rising from 1,120 on 2026-10-03 to 1,125 on 2026-10-09, 1,126 on 2026-10-10 and 1,127 on 2026-10-15/17, which confirms new Instagram publishing within the last month; Social Blade's newer crawl also reports 1,132 media items. [Dated post-count history and technology categories](https://hypeauditor.com/instagram/911reviews/); [newer public media count](https://socialblade.com/instagram/user/911reviews); [recent public post/profile archive with tech-product examples](https://pictame.com/en/instagram/911reviews/5493776103). English is the language used in the account's public creator description and recent product-review captions.
 
+- United States — [@johnnyhochstetler's public Instagram bio](https://imginn.com/johnnyhochstetler/) identifies the creator as a Tech & Lifestyle publisher based in Austin, Texas; this supports United States attribution and the English-language profile. His [October 23, 2026 post](https://imginn.com/p/De2RF9ehzbx/) discusses an Apple event and iPhone Duo, and his [October 29, 2026 post](https://imginn.com/p/DfFgv_OGLlg/) covers another Apple event and related technology content. AuditMySocials' November 2026 review describes the account as an Austin-based technology creator and reports 16 public posts within the preceding 30 days. [Recent activity / technology-content audit](https://auditmysocials.com/instagram-audit/johnnyhochstetler).
 
 ## Evidence added in V 0.28
 
@@ -311,3 +313,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.38
 
 - Germany — [@michael.truch Instagram profile](https://www.instagram.com/michael.truch/) describes Michael as a tech enthusiast and specialist in AI and data science; Nindo labels the channel DE. A public [October 23, 2026 post](https://imginn.com/p/De2FWSZuNzG/) explains how AI-assisted security research uncovered critical PHP vulnerabilities and discusses software patching and cybersecurity; the caption is in German. Feedspot lists @michael.truch in its German Tech Influencers directory and gives Germany as the creator's location. [Nindo profile, DE marker and bio](https://nindo.de/michael.truch/stats/0dc8ea860932458817bff05a152ec3c809601c9f); [October 23 post](https://imginn.com/p/De2FWSZuNzG/); [Feedspot German technology directory](https://influencers.feedspot.com/german_tech_instagram_influencers/).
+
+
+## Evidence added in V 0.39
+
+- United States — [@johnnyhochstetler Instagram profile](https://www.instagram.com/johnnyhochstetler/) is publicly presented as a technology and lifestyle creator in Austin, Texas, with English-language content. The public [October 23, 2026 post](https://imginn.com/p/De2RF9ehzbx/) describes an Apple event and iPhone Duo; the [October 29, 2026 post](https://imginn.com/p/DfFgv_OGLlg/) continues the Apple/technology coverage. The activity audit reports 16 posts in the prior 30 days as of its November 2026 review. [Profile bio and Austin location](https://imginn.com/johnnyhochstetler/); [October 23 post](https://imginn.com/p/De2RF9ehzbx/); [October 29 post](https://imginn.com/p/DfFgv_OGLlg/); [technology focus and recent-post audit](https://auditmysocials.com/instagram-audit/johnnyhochstetler/).

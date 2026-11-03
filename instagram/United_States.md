@@ -534,3 +534,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-26
   - Evidence: [October 26, 2026 Instagram Reel about building a laptop](https://universe.beacons.ai/brands/framework)
   - Note: The creator's public bio describes her content as “tech • lifestyle • pc builds”; Storika classifies the creator under AI & Technology in the United States, while Crevideo independently identifies the same creator profile as US-based. [Creator bio and PC-building niche](https://influencers.feedspot.com/pc_building_instagram_influencers/); [United States / AI & Technology creator listing](https://www.storika.ai/creators/page/3); [US profile cross-check](https://crevideo.com/tiktok/saladpictures_).
+
+- **Profile:** [@johnnyhochstetler](https://www.instagram.com/johnnyhochstetler/)
+  - Content language: English
+  - Technology focus: Consumer technology, Apple devices, iPhone and iOS features, MacBook/computer products, technology events and hands-on product coverage
+  - Qualifying posts observed: 2026-10-23 and 2026-10-29
+  - Evidence: [October 23 post about an Apple event and iPhone Duo](https://imginn.com/p/De2RF9ehzbx/) and [October 29 post about another Apple event](https://imginn.com/p/DfFgv_OGLlg/)
+  - Note: The public Instagram profile bio identifies Austin, Texas; the captions are in English. AuditMySocials describes the account as an Austin-based technology creator and reports 16 posts within the prior 30 days in its November 2026 review. [Public profile and Austin, TX bio](https://imginn.com/johnnyhochstetler/); [recent-post and technology-content audit](https://auditmysocials.com/instagram-audit/johnnyhochstetler/)
