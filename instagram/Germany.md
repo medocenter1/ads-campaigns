@@ -31,3 +31,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 27 Instagram post](https://imginn.com/p/De_wJTGoCNB/) and [Nindo account activity](https://nindo.de/en/iliasbsd/stats/3b9cc168837302648aa95a9bc923342f3a8d4f87)
   - Note: Nindo reported 7 posts in the preceding 30 days and a last post 6 days before its November 3 snapshot; country cross-check: [Hamburg business imprint](https://linktr.ee/iliasbsd) and [Germany creator listing](https://influencers.feedspot.com/german_tech_instagram_influencers/).
 
+- **Profile:** [@yoragitech](https://www.instagram.com/yoragitech/)
+  - Content language: German
+  - Technology focus: Android, smartphone features, WhatsApp functions and practical tech tips
+  - Qualifying post observed: 2026-10-18
+  - Evidence: [October 18 Instagram post](https://imginn.com/p/Deo8ZSiNBxu/)
+  - Note: The post demonstrates a WhatsApp feature and is tagged with Android and WhatsApp; Germany/location cross-check: [Feedspot German tech creator listing, which identifies Würzburg](https://influencers.feedspot.com/german_tech_instagram_influencers/).
+

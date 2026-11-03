@@ -66,3 +66,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 23 Instagram post](https://imginn.com/p/De1vK7RR-u5/) and [October 21 Instagram post](https://imginn.com/p/DexABjKgjfL/)
   - Note: Country cross-check: [US-based creator profile](https://sup.co/creators/tech/ugc) links this Instagram account from the creator's Florida-based related profile; the account's public Instagram analysis classifies it as a Tech & AI creator: https://instme.com/profile/techwithmel.ai.
 
+- **Profile:** [@soojintech](https://www.instagram.com/soojintech/)
+  - Content language: English
+  - Technology focus: AI fundamentals, software engineering, RAG, MCP, embeddings, AI agents and coding tools
+  - Qualifying posts observed: 2026-10-14 and 2026-10-16
+  - Evidence: [October 14 AI fundamentals post](https://imginn.com/p/DefmtgohlQ7/) and [October 16 AI learning post](https://imginn.com/p/DekOYkmBbqz/)
+  - Note: [CreatorDB identifies the creator as a New York City-based software engineer focused on AI coding tools](https://creatordb.app/creatorstats/soojintech/); [UGC Agent lists the account as a US-based English-language Instagram tech creator](https://ugcagent.app/creators/instagram/soojintech/).
+
+- **Profile:** [@carol.yaps](https://www.instagram.com/carol.yaps/)
+  - Content language: English
+  - Technology focus: ChatGPT, knowledge graphs, AI-assisted learning and productivity workflows
+  - Qualifying post observed: 2026-10-14
+  - Evidence: [October 14 ChatGPT Work post](https://imginn.com/p/Dee-0a6BP_X/)
+  - Note: [UGC Agent lists the account as a US-based English-language Instagram tech creator](https://ugcagent.app/creators/instagram/carol.yaps/).
+
