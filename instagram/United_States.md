@@ -437,3 +437,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying Instagram posts observed: 2026-10-26 and 2026-10-27
   - Evidence: [October 26 Oppo smartphone Reel and October 27 iPhone Duo front-camera Reel](https://app.fohr.co/creators/milesabovetech-gmail-com)
   - Note: Fohr identifies Miles Franklin as an Austin, Texas-based technology reviewer, product demonstrator and tech educator; his recent Instagram content is in English.
+
+- **Profile:** [@echainzzzz](https://www.instagram.com/echainzzzz/)
+  - Content language: English
+  - Technology focus: Smartphone and iPhone app reviews, consumer electronics, gaming gadgets, device accessories and desk/phone setups
+  - Qualifying Instagram post observed: 2026-10-23
+  - Evidence: [October 23 public Instagram posts on iPhone apps and technology accessories](https://universe.beacons.ai/creators/echainzzzz)
+  - Note: Fohr classifies Erick Chanez as a technology reviewer focused on Apple products, consumer electronics and gaming gadgets. His 2026 media kit identifies Miami, Florida as his base and links the Instagram handle @echainzzzz. [Fohr technology profile](https://app.fohr.co/creators/echainz); [creator media kit and location](https://echainzz.com/mediakit/).
+
+- **Profile:** [@unclejessy4real](https://www.instagram.com/unclejessy4real/)
+  - Content language: English
+  - Technology focus: 3D printers, 3D scanners, full-color and resin printing, maker technology, technical builds and software-assisted fabrication
+  - Qualifying Instagram posts observed: 2026-10-29 and 2026-10-30
+  - Evidence: [October 29 full-color UV 3D-printing post and October 30 CJ270 full-color 3D-printer post](https://universe.beacons.ai/creators/unclejessy4real)
+  - Note: Scout identifies Uncle Jessy as US-based and English-language in Technology & Software; his creator bio describes 3D printing and technology. [Creator/country/language profile](https://www.babbl-labs.com/creators/unclejessy); [3D-printing creator directory](https://infldb.com/top-influencers-by-category/3d%20printing).
