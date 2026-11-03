@@ -367,3 +367,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-13
   - Evidence: [October 13 post about Claude's AI moderation rules](https://imginn.com/p/Dea2-J-AQiG/)
   - Note: Leewou's creator profile identifies Carter Smith / @carterpcs_ as a US-based creator and describes his technology-focused account. [Country/niche verification](https://leewou.com/analyze/instagram/instagram-carter-smith-analysis).
+
+- **Profile:** [@iamrawan](https://www.instagram.com/iamrawan/)
+  - Content language: English
+  - Technology focus: AI software, Claude, productivity tools, technology careers and practical software workflows
+  - Qualifying post observed: 2026-10-09
+  - Evidence: [October 9 Instagram post explaining how to use Claude to improve job applications](https://imginn.com/p/DeR7TDIRjic/)
+  - Note: Modash identifies Rawan as a US-based creator in NYC with a public bio describing tech, career, travel and personal finance content. [Country/niche cross-check](https://www.modash.io/content-library/brands/claude-examples/influencers).
+
+- **Profile:** [@sundaskhalidd](https://www.instagram.com/sundaskhalidd/)
+  - Content language: English
+  - Technology focus: Artificial intelligence, data science, SQL, Python, machine learning, developer tools and technology careers
+  - Qualifying activity observed: 15 Instagram posts in the 30-day window ending 2026-11-01; most recent post was 2 days before the audit
+  - Evidence: [Instagram activity audit checked November 1, 2026](https://auditmysocials.com/instagram-audit/sundaskhalidd)
+  - Note: The creator's bio identifies her as a Seattle/San Francisco-based former Google data scientist focused on AI, data science and technology. CreatorDB also classifies the account as US-based Tech & Data Science. [Creator profile and country/niche cross-check](https://creatordb.app/creatorstats/sundaskhalidd/).

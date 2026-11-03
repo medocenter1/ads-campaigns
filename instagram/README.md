@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 86 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **90 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 90 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **94 unique profiles**.
 
 ## Current verified shortlist
 
@@ -75,11 +75,13 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@sreyahalder](https://www.instagram.com/sreyahalder/) | English | 2026-10-21 |
 | France | [@squarpinstruments](https://www.instagram.com/squarpinstruments/) | English | 2026-10-05 |
 | Germany | [@boschglobal](https://www.instagram.com/boschglobal/) | English | 2026-10-07 |
+| Germany | [@herr_tech](https://www.instagram.com/herr_tech/) | German | 159 posts in last 30 days; latest 2 days before snapshot |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
 | United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
 | United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
 | United Kingdom | [@nothing](https://www.instagram.com/nothing/) | English | 2026-10-24 |
 | United Kingdom | [@georgiebarrat](https://www.instagram.com/georgiebarrat/) | English | 2026-10-20 |
+| United Kingdom | [@techbible.ai](https://www.instagram.com/techbible.ai/) | English | 2026-10-25 and 2026-10-26 |
 | United States | [@apple](https://www.instagram.com/apple/) | English | 2026-10-27 |
 | United States | [@google](https://www.instagram.com/google/) | English | 2026-10-27 |
 | United States | [@amazon](https://www.instagram.com/amazon/) | English | 2026-10-29 |
@@ -111,21 +113,23 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@satechi](https://www.instagram.com/satechi/) | English | 2026-10-27 and 2026-10-28 |
 | United States | [@ufd_tech](https://www.instagram.com/ufd_tech/) | English | 2026-10-28 |
 | United States | [@carterpcs_](https://www.instagram.com/carterpcs_/) | English | 2026-10-13 |
+| United States | [@iamrawan](https://www.instagram.com/iamrawan/) | English | 2026-10-09 |
+| United States | [@sundaskhalidd](https://www.instagram.com/sundaskhalidd/) | English | 15 posts in 30-day window; latest 2 days before Nov 1 audit |
 
 ## Country totals
 
 | Country | Accounts |
 |---|---:|
 | France | 5 |
-| Germany | 8 |
+| Germany | 9 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 5 |
 | Spain | 6 |
 | Switzerland | 1 |
-| United Kingdom | 11 |
-| United States | 52 |
-| **Total** | **90** |
+| United Kingdom | 12 |
+| United States | 54 |
+| **Total** | **94** |
 
 ## Evidence sources
 
@@ -190,3 +194,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - Netherlands — [@soyisaluna October 20 Whoop wearable/gadget post](https://imginn.com/p/Deuchz6omV9/) and [October 21 Oppo/Android unboxing](https://imginn.com/p/DewtSJGsh7Y/); [influData's Netherlands Technology & Gadgets ranking identifies the creator's location as Amsterdam](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram). [@yury.ai October 20 AI/Claude/ChatGPT workflow post](https://imginn.com/p/Deu24KoDMx4/); [influData lists the account in its Netherlands technology creator ranking](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram).
 - United States — [@ufd_tech October 28 AI-industry post](https://imginn.com/p/DfBTzJuCCjH/); [Zaver profile verifies its US location and technology/gadgets/AI-ML classification](https://zaver.one/creators/instagram/ufd_tech). [@carterpcs_ October 13 Claude/AI post](https://imginn.com/p/Dea2-J-AQiG/); [Leewou creator profile identifies Carter Smith as US-based and technology-focused](https://leewou.com/analyze/instagram/instagram-carter-smith-analysis).
+
+- Germany — [@herr_tech Nindo Instagram statistics](https://nindo.de/en/startupcreator/stats/e50e85aa0830cbd60915ff99d8a230e39d3d78b7) report 159 posts in 30 days and a last post 2 days before the snapshot; [CreatorDB identifies the creator as Germany-based, German-language AI & Technology](https://creatordb.app/creatorstats/herr_tech/).
+- United Kingdom — [@techbible.ai October 25 Reel on hybrid search and AI tool discovery](https://app.fohr.co/creators/techbible) and [October 26 cybersecurity Reel](https://www.pixnoy.com/profile/techbible.ai/); [Fohr identifies Ghita El Haitmy as a London-based AI founder, software engineer and educator](https://app.fohr.co/creators/techbible).
+- United States — [@iamrawan October 9 Claude workflow Instagram post](https://imginn.com/p/DeR7TDIRjic/); [Modash identifies Rawan as a NYC-based creator with a tech/career focus](https://www.modash.io/content-library/brands/claude-examples/influencers). [@sundaskhalidd activity audit checked November 1 reports 15 posts in the previous 30 days and a latest post 2 days earlier](https://auditmysocials.com/instagram-audit/sundaskhalidd); [CreatorDB confirms her US-based Tech & Data Science positioning](https://creatordb.app/creatorstats/sundaskhalidd/).

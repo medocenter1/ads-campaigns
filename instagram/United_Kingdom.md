@@ -79,3 +79,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-20
   - Evidence: [Instagram post](https://imginn.com/p/DeuhQ7PoWSG/)
   - Note: Georgie Barrat is a UK technology presenter and former Gadget Show host; her public work focuses on making technology and AI useful and accessible. [Country/company cross-check](https://www.georgiebarrat.com/about/).
+
+- **Profile:** [@techbible.ai](https://www.instagram.com/techbible.ai/)
+  - Content language: English
+  - Technology focus: AI tools, SaaS discovery, software workflows, cybersecurity, AI agents and technology/startup education
+  - Qualifying posts observed: 2026-10-25 and 2026-10-26
+  - Evidence: [October 25 Instagram Reel on hybrid search and AI tool discovery](https://app.fohr.co/creators/techbible) and [October 26 Reel on cybersecurity and a private-key mistake](https://www.pixnoy.com/profile/techbible.ai/)
+  - Note: Fohr identifies Ghita El Haitmy as a London-based AI founder, software engineer and educator and links her Instagram account as @techbible.ai. [Country and professional profile](https://app.fohr.co/creators/techbible).

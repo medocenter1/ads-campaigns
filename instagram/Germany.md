@@ -58,3 +58,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-07
   - Evidence: [Instagram post](https://imginn.com/p/DeMM9OhCB14/)
   - Note: Bosch is a German engineering and technology group. [Country/company cross-check](https://www.bosch.com/company/).
+
+- **Profile:** [@herr_tech](https://www.instagram.com/herr_tech/)
+  - Content language: German
+  - Technology focus: Artificial intelligence, ChatGPT, Claude, AI tools, automation workflows, software productivity and practical AI tutorials
+  - Qualifying activity observed: Within the 30-day window; Nindo reports 159 posts in 30 days and the latest post 2 days before its snapshot
+  - Evidence: [Nindo Instagram channel statistics and posting activity](https://nindo.de/en/startupcreator/stats/e50e85aa0830cbd60915ff99d8a230e39d3d78b7)
+  - Note: CreatorDB identifies Herr_Tech as a Germany-based, German-language AI and technology creator; its profile also records Instagram activity. [Country, language and niche cross-check](https://creatordb.app/creatorstats/herr_tech/).
