@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 123 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `johnnyhochstetler` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **124 unique profiles**.....
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 124 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `mattmurphyai` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **125 unique profiles**.
 
 ## Current verified shortlist
 
@@ -146,6 +146,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@johnnyhochstetler](https://www.instagram.com/johnnyhochstetler/) | English | 2026-10-23 and 2026-10-29 |
 | United States | [@saladpictures_](https://www.instagram.com/saladpictures_/) | English | 2026-10-26 |
 
+| United States | [@mattmurphyai](https://www.instagram.com/mattmurphyai/) | English | 2026-10-26 and 2026-10-28 |
+
 ## Country totals
 
 | Country | Accounts |
@@ -158,8 +160,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 15 |
-| United States | 76 |
-| **Total** | **124** |
+| United States | 77 |
+| **Total** | **125** |
 
 ## Evidence sources
 
@@ -205,9 +207,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 - United States — [@meta post dated 2026-10-15](https://imginn.com/p/DehVNQhuxG1/); [country/company verification](https://about.meta.com/).
 - United States — [@mkbhd post dated 2026-10-27](https://imginn.com/p/DfAtZXGRAai/); [country/company verification](https://creator-data.com/creator/marques-browniee).
 
+- United States — [@mattmurphyai October 26 post on GPU infrastructure and open-weight AI models](https://imginn.com/p/De9d7hagt6G/) and [October 28 post on model selection and Qwen](https://imginn.com/p/DfDLJk3DDP8/); [Matt Murphy's official site identifies him as Dallas-based](https://mattmurphy.ai/), and [Faction Group confirms his CEO/founder role](https://gofactiongroup.com/about/). The [public Instagram profile archive](https://imginn.com/mattmurphyai/) lists the CEO @ The Faction Group / AI-directed engineer bio.
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 112-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 125-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -318,3 +322,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.39
 
 - United States — [@johnnyhochstetler Instagram profile](https://www.instagram.com/johnnyhochstetler/) is publicly presented as a technology and lifestyle creator in Austin, Texas, with English-language content. The public [October 23, 2026 post](https://imginn.com/p/De2RF9ehzbx/) describes an Apple event and iPhone Duo; the [October 29, 2026 post](https://imginn.com/p/DfFgv_OGLlg/) continues the Apple/technology coverage. The activity audit reports 16 posts in the prior 30 days as of its November 2026 review. [Profile bio and Austin location](https://imginn.com/johnnyhochstetler/); [October 23 post](https://imginn.com/p/De2RF9ehzbx/); [October 29 post](https://imginn.com/p/DfFgv_OGLlg/); [technology focus and recent-post audit](https://auditmysocials.com/instagram-audit/johnnyhochstetler/).
+
+
+## Evidence added in V 0.40
+
+- United States — [@mattmurphyai Instagram profile](https://www.instagram.com/mattmurphyai/) publishes English-language content about AI engineering, large language models, open-weight models, GPU infrastructure and software systems. Its public [October 26, 2026 post](https://imginn.com/p/De9d7hagt6G/) discusses renting GPU infrastructure to run self-hosted open-weight models; its [October 28, 2026 post](https://imginn.com/p/DfDLJk3DDP8/) discusses selecting AI models for different jobs, including Qwen. The profile bio identifies Matt Murphy as CEO of The Faction Group and an AI-directed engineer; his official site identifies him as Dallas-based, and the company's leadership page confirms his role. [Profile archive](https://imginn.com/mattmurphyai/); [official bio and Dallas location](https://mattmurphy.ai/); [Faction Group leadership page](https://gofactiongroup.com/about/).

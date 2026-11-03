@@ -541,3 +541,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-23 and 2026-10-29
   - Evidence: [October 23 post about an Apple event and iPhone Duo](https://imginn.com/p/De2RF9ehzbx/) and [October 29 post about another Apple event](https://imginn.com/p/DfFgv_OGLlg/)
   - Note: The public Instagram profile bio identifies Austin, Texas; the captions are in English. AuditMySocials describes the account as an Austin-based technology creator and reports 16 posts within the prior 30 days in its November 2026 review. [Public profile and Austin, TX bio](https://imginn.com/johnnyhochstetler/); [recent-post and technology-content audit](https://auditmysocials.com/instagram-audit/johnnyhochstetler/)
+
+- **Profile:** [@mattmurphyai](https://www.instagram.com/mattmurphyai/)
+  - Content language: English
+  - Technology focus: Artificial intelligence, large language models, open-weight models, GPU infrastructure, APIs, self-hosted AI systems and software engineering
+  - Qualifying posts observed: 2026-10-26 and 2026-10-28
+  - Evidence: [October 26 post on renting GPU infrastructure and self-hosted open-weight models](https://imginn.com/p/De9d7hagt6G/) and [October 28 post on model selection, Qwen and AI infrastructure](https://imginn.com/p/DfDLJk3DDP8/)
+  - Note: The public Instagram bio identifies Matt Murphy as CEO of The Faction Group and an AI-directed engineer. His official site identifies him as Dallas-based; the Faction Group leadership page confirms his CEO/founder role. [Instagram profile archive](https://imginn.com/mattmurphyai/); [official bio and Dallas location](https://mattmurphy.ai/); [Faction Group leadership](https://gofactiongroup.com/about/)
