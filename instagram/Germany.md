@@ -72,3 +72,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying activity observed: 28 Instagram posts in the preceding 30 days; latest post approximately 2026-11-01 (two days before the 2026-11-03 snapshot)
   - Evidence: [Nindo Instagram channel statistics and 30-day posting activity](https://nindo.de/bens-hardware/stats/a61424ffa7967041026e912e2d6dee5eb64b8fb5)
   - Note: The German tech-creator directory identifies Ben as a Germany-based PC/hardware creator and lists Munich; another creator profile confirms Germany, and the channel is marked DE. [Feedspot German tech creator listing](https://influencers.feedspot.com/german_tech_instagram_influencers/); [Germany-based creator profile](https://socialveins.com/influencer/instagram/bens_hardware); [channel language / Instagram link](https://streamersbase.de/streamers/bens_hardware)
+
+- **Profile:** [@hardwaredealz](https://www.instagram.com/hardwaredealz/)
+  - Content language: German
+  - Technology focus: PC hardware, custom gaming-PC builds, component recommendations and computer-performance testing
+  - Qualifying activity observed: 9 Instagram posts in the 30 days before the 2026-11-03 Nindo snapshot; latest post approximately 2026-10-28 (6 days before the snapshot)
+  - Evidence: [Nindo Instagram channel statistics and 30-day activity](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1)
+  - Note: Nindo labels the channel DE and the bio states “Tech, Hardware, Gaming PCs”; Socialveins identifies @hardwaredealz as based in Germany. [Germany location and public bio](https://socialveins.com/influencer/instagram/hardwaredealz); [German-language activity and niche](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1)

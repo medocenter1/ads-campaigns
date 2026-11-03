@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 112 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `bens_hardware` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **113 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 113 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `hardwaredealz` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **114 unique profiles**.
 
 ## Current verified shortlist
 
@@ -79,6 +79,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Germany | [@boschglobal](https://www.instagram.com/boschglobal/) | English | 2026-10-07 |
 | Germany | [@herr_tech](https://www.instagram.com/herr_tech/) | German | 159 posts in last 30 days; latest 2 days before snapshot |
 | Germany | [@bens_hardware](https://www.instagram.com/bens_hardware/) | German | 2026-11-01 (28 posts / 30 days in Nindo snapshot) |
+| Germany | [@hardwaredealz](https://www.instagram.com/hardwaredealz/) | German | 2026-10-28; 9 posts / 30 days in Nindo snapshot |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
 | United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
 | United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
@@ -140,7 +141,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Country | Accounts |
 |---|---:|
 | France | 6 |
-| Germany | 10 |
+| Germany | 11 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 6 |
@@ -148,7 +149,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Switzerland | 1 |
 | United Kingdom | 14 |
 | United States | 68 |
-| **Total** | **113** |
+| **Total** | **114** |
 
 ## Evidence sources
 
@@ -267,3 +268,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.31
 
 - Germany — [@bens_hardware Instagram profile](https://www.instagram.com/bens_hardware/). Its bio describes custom PC building and hardware. Nindo's Instagram channel snapshot marks the account DE, records 28 contributions in the preceding 30 days and places the latest post about two days before the November 3, 2026 snapshot (approximately November 1). [Nindo Instagram activity and language marker](https://nindo.de/bens-hardware/stats/a61424ffa7967041026e912e2d6dee5eb64b8fb5). [Feedspot's German technology-creator list](https://influencers.feedspot.com/german_tech_instagram_influencers/) lists Ben in Germany/Munich and describes PC building and hardware; [Socialveins confirms Germany and the account bio](https://socialveins.com/influencer/instagram/bens_hardware); [StreamersBase records German channel language and links the Instagram account](https://streamersbase.de/streamers/bens_hardware).
+
+## Evidence added in V 0.32
+
+- Germany — [@hardwaredealz Instagram profile](https://www.instagram.com/hardwaredealz/). Nindo's November 3, 2026 snapshot marks the channel DE, describes it as “Tech, Hardware, Gaming PCs”, records 9 Instagram posts in the preceding 30 days and shows the latest post 6 days earlier (approximately October 28). [Nindo channel statistics and post activity](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1). Socialveins independently identifies the creator's location as Germany and reproduces the technology / PC-hardware bio. [Germany location and profile description](https://socialveins.com/influencer/instagram/hardwaredealz).
