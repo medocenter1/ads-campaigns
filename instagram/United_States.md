@@ -548,3 +548,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-26 and 2026-10-28
   - Evidence: [October 26 post on renting GPU infrastructure and self-hosted open-weight models](https://imginn.com/p/De9d7hagt6G/) and [October 28 post on model selection, Qwen and AI infrastructure](https://imginn.com/p/DfDLJk3DDP8/)
   - Note: The public Instagram bio identifies Matt Murphy as CEO of The Faction Group and an AI-directed engineer. His official site identifies him as Dallas-based; the Faction Group leadership page confirms his CEO/founder role. [Instagram profile archive](https://imginn.com/mattmurphyai/); [official bio and Dallas location](https://mattmurphy.ai/); [Faction Group leadership](https://gofactiongroup.com/about/)
+
+- **Profile:** [@detroitborg](https://www.instagram.com/detroitborg/)
+  - Content language: English
+  - Technology focus: Consumer technology, smartphones, Apple devices, tablets, computers and gadget coverage
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [October 23, 2026 “Duo Day!” post](https://imginn.com/p/De2M_vVFVhS/)
+  - Note: Socialveins identifies Michael Kukielka (@detroitborg) as based in Michigan, United States, and categorizes the account under Technology. The profile bio reads “Technology Assimilated!”; the October 23 post features consumer devices and its English caption is “Duo Day!”. [Creator location and technology category](https://socialveins.com/influencer/instagram/detroitborg); [public dated Instagram post](https://imginn.com/p/De2M_vVFVhS/)

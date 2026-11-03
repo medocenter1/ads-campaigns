@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 124 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `mattmurphyai` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **125 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 125 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `detroitborg` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **126 unique profiles**.
 
 ## Current verified shortlist
 
@@ -148,6 +148,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 | United States | [@mattmurphyai](https://www.instagram.com/mattmurphyai/) | English | 2026-10-26 and 2026-10-28 |
 
+
+| United States | [@detroitborg](https://www.instagram.com/detroitborg/) | English | 2026-10-23 |
 ## Country totals
 
 | Country | Accounts |
@@ -160,8 +162,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 15 |
-| United States | 77 |
-| **Total** | **125** |
+| United States | 78 |
+| **Total** | **126** |
 
 ## Evidence sources
 
@@ -209,9 +211,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 - United States — [@mattmurphyai October 26 post on GPU infrastructure and open-weight AI models](https://imginn.com/p/De9d7hagt6G/) and [October 28 post on model selection and Qwen](https://imginn.com/p/DfDLJk3DDP8/); [Matt Murphy's official site identifies him as Dallas-based](https://mattmurphy.ai/), and [Faction Group confirms his CEO/founder role](https://gofactiongroup.com/about/). The [public Instagram profile archive](https://imginn.com/mattmurphyai/) lists the CEO @ The Faction Group / AI-directed engineer bio.
 
+- United States — [@detroitborg October 23, 2026 “Duo Day!” Instagram post](https://imginn.com/p/De2M_vVFVhS/); [Socialveins profile identifies Michael Kukielka as a Michigan, United States technology creator](https://socialveins.com/influencer/instagram/detroitborg).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 125-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 126-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -327,3 +331,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.40
 
 - United States — [@mattmurphyai Instagram profile](https://www.instagram.com/mattmurphyai/) publishes English-language content about AI engineering, large language models, open-weight models, GPU infrastructure and software systems. Its public [October 26, 2026 post](https://imginn.com/p/De9d7hagt6G/) discusses renting GPU infrastructure to run self-hosted open-weight models; its [October 28, 2026 post](https://imginn.com/p/DfDLJk3DDP8/) discusses selecting AI models for different jobs, including Qwen. The profile bio identifies Matt Murphy as CEO of The Faction Group and an AI-directed engineer; his official site identifies him as Dallas-based, and the company's leadership page confirms his role. [Profile archive](https://imginn.com/mattmurphyai/); [official bio and Dallas location](https://mattmurphy.ai/); [Faction Group leadership page](https://gofactiongroup.com/about/).
+
+
+## Evidence added in V 0.41
+
+- United States — [@detroitborg Instagram profile](https://www.instagram.com/detroitborg/) belongs to Michael Kukielka, a technology creator based in Michigan, United States. His public bio reads “Technology Assimilated!” and Socialveins categorizes the account under Technology. A public post dated [October 23, 2026](https://imginn.com/p/De2M_vVFVhS/) features consumer devices and is captioned “Duo Day!”, satisfying the one-post activity requirement for October 3–November 3, 2026. [Creator location and technology category](https://socialveins.com/influencer/instagram/detroitborg); [dated post evidence](https://imginn.com/p/De2M_vVFVhS/).
