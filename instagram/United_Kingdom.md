@@ -86,3 +86,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-25 and 2026-10-26
   - Evidence: [October 25 Instagram Reel on hybrid search and AI tool discovery](https://app.fohr.co/creators/techbible) and [October 26 Reel on cybersecurity and a private-key mistake](https://www.pixnoy.com/profile/techbible.ai/)
   - Note: Fohr identifies Ghita El Haitmy as a London-based AI founder, software engineer and educator and links her Instagram account as @techbible.ai. [Country and professional profile](https://app.fohr.co/creators/techbible).
+
+- **Profile:** [@digiportuk](https://www.instagram.com/digiportuk/)
+  - Content language: English
+  - Technology focus: Custom PC builds and repairs, PC hardware, gaming systems, GPU/CPU cooling, computer networking and consumer computing
+  - Qualifying post observed: 2026-11-01
+  - Evidence: [November 1 Instagram post about Wi-Fi readiness for GTA 6 and its approximately 210 GB download](https://www.instagram.com/p/DfNPfFhjCvf/)
+  - Note: Digiport describes itself as a computer-solutions company offering PC repairs and custom builds. Its public creator profile lists recent Instagram posts; the November 2 location update identifies its business with Pontnewydd/Cwmbran, Wales, UK. [Creator profile and dated posts](https://universe.beacons.ai/creators/digiportuk); [Cwmbran Community Council](https://www.cwmbran.gov.uk/).
