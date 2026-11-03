@@ -147,9 +147,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@saladpictures_](https://www.instagram.com/saladpictures_/) | English | 2026-10-26 |
 
 | United States | [@mattmurphyai](https://www.instagram.com/mattmurphyai/) | English | 2026-10-26 and 2026-10-28 |
-
-
 | United States | [@detroitborg](https://www.instagram.com/detroitborg/) | English | 2026-10-23 |
+
 ## Country totals
 
 | Country | Accounts |
