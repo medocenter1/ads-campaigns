@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 99 existing profiles (all distinct), while 42 files contained no Instagram profile links. The two new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **101 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 101 existing profiles (all distinct), while 42 files contained no Instagram profile links. The two new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **103 unique profiles**.
 
 ## Current verified shortlist
 
@@ -122,6 +122,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@teslamotors](https://www.instagram.com/teslamotors/) | English | 2026-10-14, 2026-10-16, 2026-10-17 and 2026-10-31 |
 | United States | [@fatihlabs](https://www.instagram.com/fatihlabs/) | English | 2026-10-26 and 2026-10-29 |
 | United States | [@setupspawn](https://www.instagram.com/setupspawn/) | English | Instagram post count increased by 7 between 2026-10-05 and 2026-10-17 |
+| United States | [@gyasilinje](https://www.instagram.com/gyasilinje/) | English | 2026-10-28, 2026-10-29 and 2026-10-31 |
+| United States | [@milesabovetech](https://www.instagram.com/milesabovetech/) | English | 2026-10-26 and 2026-10-27 |
 
 ## Country totals
 
@@ -135,8 +137,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 12 |
-| United States | 60 |
-| **Total** | **101** |
+| United States | 62 |
+| **Total** | **103** |
 
 ## Evidence sources
 
@@ -184,7 +186,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 75-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 103-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -214,3 +216,5 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - United States — [@fatihlabs October 26 CapCut World post](https://imginn.com/p/De8jbStm2M7/) and [October 29 AI-video post](https://imginn.com/p/DfFjUK5iQhK/); [public Instagram mirror profile](https://imginn.com/fatihlabs/) identifies the account as a California, USA-based AI creator; [Deecode Media House creator roster](https://www.deecodemediahouse.com/) lists fatihlabs in Tech and California.
 - United States — [@setupspawn activity snapshot](https://hypeauditor.com/instagram/setupspawn/) records the Instagram post count increasing from 1,717 on October 5 to 1,724 on October 17, 2026; the profile covers tech tips, tech humor, educational tech, gadgets and reviews. [CreatorDB's US-based Tech & PC Tips profile](https://creatordb.app/creatorstats/setupspawn/); [profile's Texas location and English-language tech/PC focus](https://solo.to/setupspawn); [creator's description of computer tips, programming and software background](https://www.patreon.com/MattyMctech/about).
+
+- United States — [@gyasilinje October 28, 29 and 31 Instagram posts](https://app.fohr.co/creators/gyasilinje); Fohr identifies Gyasi Calhoun as a Brooklyn/New York-based technology reviewer, product tester and software engineer, with English as the top audience language. [Creator profile and dated posts](https://app.fohr.co/creators/gyasilinje). [@milesabovetech October 26 and 27 Instagram Reels](https://app.fohr.co/creators/milesabovetech-gmail-com); Fohr identifies Miles Franklin as an Austin-based technology reviewer, product demonstrator and tech educator. [Creator profile and dated posts](https://app.fohr.co/creators/milesabovetech-gmail-com).

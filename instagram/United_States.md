@@ -423,3 +423,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying activity observed: Instagram post count increased from 1,717 on 2026-10-05 to 1,724 on 2026-10-17
   - Evidence: [HypeAuditor's October 2026 daily Instagram analytics](https://hypeauditor.com/instagram/setupspawn/) records the post-count increases during the activity window
   - Note: CreatorDB classifies Setupspawn as a United States-based Tech & PC Tips creator; the creator's public site lists Texas and English-language PC tips. [Country/niche verification](https://creatordb.app/creatorstats/setupspawn/); [creator profile and location](https://solo.to/setupspawn); [creator's own description](https://www.patreon.com/MattyMctech/about).
+
+- **Profile:** [@gyasilinje](https://www.instagram.com/gyasilinje/)
+  - Content language: English
+  - Technology focus: Consumer technology reviews, product testing, smartphones, laptops, headphones, smart-home devices, connected technology and electric-vehicle technology
+  - Qualifying Instagram posts observed: 2026-10-28, 2026-10-29 and 2026-10-31
+  - Evidence: [October 28 EV-technology Reel, October 29 smartphone post and October 31 headphone Reel](https://app.fohr.co/creators/gyasilinje)
+  - Note: Fohr identifies Gyasi Calhoun as a technology reviewer, product tester and former software engineer based in Brooklyn, New York; the creator profile lists English as the top audience language.
+
+- **Profile:** [@milesabovetech](https://www.instagram.com/milesabovetech/)
+  - Content language: English
+  - Technology focus: Smartphone reviews and unboxings, Android and iPhone features, laptop and MacBook coverage, headphones and consumer gadgets
+  - Qualifying Instagram posts observed: 2026-10-26 and 2026-10-27
+  - Evidence: [October 26 Oppo smartphone Reel and October 27 iPhone Duo front-camera Reel](https://app.fohr.co/creators/milesabovetech-gmail-com)
+  - Note: Fohr identifies Miles Franklin as an Austin, Texas-based technology reviewer, product demonstrator and tech educator; his recent Instagram content is in English.
