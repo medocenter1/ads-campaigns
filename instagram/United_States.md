@@ -395,3 +395,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-04 and 2026-10-24
   - Evidence: [October 4 post about OpenClaw AI agents](https://imginn.com/p/DeF1fawIHE-/) and [October 24 post about Android spyware and location permissions](https://imginn.com/p/De3oEBkoDlS/)
   - Note: CreatorDB identifies Eluna.Ai as a United States-based AI education/news account publishing in English; Hive Influence also lists @eluna.ai in its October 2026 US AI Instagram ranking. [Creator/location/language cross-check](https://creatordb.app/creatorstats/elunaai/).
+
+- **Profile:** [@thinkwithmark](https://www.instagram.com/thinkwithmark/)
+  - Content language: English
+  - Technology focus: Smart reading hardware, AI bookmark technology, digital knowledge capture and connected reading tools
+  - Qualifying post observed: 2026-10-15
+  - Evidence: [October 15 Instagram post about Mark II and its TIME Best Inventions recognition](https://imginn.com/p/DehpHvcj5Py/)
+  - Note: Mark describes Mark II as a smart bookmark and categorizes its business under Technology, Information and Media. Its public X profile lists Los Angeles as its location. [Company profile](https://www.linkedin.com/company/thinkwithmark); [product/about page](https://www.thinkwithmark.com/pages/about); [public profile/location](https://xitter.cf/thinkwithmark).
+
+- **Profile:** [@teslamotors](https://www.instagram.com/teslamotors/)
+  - Content language: English
+  - Technology focus: Electric vehicles, automotive software, autonomous driving, Robotaxi, robotics, battery and energy technology
+  - Qualifying posts observed: 2026-10-14, 2026-10-16, 2026-10-17 and 2026-10-31
+  - Evidence: [October 14 Roadster event post](https://imginn.com/p/DedGX2zz7st/), [October 16 Roadster Track Mode post](https://imginn.com/p/DekZh8yTSmp/), [October 17 Roadster post](https://imginn.com/p/DenJbRWhmMu/) and [October 31 Robotaxi post](https://imginn.com/p/DfI02-LTwkc/)
+  - Note: Tesla's official About page describes its electric vehicles, batteries, software updates and autonomous-vehicle focus; its headquarters are in Austin, Texas. [Official company overview](https://www.tesla.com/about); [official headquarters/contact information](https://ir.tesla.com/contact-us).

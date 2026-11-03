@@ -37,3 +37,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-20
   - Evidence: [October 20 post on using Claude and ChatGPT to create design templates from reference galleries](https://imginn.com/p/Deu24KoDMx4/)
   - Note: influData lists Yury Shishkin / @yury.ai in its Netherlands Technology & Gadgets Instagram ranking. [Country/category verification](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram).
+
+- **Profile:** [@nateherkai](https://www.instagram.com/nateherkai/)
+  - Content language: English
+  - Technology focus: AI automation, Claude Code, AI agents, software workflows, coding tools and practical generative-AI tutorials
+  - Qualifying posts observed: 2026-10-06, 2026-10-14 and 2026-10-25
+  - Evidence: [October 6 Claude Code post](https://imginn.com/p/DeKLFjSOu8Y/), [October 14 Claude skills post](https://imginn.com/p/DeeW_QFuKOf/) and [October 25 AI-workflow post](https://imginn.com/p/De7MatdDOnZ/)
+  - Note: influData's Netherlands Technology & Gadgets ranking attributes @nateherkai to the Netherlands; CreatorDB classifies the account as an English-language AI & Tech creator. [Country/category ranking](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram); [creator profile](https://creatordb.app/creatorstats/nateherkai/).
