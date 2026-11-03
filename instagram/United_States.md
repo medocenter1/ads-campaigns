@@ -583,3 +583,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-29
   - Evidence: [October 29, 2026 Instagram partnership post about TORRAS phone accessories](https://www.instagram.com/p/DfFymiBS8yx/)
   - Note: CollabFeed records an Instagram post by @jennaezarik dated October 29, 2026 and classifies it as Technology / Phone Accessories. Jolygram's public profile archive identifies the account and includes technology content about Razer headsets, Microsoft Surface, Rivian EVs, Bitdefender and other devices. Socialveins lists Jenna Ezarik as based in Lincoln, United States. [Dated Instagram partnership record](https://collabfeed.io/brands/torras); [technology-focused profile and recent content](https://jolygram.com/en/profile/jennaezarik/3417607); [US location profile](https://socialveins.com/influencer/instagram/jennaezarik)
+
+- **Profile:** [@nasajpl](https://www.instagram.com/nasajpl/)
+  - Content language: English
+  - Technology focus: Spacecraft and planetary robotics, aerospace engineering, spaceflight systems, mission hardware, and advanced space technologies
+  - Qualifying post observed: 2026-10-12
+  - Evidence: [October 12, 2026 Instagram post about Perseverance setting a new off-world distance record](https://imginn.com/p/DeaMlUSEpgs/)
+  - Note: NASA JPL's official social page links to the Instagram account @nasajpl and describes its content as engineering, breakthrough missions and cutting-edge technology. NASA's official social-media directory identifies the Jet Propulsion Laboratory as being in Southern California. [JPL official social page and technology focus](https://www.jpl.nasa.gov/social/); [NASA official account directory and JPL location](https://www.nasa.gov/social-media/)
