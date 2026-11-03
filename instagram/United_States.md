@@ -339,3 +339,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-26, 2026-10-27, 2026-10-29 and 2026-10-31
   - Evidence: [October 26 wearable touchscreen technology post](https://imginn.com/p/De9saqKjnxN/), [October 27 robotics post](https://imginn.com/p/DfA_PGAiWXk/) and [October 29 SpaceX Starship post](https://imginn.com/p/DfGCEDgAnxS/)
   - Note: The company's official About page lists its New York headquarters and describes its coverage of scientific breakthroughs and technological innovations. [Company/country verification](https://interestingengineering.com/about-us).
+
+- **Profile:** [@nasa](https://www.instagram.com/nasa/)
+  - Content language: English
+  - Technology focus: Spaceflight technology, spacecraft, launch systems, lunar exploration, mission engineering and scientific instrumentation
+  - Qualifying posts observed: 2026-10-20 and 2026-10-23
+  - Evidence: [October 20 lunar-base vehicle technology post](https://imginn.com/p/DeuH0dDFGcg/) and [October 23 Artemis mission-systems post](https://imginn.com/p/De2t82PPyx9/)
+  - Note: NASA lists @nasa among its official social accounts. [Official NASA social account listing](https://www.nasa.gov/social-media/).
+
+- **Profile:** [@satechi](https://www.instagram.com/satechi/)
+  - Content language: English
+  - Technology focus: Computer accessories, USB-C and USB4 hubs, chargers, docking stations, display adapters and workstation hardware
+  - Qualifying posts observed: 2026-10-27 and 2026-10-28
+  - Evidence: [October 27 product post and October 28 ExtendView dual-4K adapter post](https://www.particl.com/data/companies/satechi/assets/1113323)
+  - Note: Satechi's official About page describes its technology-accessory products and identifies San Diego as its founding location; its brand listing places the Instagram account in the United States. [Company profile](https://satechi.com/pages/about-us); [US tech-brand listing](https://infldb.com/top-brands-by-category/tech).

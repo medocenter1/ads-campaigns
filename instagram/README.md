@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 78 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **82 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 82 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **86 unique profiles**.
 
 ## Current verified shortlist
 
@@ -98,11 +98,15 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@mkbhd](https://www.instagram.com/mkbhd/) | English | 2026-10-27 |
 | Spain | [@ai.withphil](https://www.instagram.com/ai.withphil/) | English | 2026-10-19 |
 | Spain | [@pabloprompt](https://www.instagram.com/pabloprompt/) | Spanish | 2026-10-21 |
+| Spain | [@maxmaxdata](https://www.instagram.com/maxmaxdata/) | Spanish | 2026-10-14 |
+| Spain | [@nategentile7](https://www.instagram.com/nategentile7/) | Spanish | 2026-10-22 |
 | United States | [@uncover.ai](https://www.instagram.com/uncover.ai/) | English | 2026-10-20 and 2026-10-25 |
 | United States | [@mollymahoneyofficial](https://www.instagram.com/mollymahoneyofficial/) | English | 2026-10-14 |
 | United States | [@futurism](https://www.instagram.com/futurism/) | English | 2026-10-27 and 2026-10-28 |
 | United States | [@arstechnica](https://www.instagram.com/arstechnica/) | English | 2026-10-23 |
 | United States | [@interestingengineering](https://www.instagram.com/interestingengineering/) | English | 2026-10-26, 2026-10-27, 2026-10-29 and 2026-10-31 |
+| United States | [@nasa](https://www.instagram.com/nasa/) | English | 2026-10-20 and 2026-10-23 |
+| United States | [@satechi](https://www.instagram.com/satechi/) | English | 2026-10-27 and 2026-10-28 |
 
 ## Country totals
 
@@ -113,11 +117,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 3 |
-| Spain | 4 |
+| Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 11 |
-| United States | 48 |
-| **Total** | **82** |
+| United States | 50 |
+| **Total** | **86** |
 
 ## Evidence sources
 
@@ -176,3 +180,6 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United States — [@futurism October 27 AI-industry post](https://imginn.com/p/DfA0DbJF2i4/) and [October 28 AI/data-center post](https://imginn.com/p/DfDaZg2l8Q_/); [Futurism's official About page](https://futurism.com/about) confirms its New York City base and technology/science editorial mission.
 - United States — [@arstechnica October 23 Instagram post](https://imginn.com/p/De12LhqAQpS/); [Ars Technica's official About page](https://arstechnica.com/about-us/) describes its coverage of technology, software, hardware and gadgets; [the account profile archive](https://imginn.com/arstechnica/) shows recent posting activity and its technology-focused bio.
 - United States — [@interestingengineering October 26 wearable touchscreen post](https://imginn.com/p/De9saqKjnxN/), [October 27 robotics post](https://imginn.com/p/DfA_PGAiWXk/) and [October 29 SpaceX Starship post](https://imginn.com/p/DfGCEDgAnxS/); [the official About page](https://interestingengineering.com/about-us) lists New York as headquarters and describes the publication's focus on scientific breakthroughs and technological innovations.
+
+- Spain — [@maxmaxdata October 14 AI/Big Data post](https://www.glunis.com/ES/Las-Arenas/266866544252552/Maxmaxdata); [InfluData's Spain Technology & Gadgets Instagram ranking](https://infludata.com/pl/rankings/top-20-influencer-spain-tech-instagram); [creator's public professional profile](https://www.mypublicinbox.com/Maxmaxdata). [@nategentile7 October 22 technology posts](https://imginn.com/p/DezUOpBMaVd/) and [October 22 iPhone post](https://imginn.com/p/DeylKVXI102/); [Instagram profile bio](https://imginn.com/nategentile7) and [Barcelona location](https://x.com/nategentile7/with_replies?lang=en).
+- United States — [@nasa October 20 lunar-base vehicle post](https://imginn.com/p/DeuH0dDFGcg/) and [October 23 Artemis post](https://imginn.com/p/De2t82PPyx9/); [NASA's official social media directory](https://www.nasa.gov/social-media/). [@satechi October 27–28 Instagram activity, including the ExtendView dual-4K adapter](https://www.particl.com/data/companies/satechi/assets/1113323); [Satechi's official About page](https://satechi.com/pages/about-us) and [US technology-brand listing](https://infldb.com/top-brands-by-category/tech).

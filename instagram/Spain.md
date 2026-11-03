@@ -30,3 +30,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-21
   - Evidence: [October 21, 2026 AI-video Instagram post](https://imginn.com/p/Dew4Vq4I0ix/)
   - Note: The public profile bio identifies the creator as an AI video creator and educator in audiovisual AI; Spain attribution is corroborated by [InfluData's Spain Technology & Gadgets Instagram ranking](https://infludata.com/de/rankings/top-20-influencer-spain-tech-instagram).
+
+- **Profile:** [@maxmaxdata](https://www.instagram.com/maxmaxdata/)
+  - Content language: Spanish
+  - Technology focus: Artificial intelligence, Big Data, data science, ChatGPT workflows, AI-assisted image creation and business automation
+  - Qualifying post observed: 2026-10-14
+  - Evidence: [October 14 Instagram post on ChatGPT image-editing prompts](https://www.glunis.com/ES/Las-Arenas/266866544252552/Maxmaxdata)
+  - Note: The creator's public profile identifies him as an AI and Big Data educator; InfluData lists @maxmaxdata in its Spain Technology & Gadgets Instagram ranking and places the creator in Barcelona, Spain. [Country/niche cross-check](https://infludata.com/pl/rankings/top-20-influencer-spain-tech-instagram); [professional profile](https://www.mypublicinbox.com/Maxmaxdata).
+
+- **Profile:** [@nategentile7](https://www.instagram.com/nategentile7/)
+  - Content language: Spanish
+  - Technology focus: Computer hardware, software, gaming technology, GPUs, consumer electronics and AI projects
+  - Qualifying posts observed: 2026-10-22
+  - Evidence: [October 22 NVIDIA/path-tracing post](https://imginn.com/p/DezUOpBMaVd/) and [October 22 iPhone Duo post](https://imginn.com/p/DeylKVXI102/)
+  - Note: The public Instagram profile bio says “Todo sobre tecnología”; the creator's public X profile identifies Barcelona, Spain as the location. [Creator profile](https://imginn.com/nategentile7); [location cross-check](https://x.com/nategentile7/with_replies?lang=en).
