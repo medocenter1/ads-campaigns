@@ -520,3 +520,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-19
   - Evidence: [2026-10-19 Instagram post](https://imginn.com/p/DerymsnIPq3/)
   - Note: Country attribution, technology focus and language are cross-checked against the cited public profile and creator-directory sources.
+
+- **Profile:** [@theaifield](https://www.instagram.com/theaifield/)
+  - Content language: English
+  - Technology focus: AI and technology news, computing hardware, semiconductors, AI chips, software and emerging technology explainers
+  - Qualifying post observed: 2026-10-25
+  - Evidence: [October 25 Instagram post about NVIDIA RTX Spark and local AI computing](https://imginn.com/p/De72I3UslAf/)
+  - Note: CheckBB's public creator profile classifies @theaifield as a United States-based Tech/AI creator; CreatorDB independently describes it as an English-language AI and technology news/curation account. [US location and Tech/AI classification](https://checkbb.com/en/instagram/theaifield); [creator description and English content](https://creatordb.app/creatorstats/theaifield/).

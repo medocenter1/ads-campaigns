@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 118 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handles `masonwattss` and `deepister.tech` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **120 unique profiles**..
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 120 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `theaifield` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **121 unique profiles**...
 
 ## Current verified shortlist
 
@@ -141,6 +141,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) | English | 2026-10-27 (plus newer posts visible in the public profile archive) |
 | United States | [@jayztwocents](https://www.instagram.com/jayztwocents/) | English | 2026-10-20 |
 | United States | [@deepister.tech](https://www.instagram.com/deepister.tech/) | English | 2026-10-19 |
+| United States | [@theaifield](https://www.instagram.com/theaifield/) | English | 2026-10-25 |
 
 ## Country totals
 
@@ -154,8 +155,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 15 |
-| United States | 73 |
-| **Total** | **120** |
+| United States | 74 |
+| **Total** | **121** |
 
 ## Evidence sources
 
@@ -296,3 +297,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United Kingdom — [@masonwattss Instagram profile](https://www.instagram.com/masonwattss/) is identified as “Mason | Setups & Tech”; the public profile bio says “Sharing my tech obsession” and “UK Based”. A dated [October 23, 2026 Instagram post](https://imginn.com/p/De2InQaswOR/) shows a desk/workspace setup and uses #desksetup, #setupinspiration, #workspace and #homeoffice. His public Ko-fi creator description also identifies him as a tech enthusiast from the UK; the Infldb technology-creator directory lists @masonwattss in the United Kingdom. [Instagram profile and UK bio](https://imginn.com/masonwattss/); [UK-based creator statement](https://ko-fi.com/masonwattss); [technology directory and UK attribution](https://infldb.com/top-influencers-by-category/tech).
 
 - United States — [@deepister.tech Instagram profile](https://www.instagram.com/deepister.tech/) describes the creator as interested in Tech, Code and Gaming and lists Washington in the public bio. A public [October 19, 2026 Instagram post](https://imginn.com/p/DerymsnIPq3/) is captioned “Expensive taste … in tech”; the post and surrounding profile content are in English. Infldb's technology-creator directory places the account in the United States and lists Seattle/Washington in its public profile text; CheckBB independently classifies it as a United States-based Tech & Gadgets creator. [Public dated post](https://imginn.com/p/DerymsnIPq3/); [US location and tech/code/gaming bio](https://infldb.com/top-influencers-by-category/tech); [independent US Tech & Gadgets classification](https://checkbb.com/en/instagram/deepister.tech); [Seattle location in public tech-creator ranking](https://infludata.com/de/rankings/top-20-influencer-united-states-of-america-washington-dc-tech-instagram).
+
+## Evidence added in V 0.36
+
+- United States — [@theaifield Instagram profile](https://www.instagram.com/theaifield/) publishes English-language AI and technology explainers. A public [October 25, 2026 Instagram post](https://imginn.com/p/De72I3UslAf/) explains NVIDIA's RTX Spark / N1X chip, unified memory and local AI computing, satisfying the recent-post criterion. CheckBB classifies the account as a United States-based Tech/AI creator; CreatorDB describes The AI Field as a digital media outlet focused on AI developments and confirms its English-language posts. [US location and Tech/AI category](https://checkbb.com/en/instagram/theaifield); [creator profile and language/niche description](https://creatordb.app/creatorstats/theaifield).
