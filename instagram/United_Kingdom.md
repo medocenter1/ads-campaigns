@@ -17,3 +17,37 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 15 AI 3D-printer review](https://imginn.com/p/DehX510uH_r/), [October 20 device review](https://imginn.com/p/DetOdBdjusv/) and [October 9 iPhone 18 Pro post](https://imginn.com/p/DeSQS84joVo/)
   - Note: The Instagram bio identifies the creator as a UK Tech Creator and lists gear, home cinema and travel tech: https://imginn.com/techuncased
 
+- **Profile:** [@highoctane0](https://www.instagram.com/highoctane0/)
+  - Content language: English
+  - Technology focus: PC gaming setups, gaming peripherals, hardware, cameras and consumer tech
+  - Qualifying posts observed: 2026-10-21 and 2026-10-23
+  - Evidence: [Beacons creator page with dated recent posts](https://universe.beacons.ai/creators/highoctane0)
+  - Note: The creator's page describes an Instagram gaming-setup and technology creator; UK gaming creator directory: https://sup.co/creators/united-kingdom/gaming
+
+- **Profile:** [@gamewithkiwi](https://www.instagram.com/gamewithkiwi/)
+  - Content language: English
+  - Technology focus: PC gaming, gaming software, games and gaming/tech creator content
+  - Qualifying post observed: 2026-10-20
+  - Evidence: [October 20 Instagram post about The Sims 4](https://www.monitormentions.com/creator/gamewithkiwi)
+  - Note: The creator's public profile describes a UK-based gaming and tech creator: https://www.instalker.org/GameWithKiwi
+
+- **Profile:** [@jsetups](https://www.instagram.com/jsetups/)
+  - Content language: English
+  - Technology focus: Apple accessories, desk setups, consumer technology and cinematic tech reviews
+  - Qualifying post observed: 2026-10-17
+  - Evidence: [October 17 AirPods Max charger post](https://imginn.com/p/Dem3TLSxjyH/)
+  - Note: The public Instagram profile identifies the creator as a London, UK tech creator: https://imginn.com/jsetups/
+
+- **Profile:** [@imchecotech](https://www.instagram.com/imchecotech/)
+  - Content language: English
+  - Technology focus: PC building, computer hardware, gaming PCs and technology reviews
+  - Qualifying post observed: 2026-10-09
+  - Evidence: [October 9 PC-build Instagram reel](https://universe.beacons.ai/brands/noctua)
+  - Note: The creator is listed as a Cambridge, UK technology creator: https://collabstr.com/imchecotech
+
+- **Profile:** [@asherintech](https://www.instagram.com/asherintech/)
+  - Content language: English
+  - Technology focus: Software development, developer tools, desk technology and consumer tech gadgets
+  - Qualifying post observed: 2026-10-21
+  - Evidence: [October 21 Instagram reel about a Meraki coffee-machine upgrade](https://universe.beacons.ai/brands/meraki)
+  - Note: The creator's profile identifies him as a software developer and content creator; Modash lists the creator in the United Kingdom: https://www.liinks.co/asherintech ; https://www.modash.io/content-library/brands/asus-examples/influencers

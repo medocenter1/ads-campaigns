@@ -108,3 +108,72 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 26 post on AI and workplace skills](https://imginn.com/p/De-GTMoEn8O/), [October 27 AI-agent post](https://imginn.com/p/DfAlPmqzsvi/) and [October 28 comparison of AI agents](https://imginn.com/p/DfDEQEYG3to/)
   - Note: CreatorDB identifies Allie K. Miller as a US-based AI/Technology creator whose primary platform is Instagram; the page reports about 212K Instagram followers: https://creatordb.app/creatorstats/alliekmiller/.
 
+- **Profile:** [@c1evergirl](https://www.instagram.com/c1evergirl/)
+  - Content language: English
+  - Technology focus: PC gaming, computer setups, hardware, tech unboxings and product reviews
+  - Qualifying posts observed: 2026-10-21 and 2026-10-26
+  - Evidence: [Beacons creator profile and recent public posts](https://universe.beacons.ai/creators/c1evergirl)
+  - Note: The creator identifies as U.S.-based and focuses on technology, gaming, unboxings and tech reviews; UGC Agent also classifies the account as a US-based English-language tech/gaming creator: https://ugcagent.app/creators/instagram/c1evergirl/
+
+- **Profile:** [@hall_of_tech](https://www.instagram.com/hall_of_tech/)
+  - Content language: English
+  - Technology focus: Custom PC builds, computer hardware, repairs, gaming setups and tech product showcases
+  - Qualifying posts observed: 2026-10-30 and 2026-10-31
+  - Evidence: [Beacons creator profile and October 30 PC-build post](https://universe.beacons.ai/creators/hall_of_tech)
+  - Note: CreatorDB identifies the creator as a California-based PC-building and repair creator operating in La Mirada: https://creatordb.app/creatorstats/hall-of-tech/
+
+- **Profile:** [@itskimjava](https://www.instagram.com/itskimjava/)
+  - Content language: English
+  - Technology focus: Automotive technology, electric vehicles, connected-car features and EV product reviews
+  - Qualifying posts observed: 2026-10-24, 2026-10-25, 2026-10-26 and 2026-10-29
+  - Evidence: [Beacons creator profile and dated October Instagram posts](https://universe.beacons.ai/creators/itskimjava)
+  - Note: The creator is identified as a United States-based automotive and technology creator; country cross-check: https://www.modash.io/content-library/brands/3wliners-examples/influencers
+
+- **Profile:** [@cozyquartzz](https://www.instagram.com/cozyquartzz/)
+  - Content language: English
+  - Technology focus: Gaming technology, Nintendo Switch, gaming peripherals, keyboards and desk setups
+  - Qualifying posts observed: 2026-10-30, 2026-10-31 and 2026-11-01
+  - Evidence: [Beacons creator profile and recent public posts](https://universe.beacons.ai/creators/cozyquartzz)
+  - Note: The creator identifies as based in the U.S. Midwest and explicitly focuses on gaming and tech; Dulcedo lists Iowa as the creator's location: https://dulcedo.com/entertainment/cozyquartzz
+
+- **Profile:** [@tinoreviews](https://www.instagram.com/tinoreviews/)
+  - Content language: English
+  - Technology focus: Gadgets, audio equipment, gaming peripherals, smart technology and hands-on product reviews
+  - Qualifying post observed: 2026-10-19
+  - Evidence: [October 19 Razer gaming-chair Instagram post](https://monitormentions.com/brand/razer/instagram)
+  - Note: UGC Agent identifies the account as a US-based English-language Instagram creator in Tech and Gaming; the creator's own site describes hands-on tech, audio and gaming reviews: https://ugcagent.app/creators/instagram/tinoreviews/ ; https://tinoreviews.com/
+
+- **Profile:** [@mashable](https://www.instagram.com/mashable/)
+  - Content language: English
+  - Technology focus: Technology news, digital culture, consumer devices, software and innovation
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [October 23 iPhone Duo Instagram post](https://imginn.com/p/De1lC0ix-0q/)
+  - Note: Mashable is a U.S.-based digital media publisher with technology coverage; company/about information: https://mashable.com/about
+
+- **Profile:** [@digitaltrends](https://www.instagram.com/digitaltrends/)
+  - Content language: English
+  - Technology focus: Consumer technology, smartphones, gadgets, software, product reviews and tech news
+  - Qualifying post observed: 2026-10-20
+  - Evidence: [October 20 MagSafe Flex Pouch Instagram post](https://imginn.com/p/DeuNoOtj6-u/)
+  - Note: Digital Trends Media Group is headquartered in Portland, Oregon; official about page: https://www.digitaltrends.com/about/
+
+- **Profile:** [@okaylandy](https://www.instagram.com/okaylandy/)
+  - Content language: English
+  - Technology focus: Gaming technology, video games, console/gaming products and game-related creator content
+  - Qualifying post observed: 2026-10-10
+  - Evidence: [Recent public Instagram creator-post archive](https://universe.beacons.ai/brands/sonic-the-hedgehog)
+  - Note: UGC Agent lists the account as a US-based creator in Tech and Gaming: https://ugcagent.app/creators/tech/united-states/
+
+- **Profile:** [@atlus_west](https://www.instagram.com/atlus_west/)
+  - Content language: English
+  - Technology focus: Video games, game software, interactive entertainment and gaming releases
+  - Qualifying posts observed: 2026-10-17, 2026-10-18, 2026-10-28 and 2026-10-31
+  - Evidence: [October 17 Persona post](https://imginn.com/p/Demz3GOiW1M/), [October 18 post](https://imginn.com/p/Dep0DImDUVJ/) and [October 31 Halloween post](https://imginn.com/p/DfI0kGHibdd/)
+  - Note: Official ATLUS West is the North American-facing account for the game publisher; official profile links and releases: https://linktr.ee/atlus_west ; North American office reference: https://support.atlus.com/
+
+- **Profile:** [@sreyahalder](https://www.instagram.com/sreyahalder/)
+  - Content language: English
+  - Technology focus: Tech creator and technology UGC; tech-focused branded content and creator-community coverage
+  - Qualifying post observed: 2026-10-21
+  - Evidence: [October 21 Instagram post tagged Microsoft](https://imginn.com/p/Dewfv68oO0y/)
+  - Note: UGC Agent classifies the account as a US-based English-language Instagram tech creator: https://ugcagent.app/creators/instagram/sreyahalder/

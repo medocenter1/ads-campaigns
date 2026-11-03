@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were read from the current `main` revision and 31 existing handles were extracted. The new handle was checked against every prior entry.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were read from the current `main` revision and 32 existing handles were extracted. All 18 proposed additions were checked against every prior entry and against one another; the resulting shortlist contains 50 case-insensitively unique handles.
 
 ## Current verified shortlist
 
@@ -53,6 +53,38 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@michellescomputer](https://www.instagram.com/michellescomputer/) | English | 2026-10-24 and 2026-10-26 |
 | United States | [@verge](https://www.instagram.com/verge/) | English | 2026-10-21 and 2026-10-28 |
 | United States | [@alliekmiller](https://www.instagram.com/alliekmiller/) | English | 2026-10-26, 2026-10-27 and 2026-10-28 |
+| Germany | [@chip_de](https://www.instagram.com/chip_de/) | German | 2026-10-31 |
+| Netherlands | [@evolving.ai](https://www.instagram.com/evolving.ai/) | English | 2026-10-04, 2026-10-08 and 2026-10-16 |
+| Spain | [@99setups](https://www.instagram.com/99setups/) | English | 2026-10-07 and 2026-10-09 |
+| United Kingdom | [@highoctane0](https://www.instagram.com/highoctane0/) | English | 2026-10-21 and 2026-10-23 |
+| United Kingdom | [@gamewithkiwi](https://www.instagram.com/gamewithkiwi/) | English | 2026-10-20 |
+| United Kingdom | [@jsetups](https://www.instagram.com/jsetups/) | English | 2026-10-17 |
+| United Kingdom | [@imchecotech](https://www.instagram.com/imchecotech/) | English | 2026-10-09 |
+| United Kingdom | [@asherintech](https://www.instagram.com/asherintech/) | English | 2026-10-21 |
+| United States | [@c1evergirl](https://www.instagram.com/c1evergirl/) | English | 2026-10-21 and 2026-10-26 |
+| United States | [@hall_of_tech](https://www.instagram.com/hall_of_tech/) | English | 2026-10-30 and 2026-10-31 |
+| United States | [@itskimjava](https://www.instagram.com/itskimjava/) | English | 2026-10-24, 2026-10-25, 2026-10-26 and 2026-10-29 |
+| United States | [@cozyquartzz](https://www.instagram.com/cozyquartzz/) | English | 2026-10-30, 2026-10-31 and 2026-11-01 |
+| United States | [@tinoreviews](https://www.instagram.com/tinoreviews/) | English | 2026-10-19 |
+| United States | [@mashable](https://www.instagram.com/mashable/) | English | 2026-10-23 |
+| United States | [@digitaltrends](https://www.instagram.com/digitaltrends/) | English | 2026-10-20 |
+| United States | [@okaylandy](https://www.instagram.com/okaylandy/) | English | 2026-10-10 |
+| United States | [@atlus_west](https://www.instagram.com/atlus_west/) | English | 2026-10-17, 2026-10-18, 2026-10-28 and 2026-10-31 |
+| United States | [@sreyahalder](https://www.instagram.com/sreyahalder/) | English | 2026-10-21 |
+
+## Country totals
+
+| Country | Accounts |
+|---|---:|
+| France | 4 |
+| Germany | 7 |
+| Greece | 1 |
+| Italy | 1 |
+| Netherlands | 3 |
+| Spain | 2 |
+| United Kingdom | 7 |
+| United States | 25 |
+| **Total** | **50** |
 
 ## Evidence sources
 
@@ -64,6 +96,13 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 - Spain — [@xataka post mirror, October 23](https://imginn.com/p/De2ed_mANDQ/); [Spain technology account directory](https://infldb.com/top-brands-by-category/technology).
 - United Kingdom — [@ctrlaltalex October 17 CPU cooler post](https://imginn.com/p/DemASsYx7u8/) and [October 24 microphone post](https://imginn.com/p/De4FVDWxYF9/); [official site identifies the account as a UK Consumer Tech Creator](https://www.ctrlaltalex.com/). [@techuncased October 15 AI 3D-printer review](https://imginn.com/p/DehX510uH_r/), [October 20 device post](https://imginn.com/p/DetOdBdjusv/) and [October 9 iPhone post](https://imginn.com/p/DeSQS84joVo/); [profile bio identifies a UK Tech Creator](https://imginn.com/techuncased).
 - United States — [@mavgpt post mirror, October 24](https://imginn.com/p/De5IoxLqGgD/); [@techcrunch post mirror, October 22](https://imginn.com/p/De0Gtbdjbxf/) and [official TechCrunch about/team information](https://techcrunch.com/about-techcrunch/); [@wired post mirror, October 29](https://imginn.com/p/DfFY-A0zlaf/) and [WIRED press/about page](https://www.wired.com/about/press/); [@cnet post mirror, October 28](https://imginn.com/p/DfDRvLty3G-/) and [CNET Group official profile](https://www.cnetgroup.com/cnet/); [@techbrew post mirror, October 23](https://imginn.com/p/De2QkcvFBNV/) and [Tech Brew about page](https://www.techbrew.com/about); [@technology October 28 post](https://imginn.com/p/DfDLXCjCQZz/) and [Nindo activity](https://nindo.de/en/technology/stats/3b9b86dbac63ff948458cd469488143a9ae0c9b5); [@maitrimangal October 29 post](https://imginn.com/p/DfFCSOCRUrx/) and [creator profile](https://universe.beacons.ai/creators/maitrimangal); [@techwitharia November 1 post](https://imginn.com/p/DfNAUutuUyZ/) and [US tech creator directory](https://ugcagent.app/creators/tech/united-states/); [@techwithmel.ai October 23 post](https://imginn.com/p/De1vK7RR-u5/); [@soojintech October 14 and 16 AI posts](https://imginn.com/p/DefmtgohlQ7/) and [CreatorDB US/NYC tech profile](https://creatordb.app/creatorstats/soojintech/); [UGC Agent US English tech profile for @soojintech](https://ugcagent.app/creators/instagram/soojintech/); [@carol.yaps October 14 ChatGPT Work post](https://imginn.com/p/Dee-0a6BP_X/) and [UGC Agent US English tech profile](https://ugcagent.app/creators/instagram/carol.yaps/); [@cleoabram October 16 and 26 tech posts](https://imginn.com/p/DekAnWqocqW/) and [US tech creator profile](https://www.getmrbl.ai/influencers/profile/cleoabram); [@michellescomputer October 24 and 26 posts](https://imginn.com/p/De5C-v-ku1W/) and [San Francisco AI engineer profile](https://creatordb.app/creatorstats/michellescomputer/); [@verge October 21 and 28 posts](https://imginn.com/p/DexN8PGPw1Z/) and [Vox Media legal identification of The Verge under its US entity](https://www.voxmedia.com/terms-of-use/). [@alliekmiller October 26, 27 and 28 AI posts](https://imginn.com/p/De-GTMoEn8O/), [Instagram-first US AI/Technology creator statistics](https://creatordb.app/creatorstats/alliekmiller/) and [October 2026 Instagram activity](https://imginn.com/p/DfDEQEYG3to/).
+
+
+- Germany — [@chip_de Instagram account](https://www.instagram.com/chip_de/); [October 31 giveaway post reference](https://www.gewinn-portal.de/forum/index.php?pageNo=7&user-post-list/9974-kugelrund/=); [CHIP official about page](https://www.chip.de/ueber-uns/).
+- Netherlands — [@evolving.ai October 4 AI-agent post](https://imginn.com/p/DeEZpfggPRq/), [October 8 AI roundup](https://imginn.com/p/DePCuQUAIY9/) and [October 16 post](https://imginn.com/p/DeitoCFNxWM/); [CreatorDB identifies Netherlands, English and AI/Technology](https://creatordb.app/creatorstats/evolvingai/).
+- Spain — [@99setups creator profile with dated October 7 and 9 posts](https://universe.beacons.ai/creators/99setups); [creator states Spain-based tech creator](https://universe.beacons.ai/creators/99setups); [PC setup profile directory](https://resource.myinfluencer.co/neon-influencers).
+- United Kingdom — [@highoctane0 recent Instagram post archive, including October 21 and 23 tech posts](https://universe.beacons.ai/creators/highoctane0); [UK gaming creators](https://sup.co/creators/united-kingdom/gaming). [@gamewithkiwi October 20 Sims 4 gaming post](https://www.monitormentions.com/creator/gamewithkiwi); [UK-based creator profile](https://www.instalker.org/GameWithKiwi). [@jsetups October 17 AirPods Max charger post](https://imginn.com/p/Dem3TLSxjyH/); [London, UK tech creator profile](https://imginn.com/jsetups/). [@imchecotech October 9 PC-build reel](https://universe.beacons.ai/brands/noctua); [Cambridge-based tech creator listing](https://collabstr.com/imchecotech). [@asherintech October 21 Meraki gadget reel](https://universe.beacons.ai/brands/meraki); [software developer creator profile](https://www.liinks.co/asherintech); [UK creator partnership listing](https://www.modash.io/content-library/brands/asus-examples/influencers).
+- United States — [@c1evergirl creator profile and recent posts](https://universe.beacons.ai/creators/c1evergirl); [UGC Agent US tech creator profile](https://ugcagent.app/creators/instagram/c1evergirl/). [@hall_of_tech PC-build post and profile](https://universe.beacons.ai/creators/hall_of_tech); [California PC-builder profile](https://creatordb.app/creatorstats/hall-of-tech/). [@itskimjava October 29 post and recent Instagram activity](https://universe.beacons.ai/creators/itskimjava); [US-based creator listing](https://www.modash.io/content-library/brands/3wliners-examples/influencers). [@cozyquartzz US-based gaming-tech creator profile and dated posts](https://universe.beacons.ai/creators/cozyquartzz); [Iowa location and creator niche](https://dulcedo.com/entertainment/cozyquartzz). [@tinoreviews October 19 Razer gaming-chair post](https://monitormentions.com/brand/razer/instagram); [US Tech/Gaming profile](https://ugcagent.app/creators/instagram/tinoreviews/); [creator review site](https://tinoreviews.com/). [@mashable October 23 iPhone Duo post](https://imginn.com/p/De1lC0ix-0q/); [Mashable about page](https://mashable.com/about). [@digitaltrends October 20 MagSafe post](https://imginn.com/p/DeuNoOtj6-u/); [official Digital Trends about page](https://www.digitaltrends.com/about/). [@okaylandy recent public Instagram creator-post archive](https://universe.beacons.ai/brands/sonic-the-hedgehog); [US tech/gaming creator index](https://ugcagent.app/creators/tech/united-states/). [@atlus_west October 17, 18, 28 and 31 posts](https://imginn.com/p/Demz3GOiW1M/); [official ATLUS West links](https://linktr.ee/atlus_west); [North American support page](https://support.atlus.com/). [@sreyahalder October 21 post](https://imginn.com/p/Dewfv68oO0y/); [US-based English-language Tech creator profile](https://ugcagent.app/creators/instagram/sreyahalder/).
 
 ## Verification caveats
 

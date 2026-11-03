@@ -17,3 +17,9 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [activity / country verification](https://universe.beacons.ai/creators/masters.of.tech)
   - Note: Recent public posts dated October 28–30, 2026; creator identifies as based in the Netherlands.
 
+- **Profile:** [@evolving.ai](https://www.instagram.com/evolving.ai/)
+  - Content language: English
+  - Technology focus: AI and technology news, artificial intelligence models, AI agents, software and emerging technology
+  - Qualifying posts observed: 2026-10-04, 2026-10-05, 2026-10-08 and 2026-10-16
+  - Evidence: [October 4 AI-agent post](https://imginn.com/p/DeEZpfggPRq/), [October 8 AI roundup](https://imginn.com/p/DePCuQUAIY9/) and [October 16 technology post](https://imginn.com/p/DeitoCFNxWM/)
+  - Note: CreatorDB classifies the creator as AI & Technology, based in the Netherlands (NLD), with English-language content: https://creatordb.app/creatorstats/evolvingai/

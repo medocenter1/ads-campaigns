@@ -45,3 +45,9 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 22 ChatGPT Work post](https://imginn.com/p/Dezc0nRshcj/) and [October 26 ChatGPT shopping-workflow post](https://imginn.com/p/De-D5ViMxP7/)
   - Note: Nindo's Instagram snapshot identifies the account as German-language (DE), reports 85 posts in the preceding 30 days and a last post 2 days before its November 3 snapshot: https://nindo.de/en/niklas_volland/stats/12bf435fadf6b4b662f43a8784831199118bb21f.
 
+- **Profile:** [@chip_de](https://www.instagram.com/chip_de/)
+  - Content language: German
+  - Technology focus: German technology publication covering consumer electronics, computers, software, product tests and technology news
+  - Qualifying post observed: 2026-10-31
+  - Evidence: [October 31 Instagram giveaway post reference](https://www.gewinn-portal.de/forum/index.php?pageNo=7&user-post-list/9974-kugelrund/=)
+  - Note: The October 31 post explicitly directs users to follow @chip_de and like the Instagram post; CHIP is a German technology and consumer portal: https://www.chip.de/ueber-uns/
