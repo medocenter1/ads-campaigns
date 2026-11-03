@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 90 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **94 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 94 existing profiles (all distinct), while 42 files contained no Instagram profile links. The two new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **96 unique profiles**.
 
 ## Current verified shortlist
 
@@ -115,6 +115,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@carterpcs_](https://www.instagram.com/carterpcs_/) | English | 2026-10-13 |
 | United States | [@iamrawan](https://www.instagram.com/iamrawan/) | English | 2026-10-09 |
 | United States | [@sundaskhalidd](https://www.instagram.com/sundaskhalidd/) | English | 15 posts in 30-day window; latest 2 days before Nov 1 audit |
+| United States | [@chatgptricks](https://www.instagram.com/chatgptricks/) | English | 2026-10-05 and 2026-10-27 |
+| United States | [@eluna.ai](https://www.instagram.com/eluna.ai/) | English | 2026-10-04 and 2026-10-24 |
 
 ## Country totals
 
@@ -128,8 +130,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 12 |
-| United States | 54 |
-| **Total** | **94** |
+| United States | 56 |
+| **Total** | **96** |
 
 ## Evidence sources
 
@@ -198,3 +200,5 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - Germany — [@herr_tech Nindo Instagram statistics](https://nindo.de/en/startupcreator/stats/e50e85aa0830cbd60915ff99d8a230e39d3d78b7) report 159 posts in 30 days and a last post 2 days before the snapshot; [CreatorDB identifies the creator as Germany-based, German-language AI & Technology](https://creatordb.app/creatorstats/herr_tech/).
 - United Kingdom — [@techbible.ai October 25 Reel on hybrid search and AI tool discovery](https://app.fohr.co/creators/techbible) and [October 26 cybersecurity Reel](https://www.pixnoy.com/profile/techbible.ai/); [Fohr identifies Ghita El Haitmy as a London-based AI founder, software engineer and educator](https://app.fohr.co/creators/techbible).
 - United States — [@iamrawan October 9 Claude workflow Instagram post](https://imginn.com/p/DeR7TDIRjic/); [Modash identifies Rawan as a NYC-based creator with a tech/career focus](https://www.modash.io/content-library/brands/claude-examples/influencers). [@sundaskhalidd activity audit checked November 1 reports 15 posts in the previous 30 days and a latest post 2 days earlier](https://auditmysocials.com/instagram-audit/sundaskhalidd); [CreatorDB confirms her US-based Tech & Data Science positioning](https://creatordb.app/creatorstats/sundaskhalidd/).
+
+- United States — [@chatgptricks October 5 post on better ChatGPT prompts](https://imginn.com/p/DeHZJqkoGqO/) and [October 27 AI-compute/agent post](https://imginn.com/p/DfBStZyJ3yx/); [Hive Influence's October 2026 US AI creator ranking](https://hiveinfluence.io/top-influencers/instagram/artificial-intelligence/united-states) lists the account in the United States. [@eluna.ai October 4 AI-agent post](https://imginn.com/p/DeF1fawIHE-/) and [October 24 Android/security post](https://imginn.com/p/De3oEBkoDlS/); [CreatorDB's profile identifies the account as US-based, English-language AI education/news](https://creatordb.app/creatorstats/elunaai/).

@@ -381,3 +381,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying activity observed: 15 Instagram posts in the 30-day window ending 2026-11-01; most recent post was 2 days before the audit
   - Evidence: [Instagram activity audit checked November 1, 2026](https://auditmysocials.com/instagram-audit/sundaskhalidd)
   - Note: The creator's bio identifies her as a Seattle/San Francisco-based former Google data scientist focused on AI, data science and technology. CreatorDB also classifies the account as US-based Tech & Data Science. [Creator profile and country/niche cross-check](https://creatordb.app/creatorstats/sundaskhalidd/).
+
+- **Profile:** [@chatgptricks](https://www.instagram.com/chatgptricks/)
+  - Content language: English
+  - Technology focus: ChatGPT, generative AI, AI agents, AI applications, prompt engineering and practical AI explainers
+  - Qualifying posts observed: 2026-10-05 and 2026-10-27
+  - Evidence: [October 5 post on improving ChatGPT prompts](https://imginn.com/p/DeHZJqkoGqO/) and [October 27 post explaining compute, GPUs and AI agents](https://imginn.com/p/DfBStZyJ3yx/)
+  - Note: Hive Influence's October 2026 US AI Instagram ranking lists @chatgptricks as a United States account; the October 27 public post confirms its AI/technology focus. [Country/category cross-check](https://hiveinfluence.io/top-influencers/instagram/artificial-intelligence/united-states).
+
+- **Profile:** [@eluna.ai](https://www.instagram.com/eluna.ai/)
+  - Content language: English
+  - Technology focus: AI news, AI agents, ChatGPT, emerging AI applications, software and mobile-device security
+  - Qualifying posts observed: 2026-10-04 and 2026-10-24
+  - Evidence: [October 4 post about OpenClaw AI agents](https://imginn.com/p/DeF1fawIHE-/) and [October 24 post about Android spyware and location permissions](https://imginn.com/p/De3oEBkoDlS/)
+  - Note: CreatorDB identifies Eluna.Ai as a United States-based AI education/news account publishing in English; Hive Influence also lists @eluna.ai in its October 2026 US AI Instagram ranking. [Creator/location/language cross-check](https://creatordb.app/creatorstats/elunaai/).
