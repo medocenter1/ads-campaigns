@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 113 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `hardwaredealz` was checked case-insensitively against the profile handles in all 51 files and was absent. No duplicate was added; the shortlist now contains **114 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 114 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handles `madeline.m.zhang`, `vishakha.sadhwani`, and `theblackfemaleengineer` were checked case-insensitively against the profile handles in all 51 files and were absent. No duplicate was added; the shortlist now contains **117 unique profiles**.
 
 ## Current verified shortlist
 
@@ -135,6 +135,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@911reviews](https://www.instagram.com/911reviews/) | English | 2026-10-09, 2026-10-10 and 2026-10-15 (post-count increments) |
 | United States | [@seattlebuiltpcs](https://www.instagram.com/seattlebuiltpcs/) | English | 2026-10-04 |
 | United States | [@andythesalemtechguy](https://www.instagram.com/andythesalemtechguy/) | English | 2026-10-18 |
+| United States | [@madeline.m.zhang](https://www.instagram.com/madeline.m.zhang/) | English | 2026-10-28 and 2026-10-29 |
+| United States | [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/) | English | 2026-10-13 |
+| United States | [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) | English | 2026-10-27 (plus newer posts visible in the public profile archive) |
 
 ## Country totals
 
@@ -148,8 +151,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 14 |
-| United States | 68 |
-| **Total** | **114** |
+| United States | 71 |
+| **Total** | **117** |
 
 ## Evidence sources
 
@@ -272,3 +275,11 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.32
 
 - Germany — [@hardwaredealz Instagram profile](https://www.instagram.com/hardwaredealz/). Nindo's November 3, 2026 snapshot marks the channel DE, describes it as “Tech, Hardware, Gaming PCs”, records 9 Instagram posts in the preceding 30 days and shows the latest post 6 days earlier (approximately October 28). [Nindo channel statistics and post activity](https://nindo.de/hardwaredealz/stats/232874b444d6cd828e3d8fb3b3c063b8fec639e1). Socialveins independently identifies the creator's location as Germany and reproduces the technology / PC-hardware bio. [Germany location and profile description](https://socialveins.com/influencer/instagram/hardwaredealz).
+
+## Evidence added in V 0.33
+
+- United States — [@madeline.m.zhang](https://www.instagram.com/madeline.m.zhang/) is a San Francisco-based software engineer and technology creator; her public bio describes daily AI and coding content. She published a software-engineering/PHP security post on October 29 and a GitHub Copilot Fusion / developer-tool post on October 28, 2026. [October 29 PHP/software post](https://imginn.com/p/DfFb4WatiMr/); [October 28 Copilot Fusion post](https://imginn.com/p/DfC6JiLtSlW/); [public profile and San Francisco location](https://instme.com/profile/madeline.m.zhang); [US location and tech creator cross-check](https://www.modash.io/content-library/brands/logitech-examples/influencers).
+
+- United States — [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/) is a US-based cloud-technology educator whose work covers cloud architecture, APIs, microservices, DevOps, developer tools and AI engineering. Her October 13, 2026 Instagram post compares Solutions Architect and Developer Advocate roles and discusses cloud services, APIs, databases, system design, open source and developer tools. The post is in English. [October 13 Instagram post](https://imginn.com/p/DecTFBqILHp/); [US-based creator profile, Instagram activity and cloud-technology niche](https://creatordb.app/creatorstats/vishakhasadhwani/).
+
+- United States — [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/) publicly lists NYC in its Instagram profile and focuses on making AI and technology skills accessible through practical education and resources. A public post dated October 27, 2026, and newer entries in the profile archive confirm recent posting activity; the page and post are in English. [October 27 Instagram post](https://imginn.com/p/DfAqax5D_bk/); [profile archive with NYC bio and recent post ages](https://imginn.com/theblackfemaleengineer/); [creator's official About page describing its AI/technology mission](https://www.theblackfemaleengineer.com/about).

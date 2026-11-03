@@ -483,3 +483,27 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-18
   - Evidence: [October 18 Instagram post reviewing the Phanteks EX5 PC case](https://imginn.com/p/DeohowIBqiK/); the caption discusses computer case design/buildability and includes #tech, #technology, #pc and #computer.
   - Note: Modash identifies Andy Harding as a United States creator and reproduces the public bio “The Greatest Technician Boston Based”; it links the Instagram account @andythesalemtechguy. HypeAuditor categorizes the account in Personal Computers, Tech, Technology and Electronics. The cited post and public bio are in English. [Country, Boston bio and Instagram link](https://www.modash.io/content-library/brands/jackery-examples/influencers); [technology category and October account activity](https://hypeauditor.com/instagram/andythesalemtechguy/).
+
+
+- **Profile:** [@madeline.m.zhang](https://www.instagram.com/madeline.m.zhang/)
+  - Content language: English
+  - Technology focus: Software engineering, AI, coding concepts, developer tools and technology explainers
+  - Qualifying post observed: 2026-10-28 and 2026-10-29
+  - Evidence: [Public Instagram post]( https://imginn.com/p/DfC6JiLtSlW/)
+  - Note: Country attribution and technology niche are cross-checked in the public creator/profile sources documented in the README evidence section.
+
+
+- **Profile:** [@vishakha.sadhwani](https://www.instagram.com/vishakha.sadhwani/)
+  - Content language: English
+  - Technology focus: Cloud architecture, APIs, microservices, DevOps, developer advocacy and AI engineering
+  - Qualifying post observed: 2026-10-13
+  - Evidence: [Public Instagram post]( https://imginn.com/p/DecTFBqILHp/)
+  - Note: Country attribution and technology niche are cross-checked in the public creator/profile sources documented in the README evidence section.
+
+
+- **Profile:** [@theblackfemaleengineer](https://www.instagram.com/theblackfemaleengineer/)
+  - Content language: English
+  - Technology focus: Practical AI education, technology skills, AI workflows, software engineering and career-focused technology tutorials
+  - Qualifying post observed: 2026-10-27 (plus newer posts visible in the public profile archive)
+  - Evidence: [Public Instagram post]( https://imginn.com/p/DfAqax5D_bk/)
+  - Note: Country attribution and technology niche are cross-checked in the public creator/profile sources documented in the README evidence section.
