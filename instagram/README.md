@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Ten files contained 142 existing profile links (all distinct), while 41 files contained no Instagram profile links. The new handles `affinity` and `adobelive` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **144 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 50 country files were fetched and checked. Nine files contained 143 profile links (all distinct), while 41 files contained no Instagram profile links. The previous README still listed `why.cgi`, but its Denmark file had been inadvertently emptied in V 0.53; that existing entry has been restored using its retained V 0.52 evidence. The new handles `notionhq` and `claudeai` were compared case-insensitively with profile handles across all 50 country files and were absent. The corrected country files and central shortlist now contain **146 unique profiles**.
 
 ## Current verified shortlist
 
@@ -166,6 +166,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@nasaames](https://www.instagram.com/nasaames/) | English | 2026-10-15 and 2026-10-28 |
 | United Kingdom | [@affinity](https://www.instagram.com/affinity/) | English | 2026-10-13 and 2026-10-15 |
 | United States | [@adobelive](https://www.instagram.com/adobelive/) | English | 2026-10-08 and 2026-10-16 |
+| United States | [@notionhq](https://www.instagram.com/notionhq/) | English | 2026-10-22 and 2026-10-27 |
+| United States | [@claudeai](https://www.instagram.com/claudeai/) | English | 2026-10-30 |
 
 ## Country totals
 
@@ -180,8 +182,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 18 |
-| United States | 91 |
-| **Total** | **144** |
+| United States | 93 |
+| **Total** | **146** |
 
 ## Evidence sources
 
@@ -246,7 +248,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 144-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 146-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -433,3 +435,12 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United Kingdom — [@affinity Instagram profile](https://www.instagram.com/affinity/) publishes English-language content about professional creative software, including vector design, photo editing and page layout. A public [October 13, 2026 post](https://imginn.com/p/DecEGk_osoF/) describes Affinity as free professional creative software; an [October 15 post](https://imginn.com/p/DehVBdEl5fh/) previews the Affinity for iPad launch and explains its vector, photo-editing and layout tools. Affinity's public company listing identifies its headquarters in Nottingham, United Kingdom, and its industry as software development; Canva's UK careers site identifies the UK as its European headquarters and lists Affinity among the original acquisitions. [October 13 post](https://imginn.com/p/DecEGk_osoF/); [October 15 post](https://imginn.com/p/DehVBdEl5fh/); [company headquarters and industry](https://www.linkedin.com/company/affinity-canva/); [Canva UK location and Affinity relationship](https://www.lifeatcanva.com/en/locations/united-kingdom/).
 
 - United States — [@adobelive Instagram profile](https://www.instagram.com/adobelive/) is the official Adobe Live community channel, publishing English-language material about creative software and digital workflows. A public [October 16, 2026 post](https://imginn.com/p/Dej6a5kjzd4/) discusses how AI expands creative possibilities and features Adobe's agentic-AI leadership at a San Francisco Studio Sessions event; an [October 8 post](https://imginn.com/p/DeP5rIHlzKl/) covers an Adobe Live x Creative Collective takeover. The official Adobe Live link hub lists its Instagram channel and educational content for Photoshop, Lightroom, Illustrator, Premiere, After Effects, Firefly and Adobe Express. Adobe Live's public LinkedIn profile lists San Francisco, California, United States as its location. [October 16 post](https://imginn.com/p/Dej6a5kjzd4/); [October 8 post](https://imginn.com/p/DeP5rIHlzKl/); [official Adobe Live links and software playlists](https://linktr.ee/adobelive); [Adobe Live profile and San Francisco location](https://www.linkedin.com/in/adobelive/); [Adobe official US offices](https://www.adobe.com/about-adobe/contact/offices.html).
+
+
+## Evidence added in V 0.54
+
+- Denmark — The existing [@why.cgi Instagram profile](https://www.instagram.com/why.cgi/) entry has been restored to this country file. Its English-language content covers CGI/VFX production, mixed-reality advertising, AI-generated video and 3D animation. The qualifying [October 13, 2026 post](https://imginn.com/p/DebowuSjdtc/) discusses technology-driven CGI campaigns for Verizon, MSI, Botim, Samsung and Anker. WHY.CGI's official website lists Copenhagen among its operating cities alongside Singapore and Los Angeles; Denmark is retained as the country assignment based on its Copenhagen presence, not as an assertion of an exclusively Danish footprint. [Dated post](https://imginn.com/p/DebowuSjdtc/); [official studio overview](https://whycgi.media/); [official locations](https://whycgi.media/studio/).
+
+- United States — [@notionhq Instagram profile](https://www.instagram.com/notionhq/) publishes English-language content about Notion's productivity and collaboration software. Its [October 22, 2026 post](https://www.instagram.com/p/Dezq9UECfqv/) presents Notion for students, while an [October 27 post](https://www.instagram.com/p/DfAZFLlJfKe) covers student use cases and the Campus Leader program. Notion's official site lists the @notionhq Instagram account and says the company is based in downtown San Francisco, California. [Official Notion account listing](https://app.notion.com/29ad5368c6db817b9c8dc3fee36146f4); [official company location](https://www.notion.com/about); [October 22 post record](https://gondola.cc/posts/76537168-notionhq-instagram); [October 27 post record](https://gondola.cc/posts/76537166-notionhq-instagram).
+
+- United States — [@claudeai Instagram profile](https://www.instagram.com/claudeai/) is publicly identified as Claude by Anthropic. Its English-language technology content covers the Claude AI assistant, problem-solving and AI-assisted software workflows. A dated [October 30, 2026 post](https://imginn.com/p/DfH6EZ0mtOd/) describes a physical creative project built with help from Claude. Anthropic's official transparency page identifies the company as headquartered in San Francisco, California. [Claude profile and account identity](https://creatorsoftoday.com/c/claudeai); [Anthropic official headquarters statement](https://www.anthropic.com/transparency/voluntary-commitments); [October 30 post](https://imginn.com/p/DfH6EZ0mtOd/).

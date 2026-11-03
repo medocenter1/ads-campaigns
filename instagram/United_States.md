@@ -646,3 +646,16 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-08 and 2026-10-16
   - Evidence: [October 16, 2026 post on AI expanding creative workflows at Adobe Live Studio Sessions in San Francisco](https://imginn.com/p/Dej6a5kjzd4/); [October 8, 2026 Creative Collective takeover and creator-tool discussion](https://imginn.com/p/DeP5rIHlzKl/)
   - Note: The official @AdobeLive link hub links its Instagram channel and lists learning content for Photoshop, Lightroom, Illustrator, Premiere, After Effects, Adobe Firefly and Adobe Express. Adobe Live's public LinkedIn profile identifies its location as San Francisco, California, United States, and describes it as a community built to inspire and educate. Adobe's official office directory lists its US corporate headquarters in San Jose, California. [Official Adobe Live channels and software playlists](https://linktr.ee/adobelive); [Adobe Live profile and San Francisco location](https://www.linkedin.com/in/adobelive); [Adobe US offices and headquarters](https://www.adobe.com/about-adobe/contact/offices.html)
+
+- **Profile:** [@notionhq](https://www.instagram.com/notionhq/)
+  - Content language: English
+  - Technology focus: Productivity and collaboration software, all-in-one digital workspace, documents, project management, knowledge bases, templates, Notion AI and workflow automation
+  - Qualifying posts observed: 2026-10-22 and 2026-10-27
+  - Evidence: [October 22, 2026 post presenting Notion for students, templates and student workflows](https://www.instagram.com/p/Dezq9UECfqv/); [October 27 post introducing a Campus Leader and Notion student use cases](https://www.instagram.com/p/DfAZFLlJfKe/)
+  - Note: Notion's official website links its Instagram account as @notionhq. Its official About page states that the company is based in downtown San Francisco, California. The cited posts are in English and show product use cases for Notion's workspace software. [Notion official account listing](https://app.notion.com/29ad5368c6db817b9c8dc3fee36146f4); [Notion official About page and San Francisco location](https://www.notion.com/about); [October 22 post record](https://gondola.cc/posts/76537168-notionhq-instagram); [October 27 post record](https://gondola.cc/posts/76537166-notionhq-instagram)
+- **Profile:** [@claudeai](https://www.instagram.com/claudeai/)
+  - Content language: English
+  - Technology focus: Artificial intelligence, Claude AI assistant, AI-assisted coding, problem-solving, generative AI and software tools
+  - Qualifying post observed: 2026-10-30
+  - Evidence: [October 30, 2026 post showing a creative physical project built with help from Claude](https://imginn.com/p/DfH6EZ0mtOd/)
+  - Note: The account is publicly identified as Claude by Anthropic and its profile describes Claude as an AI assistant for problem-solving. Anthropic's official transparency page identifies the company as headquartered in San Francisco, California. The cited post is an English-language technology example of Claude being used to create an interactive physical project. [Claude by Anthropic profile and Instagram handle](https://creatorsoftoday.com/c/claudeai); [Anthropic official US headquarters statement](https://www.anthropic.com/transparency/voluntary-commitments); [dated October 30 post](https://imginn.com/p/DfH6EZ0mtOd/)
