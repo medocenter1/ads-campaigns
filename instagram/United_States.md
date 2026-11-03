@@ -451,3 +451,11 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying Instagram posts observed: 2026-10-29 and 2026-10-30
   - Evidence: [October 29 full-color UV 3D-printing post and October 30 CJ270 full-color 3D-printer post](https://universe.beacons.ai/creators/unclejessy4real)
   - Note: Scout identifies Uncle Jessy as US-based and English-language in Technology & Software; his creator bio describes 3D printing and technology. [Creator/country/language profile](https://www.babbl-labs.com/creators/unclejessy); [3D-printing creator directory](https://infldb.com/top-influencers-by-category/3d%20printing).
+
+
+- **Profile:** [@ferdie.dev](https://www.instagram.com/ferdie.dev/)
+  - Content language: English
+  - Technology focus: Consumer technology, computer and desk setups, productivity tools, AI/software-engineering workflows, monitors, speakers, smartphones/tablets and computer peripherals
+  - Qualifying post observed: 2026-11-01
+  - Evidence: [November 1, 2026 Instagram post with multiple images of computer displays, keyboard, phone/tablet, desk setup and audio devices](https://imginn.com/p/DfLkufPIW2K/)
+  - Note: The public Instagram bio identifies Ferdinand Tettey as a tech creator focused on technology, lifestyle, productivity and setups, and lists Austin, Texas. influData includes the creator in its Austin, United States Technology & Gadgets ranking. [Public Instagram profile and bio](https://imginn.com/ferdie.dev/); [Austin, United States creator listing](https://infludata.com/es/rankings/top-20-influencer-united-states-of-america-austin-tech-instagram); [creator niche and technology/software-workflow profile](https://motionapp.com/creator/ferdiedev/).

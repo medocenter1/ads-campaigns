@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 106 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **107 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 107 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **108 unique profiles**.
 
 ## Current verified shortlist
 
@@ -128,6 +128,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@milesabovetech](https://www.instagram.com/milesabovetech/) | English | 2026-10-26 and 2026-10-27 |
 | United States | [@echainzzzz](https://www.instagram.com/echainzzzz/) | English | 2026-10-23 |
 | United States | [@unclejessy4real](https://www.instagram.com/unclejessy4real/) | English | 2026-10-29 and 2026-10-30 |
+| United States | [@ferdie.dev](https://www.instagram.com/ferdie.dev/) | English | 2026-11-01 |
 
 ## Country totals
 
@@ -141,8 +142,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 13 |
-| United States | 64 |
-| **Total** | **107** |
+| United States | 65 |
+| **Total** | **108** |
 
 ## Evidence sources
 
@@ -190,7 +191,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 107-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 108-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -232,3 +233,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.25
 
 - United Kingdom — [@digiportuk November 1 Instagram post about Wi-Fi readiness for GTA 6 and its approximately 210 GB download](https://www.instagram.com/p/DfNPfFhjCvf/); its public creator profile describes Digiport as a computer-solutions business offering PC repairs and custom builds and includes recent Instagram posts. The November 2 post identifies its business location in Pontnewydd/Cwmbran, Wales. [Creator profile and dated Instagram posts](https://universe.beacons.ai/creators/digiportuk); [Cwmbran Community Council](https://www.cwmbran.gov.uk/).
+
+
+## Evidence added in V 0.26
+
+- United States — [@ferdie.dev November 1, 2026 Instagram post](https://imginn.com/p/DfLkufPIW2K/) is a public month-end recap containing images of computers, keyboard, phone/tablet, desk setup and audio devices. The account's public bio identifies it as a Tech / Lifestyle / Productivity / Setup creator and lists Austin, Texas. The recent post caption and profile bio are in English. [Public Instagram profile and bio](https://imginn.com/ferdie.dev/); [Austin, United States technology creator listing](https://infludata.com/es/rankings/top-20-influencer-united-states-of-america-austin-tech-instagram); [technology, software-workflow and setup niche profile](https://motionapp.com/creator/ferdiedev/).
