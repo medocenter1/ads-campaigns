@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 120 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `theaifield` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **121 unique profiles**...
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 121 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle `saladpictures_` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **122 unique profiles**....
 
 ## Current verified shortlist
 
@@ -142,6 +142,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@jayztwocents](https://www.instagram.com/jayztwocents/) | English | 2026-10-20 |
 | United States | [@deepister.tech](https://www.instagram.com/deepister.tech/) | English | 2026-10-19 |
 | United States | [@theaifield](https://www.instagram.com/theaifield/) | English | 2026-10-25 |
+| United States | [@saladpictures_](https://www.instagram.com/saladpictures_/) | English | 2026-10-26 |
 
 ## Country totals
 
@@ -155,8 +156,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 15 |
-| United States | 74 |
-| **Total** | **121** |
+| United States | 75 |
+| **Total** | **122** |
 
 ## Evidence sources
 
@@ -301,3 +302,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.36
 
 - United States — [@theaifield Instagram profile](https://www.instagram.com/theaifield/) publishes English-language AI and technology explainers. A public [October 25, 2026 Instagram post](https://imginn.com/p/De72I3UslAf/) explains NVIDIA's RTX Spark / N1X chip, unified memory and local AI computing, satisfying the recent-post criterion. CheckBB classifies the account as a United States-based Tech/AI creator; CreatorDB describes The AI Field as a digital media outlet focused on AI developments and confirms its English-language posts. [US location and Tech/AI category](https://checkbb.com/en/instagram/theaifield); [creator profile and language/niche description](https://creatordb.app/creatorstats/theaifield).
+
+## Evidence added in V 0.37
+
+- United States — [@saladpictures_ Instagram profile](https://www.instagram.com/saladpictures_/) focuses on technology, PC builds and gaming hardware; the creator's public bio says “tech • lifestyle • pc builds”. A public [Instagram Reel dated October 26, 2026](https://universe.beacons.ai/brands/framework) is titled “Can you build your own laptop?” and is categorized under gaming/esports and technology/science, satisfying the one-month activity criterion. The public creator listing identifies the creator as based in the United States and the content language is English. [Dated Instagram Reel and creator category](https://universe.beacons.ai/brands/framework); [creator bio and PC-building niche](https://influencers.feedspot.com/pc_building_instagram_influencers/); [United States / AI & Technology listing](https://www.storika.ai/creators/page/3); [US profile cross-check](https://crevideo.com/tiktok/saladpictures_).

@@ -527,3 +527,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-25
   - Evidence: [October 25 Instagram post about NVIDIA RTX Spark and local AI computing](https://imginn.com/p/De72I3UslAf/)
   - Note: CheckBB's public creator profile classifies @theaifield as a United States-based Tech/AI creator; CreatorDB independently describes it as an English-language AI and technology news/curation account. [US location and Tech/AI classification](https://checkbb.com/en/instagram/theaifield); [creator description and English content](https://creatordb.app/creatorstats/theaifield/).
+
+- **Profile:** [@saladpictures_](https://www.instagram.com/saladpictures_/)
+  - Content language: English
+  - Technology focus: PC builds, computer hardware, gaming equipment, laptop features, software tools and practical tech explainers
+  - Qualifying post observed: 2026-10-26
+  - Evidence: [October 26, 2026 Instagram Reel about building a laptop](https://universe.beacons.ai/brands/framework)
+  - Note: The creator's public bio describes her content as “tech • lifestyle • pc builds”; Storika classifies the creator under AI & Technology in the United States, while Crevideo independently identifies the same creator profile as US-based. [Creator bio and PC-building niche](https://influencers.feedspot.com/pc_building_instagram_influencers/); [United States / AI & Technology creator listing](https://www.storika.ai/creators/page/3); [US profile cross-check](https://crevideo.com/tiktok/saladpictures_).
