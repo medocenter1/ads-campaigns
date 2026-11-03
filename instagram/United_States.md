@@ -303,3 +303,18 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-27
   - Evidence: [Instagram post](https://imginn.com/p/DfAtZXGRAai/)
   - Note: Creator Data identifies Marques Brownlee as a technology creator based in New Jersey, United States. [Country/company cross-check](https://creator-data.com/creator/marques-browniee).
+
+- **Profile:** [@uncover.ai](https://www.instagram.com/uncover.ai/)
+  - Content language: English
+  - Technology focus: Artificial intelligence news, AI tools, coding software, automation and practical technology explainers
+  - Qualifying posts observed: 2026-10-20 and 2026-10-25
+  - Evidence: [October 20 post on AI-assisted industrial software](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 AI/creativity post](https://imginn.com/p/De6akU6sYol/)
+  - Note: The Uncover AI company profile lists Chicago, Illinois as its headquarters and links directly to this Instagram account. [Company/location cross-check](https://www.linkedin.com/company/uncover-ai).
+
+
+- **Profile:** [@mollymahoneyofficial](https://www.instagram.com/mollymahoneyofficial/)
+  - Content language: English
+  - Technology focus: Practical AI education, Claude, ChatGPT, Google Workspace integrations and AI-assisted marketing workflows
+  - Qualifying post observed: 2026-10-14
+  - Evidence: [October 14 post explaining Claude in Google Docs, Sheets and Slides](https://imginn.com/p/DefaMwKFGGQ/)
+  - Note: CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI & Technology creator whose primary platform is Instagram. [Creator profile and country cross-check](https://creatordb.app/creatorstats/mollymahoneyofficial/).

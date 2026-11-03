@@ -16,3 +16,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-07 and 2026-10-09
   - Evidence: [Beacons creator profile and recent public posts](https://universe.beacons.ai/creators/99setups)
   - Note: The creator identifies as a tech creator based in Spain; recent posts include a studio build and an iPhone 18 Pro Max unboxing. Cross-check: https://resource.myinfluencer.co/neon-influencers
+
+- **Profile:** [@ai.withphil](https://www.instagram.com/ai.withphil/)
+  - Content language: English
+  - Technology focus: Generative AI tools, AI-assisted video production, creative software, Claude workflows and AI-agent production techniques
+  - Qualifying post observed: 2026-10-19
+  - Evidence: [October 19, 2026 Instagram post](https://imginn.com/p/DerrAaVIxjl/)
+  - Note: The creator's LinkedIn profile identifies Phil Franco in Palma, Balearic Islands, Spain; the same professional profile describes AI/video-creation work. [Professional/location cross-check](https://es.linkedin.com/in/phil-franco-443201326). CreatorDB classifies @ai.withphil as an AI Art & Technology Instagram creator: https://creatordb.app/creatorstats/aiwithphil/.

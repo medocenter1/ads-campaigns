@@ -96,6 +96,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@kayvon.ai](https://www.instagram.com/kayvon.ai/) | English | 2026-10-11 |
 | United States | [@meta](https://www.instagram.com/meta/) | English | 2026-10-15 |
 | United States | [@mkbhd](https://www.instagram.com/mkbhd/) | English | 2026-10-27 |
+| Spain | [@ai.withphil](https://www.instagram.com/ai.withphil/) | English | 2026-10-19 |
+| United States | [@uncover.ai](https://www.instagram.com/uncover.ai/) | English | 2026-10-20 and 2026-10-25 |
+| United States | [@mollymahoneyofficial](https://www.instagram.com/mollymahoneyofficial/) | English | 2026-10-14 |
 
 ## Country totals
 
@@ -106,11 +109,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 3 |
-| Spain | 2 |
+| Spain | 3 |
 | Switzerland | 1 |
 | United Kingdom | 11 |
-| United States | 43 |
-| **Total** | **75** |
+| United States | 45 |
+| **Total** | **78** |
 
 ## Evidence sources
 
@@ -159,3 +162,6 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 ## Verification caveats
 
 Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 75-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+
+- Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
+- United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
