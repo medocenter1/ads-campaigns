@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 131 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `techniktolik` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **132 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 132 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `jennaezarik` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **133 unique profiles**.
 
 ## Current verified shortlist
 
@@ -154,6 +154,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@chubee.tech](https://www.instagram.com/chubee.tech/) | English | 2026-11-01 |
 | United Kingdom | [@emdottech](https://www.instagram.com/emdottech/) | English | 2026-10-22 and 2026-10-29 |
 | United States | [@krystallora](https://www.instagram.com/krystallora/) | English | 2026-10-22 |
+| United States | [@jennaezarik](https://www.instagram.com/jennaezarik/) | English | 2026-10-29 |
 
 ## Country totals
 
@@ -167,8 +168,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 17 |
-| United States | 81 |
-| **Total** | **132** |
+| United States | 82 |
+| **Total** | **133** |
 
 ## Evidence sources
 
@@ -227,9 +228,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 - United States — [@krystallora October 22, 2026 iPhone Duo Instagram post](https://socialpruf.com/instagram/krystallora); [Social Cat lists the creator in New York, New York, USA with a Tech/Lifestyle category](https://landing.socialkaat.com/influencers/new-york-lifestyle); [Socialveins independently lists the United States and Tech/Lifestyle bio](https://socialveins.com/influencer/instagram/krystallora).
 
+- United States — [@jennaezarik October 29, 2026 Instagram post about TORRAS phone accessories](https://www.instagram.com/p/DfFymiBS8yx/); [CollabFeed's dated campaign row classifies it as Instagram / Technology / Phone Accessories](https://collabfeed.io/brands/torras); [Jolygram profile and recent technology captions](https://jolygram.com/en/profile/jennaezarik/3417607); [Socialveins lists her as based in Lincoln, United States](https://socialveins.com/influencer/instagram/jennaezarik).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 132-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 133-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -376,3 +379,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.47
 
 - Germany — [@techniktolik Instagram profile](https://www.instagram.com/techniktolik/) is a German-language technology and gadget account. Scrumball's Instagram statistics listing identifies the account in Germany and records multiple German-language tech posts within the activity window, including an [October 21, 2026 post about a Belkin power bank with up to 120W charging](https://www.scrumball.com/kol/instagram/techniktolik), an October 20 iPhone-case post and an October 19 everyday-carry accessories post. Further dated entries appear on October 12, 8, 5, 4 and 3. [Profile country, tech/gadget tags, dated post records and German captions](https://www.scrumball.com/kol/instagram/techniktolik).
+
+## Evidence added in V 0.48
+
+- United States — [@jennaezarik Instagram profile](https://www.instagram.com/jennaezarik/) publishes English-language technology, gadget and product content, including smartphone accessories, computer devices, gaming equipment, EV technology and software/security products. CollabFeed's campaign feed records an Instagram partnership post on [October 29, 2026 about TORRAS phone accessories](https://www.instagram.com/p/DfFymiBS8yx/) and classifies the content as Technology / Phone Accessories. Jolygram's public profile archive identifies the Instagram account and includes recent technology content about Razer headsets, Microsoft Surface, Rivian EVs and Bitdefender. Socialveins lists Jenna Ezarik as based in Lincoln, United States. [Dated Instagram partnership record](https://collabfeed.io/brands/torras); [technology-focused profile and recent content](https://jolygram.com/en/profile/jennaezarik/3417607); [US location profile](https://socialveins.com/influencer/instagram/jennaezarik).

@@ -576,3 +576,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-22
   - Evidence: [October 22, 2026 Instagram post about iPhone Duo](https://socialpruf.com/instagram/krystallora)
   - Note: Social Cat lists Krystal Lora as based in New York, New York, USA and categorizes the profile as Tech/Lifestyle; Socialveins independently lists the United States and the same tech/lifestyle bio. The dated post caption is in English and discusses the iPhone Duo. [New York creator listing](https://landing.socialkaat.com/influencers/new-york-lifestyle); [US tech/lifestyle profile](https://socialveins.com/influencer/instagram/krystallora); [dated Instagram post analytics](https://socialpruf.com/instagram/krystallora)
+
+- **Profile:** [@jennaezarik](https://www.instagram.com/jennaezarik/)
+  - Content language: English
+  - Technology focus: Consumer technology, smartphones and accessories, iPhone products, computer hardware, gaming devices, EV technology and software/security products
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [October 29, 2026 Instagram partnership post about TORRAS phone accessories](https://www.instagram.com/p/DfFymiBS8yx/)
+  - Note: CollabFeed records an Instagram post by @jennaezarik dated October 29, 2026 and classifies it as Technology / Phone Accessories. Jolygram's public profile archive identifies the account and includes technology content about Razer headsets, Microsoft Surface, Rivian EVs, Bitdefender and other devices. Socialveins lists Jenna Ezarik as based in Lincoln, United States. [Dated Instagram partnership record](https://collabfeed.io/brands/torras); [technology-focused profile and recent content](https://jolygram.com/en/profile/jennaezarik/3417607); [US location profile](https://socialveins.com/influencer/instagram/jennaezarik)
