@@ -101,3 +101,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [October 21 iPhone Duo review post](https://imginn.com/p/DexN8PGPw1Z/) and [October 28 touchscreen MacBook post](https://imginn.com/p/DfDMkB9ypWP/)
   - Note: The Verge is a technology publication. Its terms identify The Verge as a Vox Media, LLC brand, with a US mailing address: https://www.voxmedia.com/terms-of-use/.
 
+- **Profile:** [@alliekmiller](https://www.instagram.com/alliekmiller/)
+  - Content language: English
+  - Technology focus: Artificial intelligence, AI agents, machine learning, automation and AI business applications
+  - Qualifying posts observed: 2026-10-26, 2026-10-27 and 2026-10-28
+  - Evidence: [October 26 post on AI and workplace skills](https://imginn.com/p/De-GTMoEn8O/), [October 27 AI-agent post](https://imginn.com/p/DfAlPmqzsvi/) and [October 28 comparison of AI agents](https://imginn.com/p/DfDEQEYG3to/)
+  - Note: CreatorDB identifies Allie K. Miller as a US-based AI/Technology creator whose primary platform is Instagram; the page reports about 212K Instagram followers: https://creatordb.app/creatorstats/alliekmiller/.
+
