@@ -590,3 +590,24 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-12
   - Evidence: [October 12, 2026 Instagram post about Perseverance setting a new off-world distance record](https://imginn.com/p/DeaMlUSEpgs/)
   - Note: NASA JPL's official social page links to the Instagram account @nasajpl and describes its content as engineering, breakthrough missions and cutting-edge technology. NASA's official social-media directory identifies the Jet Propulsion Laboratory as being in Southern California. [JPL official social page and technology focus](https://www.jpl.nasa.gov/social/); [NASA official account directory and JPL location](https://www.nasa.gov/social-media/)
+
+- **Profile:** [@thelucasokeefe](https://www.instagram.com/thelucasokeefe/)
+  - Content language: English
+  - Technology focus: Creative software and digital-content tools, including Adobe Express, Adobe Firefly, editing workflows and social-media publishing tools
+  - Qualifying post observed: 2026-10-27
+  - Evidence: [October 27, 2026 Instagram partnership post classified as creative software](https://collabfeed.io/brands/adobe-express)
+  - Note: CreatorDB identifies Lucas O'Keefe as a US-based social-media educator whose content covers platform growth and creator workflows; its late-October 2026 snapshot records recent Instagram publishing. CollabFeed classifies his October 27 Instagram partnership post with Adobe Express as Technology / Creative Software. [US-based creator profile](https://creatordb.app/creatorstats/thelucasokeefe/); [dated Instagram software partnership](https://collabfeed.io/brands/adobe-express)
+
+- **Profile:** [@gokceercan](https://www.instagram.com/gokceercan/)
+  - Content language: English
+  - Technology focus: Tech and AI creator tools, video-editing software, audio equipment and digital-creation apps
+  - Qualifying posts observed: 2026-10-22 and 2026-10-25
+  - Evidence: [October 22 DJI audio-equipment Instagram partnership](https://www.instagram.com/p/Dey-iRHRAvE/); [October 25 CapCut video-editing Instagram partnership](https://www.instagram.com/p/De6yTGsxvI7/)
+  - Note: Modash lists Gökçe Ercan Seymour in the United States and identifies St. Petersburg, Florida; the public bio says “Official Creator Tech | AI | Lifestyle.” The creator's Linktree links CapCut and AI/video-editing tools. [US creator profile and location](https://www.modash.io/content-library/brands/capcut-examples/influencers); [DJI partnership](https://collabfeed.io/brands/dji); [CapCut partnership](https://collabfeed.io/brands/capcut); [creator links and tools](https://linktr.ee/gokceercan)
+
+- **Profile:** [@taylorcutfilms](https://www.instagram.com/taylorcutfilms/)
+  - Content language: English
+  - Technology focus: AI-assisted filmmaking, video-editing software, creative AI workflows and digital tools for content production
+  - Qualifying post observed: 2026-10-27
+  - Evidence: [October 27, 2026 Instagram partnership post classified as video-editing software](https://www.instagram.com/p/DfAK2zxvv7i/)
+  - Note: Modash identifies Jordan Taylor Wright as a United States-based creator; CollabFeed records an October 27 Instagram partnership in Technology / Video Editing Software. The creator's profile describes AI tools for film concepts, editing, call sheets and translation. [US creator profile](https://www.modash.io/content-library/brands/capcut-examples/influencers); [dated CapCut technology partnership](https://collabfeed.io/brands/capcut); [AI filmmaking profile](https://www.nutcake.com/creators/taylorcutfilms)
