@@ -639,3 +639,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-15 and 2026-10-28
   - Evidence: [October 15, 2026 Instagram post about the Cassini spacecraft mission](https://imginn.com/p/DehLcUJoMdW/); [October 28, 2026 post about the NGC 1999 nebula](https://imginn.com/p/DfClncxvwKo/)
   - Note: NASA's official social-media directory identifies @nasaames as the Instagram account of Ames Research Center in Silicon Valley, California. The dated Cassini post covers a NASA spacecraft mission and planetary exploration. [NASA official account directory and center location](https://www.nasa.gov/social-media/); [October 15 post](https://imginn.com/p/DehLcUJoMdW/); [October 28 post](https://imginn.com/p/DfClncxvwKo/)
+
+- **Profile:** [@adobelive](https://www.instagram.com/adobelive/)
+  - Content language: English
+  - Technology focus: Creative software education, Adobe Creative Cloud applications, Photoshop, Illustrator, Premiere Pro, After Effects, Firefly and AI-assisted creative workflows
+  - Qualifying posts observed: 2026-10-08 and 2026-10-16
+  - Evidence: [October 16, 2026 post on AI expanding creative workflows at Adobe Live Studio Sessions in San Francisco](https://imginn.com/p/Dej6a5kjzd4/); [October 8, 2026 Creative Collective takeover and creator-tool discussion](https://imginn.com/p/DeP5rIHlzKl/)
+  - Note: The official @AdobeLive link hub links its Instagram channel and lists learning content for Photoshop, Lightroom, Illustrator, Premiere, After Effects, Adobe Firefly and Adobe Express. Adobe Live's public LinkedIn profile identifies its location as San Francisco, California, United States, and describes it as a community built to inspire and educate. Adobe's official office directory lists its US corporate headquarters in San Jose, California. [Official Adobe Live channels and software playlists](https://linktr.ee/adobelive); [Adobe Live profile and San Francisco location](https://www.linkedin.com/in/adobelive); [Adobe US offices and headquarters](https://www.adobe.com/about-adobe/contact/offices.html)

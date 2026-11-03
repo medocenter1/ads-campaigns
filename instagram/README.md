@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 140 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handles `why.cgi` and `nasaames` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **142 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Ten files contained 142 existing profile links (all distinct), while 41 files contained no Instagram profile links. The new handles `affinity` and `adobelive` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **144 unique profiles**.
 
 ## Current verified shortlist
 
@@ -164,6 +164,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@nasahubble](https://www.instagram.com/nasahubble/) | English | 2026-10-27, 2026-10-29 and 2026-10-30 |
 | Denmark | [@why.cgi](https://www.instagram.com/why.cgi/) | English | 2026-10-13 |
 | United States | [@nasaames](https://www.instagram.com/nasaames/) | English | 2026-10-15 and 2026-10-28 |
+| United Kingdom | [@affinity](https://www.instagram.com/affinity/) | English | 2026-10-13 and 2026-10-15 |
+| United States | [@adobelive](https://www.instagram.com/adobelive/) | English | 2026-10-08 and 2026-10-16 |
 
 ## Country totals
 
@@ -177,9 +179,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Netherlands | 6 |
 | Spain | 6 |
 | Switzerland | 1 |
-| United Kingdom | 17 |
-| United States | 90 |
-| **Total** | **142** |
+| United Kingdom | 18 |
+| United States | 91 |
+| **Total** | **144** |
 
 ## Evidence sources
 
@@ -244,7 +246,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 142-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 144-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -424,3 +426,10 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - Denmark — [@why.cgi Instagram profile](https://www.instagram.com/why.cgi/) belongs to WHY.CGI, a global creative studio whose work covers CGI, VFX, mixed reality, 3D animation and AI-generated video. Its [October 13, 2026 Instagram post](https://imginn.com/p/DebowuSjdtc/) explains technology-driven mixed-reality/CGI campaigns for Verizon, MSI, Botim, Samsung and Anker. The studio's official website lists Copenhagen, Singapore and Los Angeles as operating locations and uses a Danish +45 contact number; this entry is categorized under Denmark based on its Copenhagen operating location, with its international footprint disclosed. [Dated post](https://imginn.com/p/DebowuSjdtc/); [official studio overview](https://whycgi.media/); [studio locations](https://whycgi.media/studio/).
 
 - United States — [@nasaames Instagram profile](https://www.instagram.com/nasaames/) is the official NASA Ames Research Center account in Silicon Valley, California. Its English-language technology and aerospace coverage includes spacecraft missions, aeronautics, scientific instruments and research systems. A public [October 15, 2026 post](https://imginn.com/p/DehLcUJoMdW/) discusses the Cassini spacecraft mission; an [October 28 post](https://imginn.com/p/DfClncxvwKo/) features NASA/ESA/ESO observations of the NGC 1999 nebula. NASA's official social-media directory lists @nasaames under Ames Research Center. [NASA official account directory and center location](https://www.nasa.gov/social-media/); [October 15 post](https://imginn.com/p/DehLcUJoMdW/); [October 28 post](https://imginn.com/p/DfClncxvwKo/).
+
+
+## Evidence added in V 0.53
+
+- United Kingdom — [@affinity Instagram profile](https://www.instagram.com/affinity/) publishes English-language content about professional creative software, including vector design, photo editing and page layout. A public [October 13, 2026 post](https://imginn.com/p/DecEGk_osoF/) describes Affinity as free professional creative software; an [October 15 post](https://imginn.com/p/DehVBdEl5fh/) previews the Affinity for iPad launch and explains its vector, photo-editing and layout tools. Affinity's public company listing identifies its headquarters in Nottingham, United Kingdom, and its industry as software development; Canva's UK careers site identifies the UK as its European headquarters and lists Affinity among the original acquisitions. [October 13 post](https://imginn.com/p/DecEGk_osoF/); [October 15 post](https://imginn.com/p/DehVBdEl5fh/); [company headquarters and industry](https://www.linkedin.com/company/affinity-canva/); [Canva UK location and Affinity relationship](https://www.lifeatcanva.com/en/locations/united-kingdom/).
+
+- United States — [@adobelive Instagram profile](https://www.instagram.com/adobelive/) is the official Adobe Live community channel, publishing English-language material about creative software and digital workflows. A public [October 16, 2026 post](https://imginn.com/p/Dej6a5kjzd4/) discusses how AI expands creative possibilities and features Adobe's agentic-AI leadership at a San Francisco Studio Sessions event; an [October 8 post](https://imginn.com/p/DeP5rIHlzKl/) covers an Adobe Live x Creative Collective takeover. The official Adobe Live link hub lists its Instagram channel and educational content for Photoshop, Lightroom, Illustrator, Premiere, After Effects, Firefly and Adobe Express. Adobe Live's public LinkedIn profile lists San Francisco, California, United States as its location. [October 16 post](https://imginn.com/p/Dej6a5kjzd4/); [October 8 post](https://imginn.com/p/DeP5rIHlzKl/); [official Adobe Live links and software playlists](https://linktr.ee/adobelive); [Adobe Live profile and San Francisco location](https://www.linkedin.com/in/adobelive/); [Adobe official US offices](https://www.adobe.com/about-adobe/contact/offices.html).

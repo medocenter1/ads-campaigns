@@ -121,3 +121,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-22 and 2026-10-29
   - Evidence: [October 22, 2026 post about five useful mobile apps and phone tools](https://imginn.com/p/Dez3mEciAFM/); [October 29, 2026 post about four free websites and digital tools](https://imginn.com/p/DfEyoMUiPJT/)
   - Note: The public Instagram profile bio identifies the account as UK-based (“📍 UK 🇬🇧”) and describes it as a daily tech and AI tips page. Both recent post captions are in English. [Public profile and UK location](https://imginn.com/emdottech/); [UK tech creator listing](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/)
+
+- **Profile:** [@affinity](https://www.instagram.com/affinity/)
+  - Content language: English
+  - Technology focus: Professional creative software, vector design, photo editing, page layout, iPad design apps and digital creative workflows
+  - Qualifying posts observed: 2026-10-13 and 2026-10-15
+  - Evidence: [October 13, 2026 post about free professional creative software](https://imginn.com/p/DecEGk_osoF/); [October 15, 2026 post introducing Affinity for iPad and its vector/photo/layout tools](https://imginn.com/p/DehVBdEl5fh/)
+  - Note: Affinity's public company listing identifies its headquarters in Nottingham, United Kingdom, and classifies it as software development. The company is part of Canva, whose own careers site says the UK is its European headquarters and home to original acquisitions including Affinity. The recent captions are in English and specifically discuss the Affinity design application. [Company headquarters and software industry](https://www.linkedin.com/company/affinity-canva/); [Canva UK location and Affinity relationship](https://www.lifeatcanva.com/en/locations/united-kingdom/); [official Affinity software announcement](https://www.canva.com/newsroom/news/all-new-affinity/)
