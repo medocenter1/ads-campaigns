@@ -93,3 +93,11 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-11-01
   - Evidence: [November 1 Instagram post about Wi-Fi readiness for GTA 6 and its approximately 210 GB download](https://www.instagram.com/p/DfNPfFhjCvf/)
   - Note: Digiport describes itself as a computer-solutions company offering PC repairs and custom builds. Its public creator profile lists recent Instagram posts; the November 2 location update identifies its business with Pontnewydd/Cwmbran, Wales, UK. [Creator profile and dated posts](https://universe.beacons.ai/creators/digiportuk); [Cwmbran Community Council](https://www.cwmbran.gov.uk/).
+
+
+- **Profile:** [@ksetups](https://www.instagram.com/ksetups/)
+  - Content language: English
+  - Technology focus: Desk setups, Mac mini and Apple hardware, monitors, editing software (DaVinci Resolve, Final Cut Pro and CapCut), gaming setups, peripherals and creator-workstation equipment
+  - Qualifying posts observed: 2026-10-04, 2026-10-12, 2026-10-14, 2026-10-16, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-23, 2026-10-24, 2026-10-27 and 2026-10-30
+  - Evidence: [October 21 desk-setup and technology-accessories post](https://imginn.com/p/DevRZe4imeT/); [October 27 post discussing the M4 Mac mini, DaVinci Resolve and Final Cut Pro](https://imginn.com/p/De-scNCIDfG/); [October 30 home-office post](https://imginn.com/p/DfIowExsj-i/)
+  - Note: The public Instagram profile archive lists the bio “all things tech”, describes desk-setup, tech and lifestyle content, and displays “UK” as its location. The cited post captions are in English. [Public profile, bio and location](https://imginn.com/ksetups/).

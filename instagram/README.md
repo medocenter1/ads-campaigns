@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 108 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **109 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 109 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **110 unique profiles**.
 
 ## Current verified shortlist
 
@@ -85,6 +85,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United Kingdom | [@georgiebarrat](https://www.instagram.com/georgiebarrat/) | English | 2026-10-20 |
 | United Kingdom | [@techbible.ai](https://www.instagram.com/techbible.ai/) | English | 2026-10-25 and 2026-10-26 |
 | United Kingdom | [@digiportuk](https://www.instagram.com/digiportuk/) | English | 2026-11-01 |
+| United Kingdom | [@ksetups](https://www.instagram.com/ksetups/) | English | 2026-10-04 to 2026-10-30 (multiple posts) |
 | United States | [@apple](https://www.instagram.com/apple/) | English | 2026-10-27 |
 | United States | [@google](https://www.instagram.com/google/) | English | 2026-10-27 |
 | United States | [@amazon](https://www.instagram.com/amazon/) | English | 2026-10-29 |
@@ -142,9 +143,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Netherlands | 6 |
 | Spain | 6 |
 | Switzerland | 1 |
-| United Kingdom | 13 |
+| United Kingdom | 14 |
 | United States | 66 |
-| **Total** | **109** |
+| **Total** | **110** |
 
 ## Evidence sources
 
@@ -192,7 +193,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 109-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 110-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -244,3 +245,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.27
 
 - United States — [@911reviews Instagram profile](https://www.instagram.com/911reviews/) is a Tampa-based technology and product-review account. Its own creator page describes the Instagram channel as covering consumer technology, gadgets and product demonstrations; influData places @911reviews in Tampa, United States, in its Technology & Gadgets Instagram ranking. [Creator's Instagram description](https://www.911reviews.com/instagram/); [Tampa / US Technology & Gadgets ranking](https://infludata.com/rankings/top-20-influencer-united-states-of-america-tech-instagram). Activity check: HypeAuditor's Instagram history records total posts rising from 1,120 on 2026-10-03 to 1,125 on 2026-10-09, 1,126 on 2026-10-10 and 1,127 on 2026-10-15/17, which confirms new Instagram publishing within the last month; Social Blade's newer crawl also reports 1,132 media items. [Dated post-count history and technology categories](https://hypeauditor.com/instagram/911reviews/); [newer public media count](https://socialblade.com/instagram/user/911reviews); [recent public post/profile archive with tech-product examples](https://pictame.com/en/instagram/911reviews/5493776103). English is the language used in the account's public creator description and recent product-review captions.
+
+
+## Evidence added in V 0.28
+
+- United Kingdom — [@ksetups Instagram profile](https://www.instagram.com/ksetups/) publicly identifies the page as UK-based and describes its content as tech, desk setups and lifestyle. The public profile archive records the UK location and English-language bio. Multiple posts in the activity window qualify, including [October 21 desk-setup / technology-accessories post](https://imginn.com/p/DevRZe4imeT/), [October 27 post about an M4 Mac mini, DaVinci Resolve and Final Cut Pro](https://imginn.com/p/De-scNCIDfG/), and [October 30 home-office post](https://imginn.com/p/DfIowExsj-i/). [Public profile, bio and UK location](https://imginn.com/ksetups/).
