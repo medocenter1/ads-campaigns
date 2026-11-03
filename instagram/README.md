@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 129 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `emdottech` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **130 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 130 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `krystallora` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **131 unique profiles**.
 
 ## Current verified shortlist
 
@@ -152,6 +152,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@peachietech](https://www.instagram.com/peachietech/) | English | 2026-10-30 and 2026-11-02 |
 | United States | [@chubee.tech](https://www.instagram.com/chubee.tech/) | English | 2026-11-01 |
 | United Kingdom | [@emdottech](https://www.instagram.com/emdottech/) | English | 2026-10-22 and 2026-10-29 |
+| United States | [@krystallora](https://www.instagram.com/krystallora/) | English | 2026-10-22 |
 
 ## Country totals
 
@@ -165,8 +166,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 17 |
-| United States | 80 |
-| **Total** | **130** |
+| United States | 81 |
+| **Total** | **131** |
 
 ## Evidence sources
 
@@ -223,9 +224,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 - United Kingdom — [@emdottech October 22, 2026 post about mobile apps and phone tools](https://imginn.com/p/Dez3mEciAFM/) and [October 29, 2026 post about free websites and digital tools](https://imginn.com/p/DfEyoMUiPJT/); [public Instagram bio shows UK location](https://imginn.com/emdottech/); [UK tech creator listing](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/).
 
+- United States — [@krystallora October 22, 2026 iPhone Duo Instagram post](https://socialpruf.com/instagram/krystallora); [Social Cat lists the creator in New York, New York, USA with a Tech/Lifestyle category](https://landing.socialkaat.com/influencers/new-york-lifestyle); [Socialveins independently lists the United States and Tech/Lifestyle bio](https://socialveins.com/influencer/instagram/krystallora).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 130-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 131-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -363,3 +366,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.45
 
 - United Kingdom — [@emdottech Instagram profile](https://www.instagram.com/emdottech/) is an English-language technology and AI tips page. Its public profile explicitly lists “UK 🇬🇧” and describes the account as sharing daily tech and AI tips. A public [October 22, 2026 post](https://imginn.com/p/Dez3mEciAFM/) covers five useful apps and mobile tools; its [October 29, 2026 post](https://imginn.com/p/DfEyoMUiPJT/) covers four free websites for PC repair, image editing and productivity. The captions are in English. [Profile bio and UK location](https://imginn.com/emdottech/); [UK technology creator directory](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/).
+
+
+## Evidence added in V 0.46
+
+- United States — [@krystallora Instagram profile](https://www.instagram.com/krystallora/) belongs to Krystal Lora, a technology/lifestyle creator based in New York, New York, USA. Social Cat lists the account as Tech/Lifestyle and gives New York as the creator location; Socialveins independently identifies the account as US-based and repeats the Tech/Lifestyle bio. A public Instagram post dated [October 22, 2026](https://socialpruf.com/instagram/krystallora) features the iPhone Duo and uses the English caption “doomscrolling on iPhone Duo”. The account's recent content also includes iPhone and app-related posts. [New York creator listing](https://landing.socialkaat.com/influencers/new-york-lifestyle); [US tech/lifestyle profile](https://socialveins.com/influencer/instagram/krystallora); [dated post and caption](https://socialpruf.com/instagram/krystallora).
