@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 137 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handles `nasajohnson`, `nasawebb` and `nasahubble` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **140 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 140 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handles `why.cgi` and `nasaames` were compared case-insensitively with every profile handle across all 51 files and were absent. No duplicate was added; the shortlist now contains **142 unique profiles**.
 
 ## Current verified shortlist
 
@@ -162,11 +162,14 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@nasajohnson](https://www.instagram.com/nasajohnson/) | English | 2026-10-29 |
 | United States | [@nasawebb](https://www.instagram.com/nasawebb/) | English | 2026-10-16 and 2026-10-27 |
 | United States | [@nasahubble](https://www.instagram.com/nasahubble/) | English | 2026-10-27, 2026-10-29 and 2026-10-30 |
+| Denmark | [@why.cgi](https://www.instagram.com/why.cgi/) | English | 2026-10-13 |
+| United States | [@nasaames](https://www.instagram.com/nasaames/) | English | 2026-10-15 and 2026-10-28 |
 
 ## Country totals
 
 | Country | Accounts |
 |---|---:|
+| Denmark | 1 |
 | France | 6 |
 | Germany | 13 |
 | Greece | 1 |
@@ -175,8 +178,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 17 |
-| United States | 89 |
-| **Total** | **140** |
+| United States | 90 |
+| **Total** | **142** |
 
 ## Evidence sources
 
@@ -241,7 +244,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 140-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 142-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -414,3 +417,10 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United States — [@nasawebb Instagram profile](https://www.instagram.com/nasawebb/) is the official James Webb Space Telescope account. Its English-language posts cover infrared telescope instruments, space imaging systems and scientific observation. A public [October 16, 2026 post](https://imginn.com/p/DekQCf3k8Kk/) discusses Webb's advanced infrared instruments; an [October 27 post](https://imginn.com/p/DfA9OP2P9Af/) explains how Webb observations help researchers study the early universe and supermassive black holes. NASA's official directory lists the account, and Qoruz attributes it to Greenbelt, Maryland, United States. [NASA official social directory](https://www.nasa.gov/social-media/); [profile and US location](https://qoruz.com/NASAWebb/instagram); [October 16 post](https://imginn.com/p/DekQCf3k8Kk/); [October 27 post](https://imginn.com/p/DfA9OP2P9Af/).
 
 - United States — [@nasahubble Instagram profile](https://www.instagram.com/nasahubble/) is an official NASA Hubble Space Telescope channel. Its content includes optical and multi-wavelength space imaging, telescope instruments and scientific visualizations. Recent public Instagram posts include [October 27, 2026 telescope assembly imagery](https://imginn.com/p/DfABiuvm2Ru/), [October 29 Hubble/Webb imaging comparisons](https://imginn.com/p/DfFDaHJoM49/) and [October 30 telescope imagery](https://imginn.com/p/DfGqhMUGNXW/). NASA's official social directory lists @nasahubble, and the NASA Hubble page confirms the account belongs to the mission's official social channels. [NASA official social directory](https://www.nasa.gov/social-media/); [NASA Hubble official social-media page](https://science.nasa.gov/mission/hubble/hubble-news/hubble-social-media/); [October 27 post](https://imginn.com/p/DfABiuvm2Ru/); [October 29 post](https://imginn.com/p/DfFDaHJoM49/); [October 30 post](https://imginn.com/p/DfGqhMUGNXW/).
+
+
+## Evidence added in V 0.52
+
+- Denmark — [@why.cgi Instagram profile](https://www.instagram.com/why.cgi/) belongs to WHY.CGI, a global creative studio whose work covers CGI, VFX, mixed reality, 3D animation and AI-generated video. Its [October 13, 2026 Instagram post](https://imginn.com/p/DebowuSjdtc/) explains technology-driven mixed-reality/CGI campaigns for Verizon, MSI, Botim, Samsung and Anker. The studio's official website lists Copenhagen, Singapore and Los Angeles as operating locations and uses a Danish +45 contact number; this entry is categorized under Denmark based on its Copenhagen operating location, with its international footprint disclosed. [Dated post](https://imginn.com/p/DebowuSjdtc/); [official studio overview](https://whycgi.media/); [studio locations](https://whycgi.media/studio/).
+
+- United States — [@nasaames Instagram profile](https://www.instagram.com/nasaames/) is the official NASA Ames Research Center account in Silicon Valley, California. Its English-language technology and aerospace coverage includes spacecraft missions, aeronautics, scientific instruments and research systems. A public [October 15, 2026 post](https://imginn.com/p/DehLcUJoMdW/) discusses the Cassini spacecraft mission; an [October 28 post](https://imginn.com/p/DfClncxvwKo/) features NASA/ESA/ESO observations of the NGC 1999 nebula. NASA's official social-media directory lists @nasaames under Ames Research Center. [NASA official account directory and center location](https://www.nasa.gov/social-media/); [October 15 post](https://imginn.com/p/DehLcUJoMdW/); [October 28 post](https://imginn.com/p/DfClncxvwKo/).

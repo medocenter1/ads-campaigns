@@ -632,3 +632,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-27, 2026-10-29 and 2026-10-30
   - Evidence: [October 27 post showing telescope hardware during assembly](https://imginn.com/p/DfABiuvm2Ru/); [October 29 post comparing Hubble and Webb observations of the Cat's Head Nebula](https://imginn.com/p/DfFDaHJoM49/); [October 30 post on the same telescope imaging work](https://imginn.com/p/DfGqhMUGNXW/)
   - Note: NASA's official social-media directory lists @nasahubble as the Hubble Space Telescope Instagram account; NASA's Hubble social-media page identifies the account as part of the mission's official channels, managed through NASA's Goddard Space Flight Center in Greenbelt, Maryland. [NASA official account directory](https://www.nasa.gov/social-media/); [NASA Hubble official social-media page](https://science.nasa.gov/mission/hubble/hubble-news/hubble-social-media/); [October 27 post](https://imginn.com/p/DfABiuvm2Ru/); [October 29 post](https://imginn.com/p/DfFDaHJoM49/); [October 30 post](https://imginn.com/p/DfGqhMUGNXW/)
+
+- **Profile:** [@nasaames](https://www.instagram.com/nasaames/)
+  - Content language: English
+  - Technology focus: Aerospace engineering, spacecraft missions, aeronautics, space systems, scientific instruments and NASA research technology
+  - Qualifying posts observed: 2026-10-15 and 2026-10-28
+  - Evidence: [October 15, 2026 Instagram post about the Cassini spacecraft mission](https://imginn.com/p/DehLcUJoMdW/); [October 28, 2026 post about the NGC 1999 nebula](https://imginn.com/p/DfClncxvwKo/)
+  - Note: NASA's official social-media directory identifies @nasaames as the Instagram account of Ames Research Center in Silicon Valley, California. The dated Cassini post covers a NASA spacecraft mission and planetary exploration. [NASA official account directory and center location](https://www.nasa.gov/social-media/); [October 15 post](https://imginn.com/p/DehLcUJoMdW/); [October 28 post](https://imginn.com/p/DfClncxvwKo/)
