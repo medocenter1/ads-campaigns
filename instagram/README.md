@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 109 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **110 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 110 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **111 unique profiles**.
 
 ## Current verified shortlist
 
@@ -131,6 +131,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@unclejessy4real](https://www.instagram.com/unclejessy4real/) | English | 2026-10-29 and 2026-10-30 |
 | United States | [@ferdie.dev](https://www.instagram.com/ferdie.dev/) | English | 2026-11-01 |
 | United States | [@911reviews](https://www.instagram.com/911reviews/) | English | 2026-10-09, 2026-10-10 and 2026-10-15 (post-count increments) |
+| United States | [@seattlebuiltpcs](https://www.instagram.com/seattlebuiltpcs/) | English | 2026-10-04 |
 
 ## Country totals
 
@@ -144,8 +145,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 14 |
-| United States | 66 |
-| **Total** | **110** |
+| United States | 67 |
+| **Total** | **111** |
 
 ## Evidence sources
 
@@ -193,7 +194,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 110-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 111-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -250,3 +251,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.28
 
 - United Kingdom — [@ksetups Instagram profile](https://www.instagram.com/ksetups/) publicly identifies the page as UK-based and describes its content as tech, desk setups and lifestyle. The public profile archive records the UK location and English-language bio. Multiple posts in the activity window qualify, including [October 21 desk-setup / technology-accessories post](https://imginn.com/p/DevRZe4imeT/), [October 27 post about an M4 Mac mini, DaVinci Resolve and Final Cut Pro](https://imginn.com/p/De-scNCIDfG/), and [October 30 home-office post](https://imginn.com/p/DfIowExsj-i/). [Public profile, bio and UK location](https://imginn.com/ksetups/).
+
+
+## Evidence added in V 0.29
+
+- United States — [@seattlebuiltpcs October 4, 2026 Instagram post](https://imginn.com/p/DeFZUvJSdcv/) states "We Build PCs for YOUR Budget" and links to Seattle Built's PC-building site; its content is about PC gaming and custom computer builds. [Dated Instagram post](https://imginn.com/p/DeFZUvJSdcv/). Seattle Built's official contact page lists its store at 17171 Bothell Way NE, Lake Forest Park, Washington 98155; the official website describes its business as specializing in personalized computers, preconfigured builds, and custom PC design. [Official store address and contact information](https://seattlebuilt.com/contact/); [official business overview](https://seattlebuilt.com/). The account's public post caption is in English.

@@ -467,3 +467,11 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying activity observed: 2026-10-09, 2026-10-10 and 2026-10-15 (public Instagram post-count increments)
   - Evidence: [HypeAuditor's dated Instagram history](https://hypeauditor.com/instagram/911reviews/) records total posts increasing from 1,120 on October 3 to 1,125 on October 9, 1,126 on October 10 and 1,127 on October 15/17. [Social Blade's newer public media count](https://socialblade.com/instagram/user/911reviews) reports 1,132 media items.
   - Note: 911Reviews' own creator page identifies @911reviews as its Instagram technology-review account covering consumer technology, gadgets and product demonstrations. influData places the account in Tampa, United States, in the Technology & Gadgets category. Public profile and creator copy are in English. [Creator's Instagram description](https://www.911reviews.com/instagram/); [Tampa / US technology creator ranking](https://infludata.com/rankings/top-20-influencer-united-states-of-america-tech-instagram); [public profile and recent post samples](https://pictame.com/en/instagram/911reviews/5493776103).
+
+
+- **Profile:** [@seattlebuiltpcs](https://www.instagram.com/seattlebuiltpcs/)
+  - Content language: English
+  - Technology focus: Custom desktop computers, PC gaming, gaming hardware, component selection and budget-based PC builds
+  - Qualifying post observed: 2026-10-04
+  - Evidence: [October 4 Instagram post](https://imginn.com/p/DeFZUvJSdcv/) says "We Build PCs for YOUR Budget" and invites viewers to follow for more PC-related content, using the hashtags #pc, #pcgaming, #pcbuild, #pcgamer and #gamingpc.
+  - Note: Seattle Built's official contact page lists its store at 17171 Bothell Way NE, Lake Forest Park, Washington 98155, USA. Its official website says the business specializes in personalized computers, preconfigured PC builds and custom PC design. [Official store address and contact information](https://seattlebuilt.com/contact/); [official company and services overview](https://seattlebuilt.com/).
