@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 143 profile links (all distinct), while 42 files contained no Instagram profile links. The previous README still listed `why.cgi`, but its Denmark file had been inadvertently emptied in V 0.53; that existing entry has been restored using its retained V 0.52 evidence. The new handles `notionhq` and `claudeai` were compared case-insensitively with profile handles across all 51 country files and were absent. The corrected country files and central shortlist now contain **146 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Ten files contained 146 profile links (all distinct), while 41 files contained no Instagram profile links. The new handle `itsamineazizi` was compared case-insensitively with every profile handle across all 51 country files and was absent. No duplicate was added; the shortlist now contains **147 unique profiles**.
 
 ## Current verified shortlist
 
@@ -168,6 +168,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@adobelive](https://www.instagram.com/adobelive/) | English | 2026-10-08 and 2026-10-16 |
 | United States | [@notionhq](https://www.instagram.com/notionhq/) | English | 2026-10-22 and 2026-10-27 |
 | United States | [@claudeai](https://www.instagram.com/claudeai/) | English | 2026-10-30 |
+| United States | [@itsamineazizi](https://www.instagram.com/itsamineazizi/) | English | 2026-10-09 |
 
 ## Country totals
 
@@ -182,8 +183,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 18 |
-| United States | 93 |
-| **Total** | **146** |
+| United States | 94 |
+| **Total** | **147** |
 
 ## Evidence sources
 
@@ -248,7 +249,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 146-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 147-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -444,3 +445,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United States — [@notionhq Instagram profile](https://www.instagram.com/notionhq/) publishes English-language content about Notion's productivity and collaboration software. Its [October 22, 2026 post](https://www.instagram.com/p/Dezq9UECfqv/) presents Notion for students, while an [October 27 post](https://www.instagram.com/p/DfAZFLlJfKe) covers student use cases and the Campus Leader program. Notion's official site lists the @notionhq Instagram account and says the company is based in downtown San Francisco, California. [Official Notion account listing](https://app.notion.com/29ad5368c6db817b9c8dc3fee36146f4); [official company location](https://www.notion.com/about); [October 22 post record](https://gondola.cc/posts/76537168-notionhq-instagram); [October 27 post record](https://gondola.cc/posts/76537166-notionhq-instagram).
 
 - United States — [@claudeai Instagram profile](https://www.instagram.com/claudeai/) is publicly identified as Claude by Anthropic. Its English-language technology content covers the Claude AI assistant, problem-solving and AI-assisted software workflows. A dated [October 30, 2026 post](https://imginn.com/p/DfH6EZ0mtOd/) describes a physical creative project built with help from Claude. Anthropic's official transparency page identifies the company as headquartered in San Francisco, California. [Claude profile and account identity](https://creatorsoftoday.com/c/claudeai); [Anthropic official headquarters statement](https://www.anthropic.com/transparency/voluntary-commitments); [October 30 post](https://imginn.com/p/DfH6EZ0mtOd/).
+
+
+## Evidence added in V 0.56
+
+- United States — [@itsamineazizi Instagram profile](https://www.instagram.com/itsamineazizi/) publishes English-language technology content about artificial intelligence, software, generative video, AI agents and productivity tools. A public [October 9, 2026 Instagram Reel](https://darkugc.com/video/ig-DeSHvalFa9Z) shows the creator building an AI creative-director tool with Replit to critique and improve content hooks. Collabstr identifies Amine Azizi as a technology creator based in New York, NY, United States; an October 7 creator profile further describes his focus on AI tools, software and emerging technology. [Dated Instagram Reel and content description](https://darkugc.com/video/ig-DeSHvalFa9Z); [creator profile and New York location](https://collabstr.com/itsamineazizi); [October 7 technology creator profile](https://www.einnews.com/pr_news/947609806/amine-azizi-ai-content-creator-reveals-a-framework-for-simplifying-complex-ai-products-into-short-form-video).
