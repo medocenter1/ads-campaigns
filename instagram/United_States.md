@@ -459,3 +459,11 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-11-01
   - Evidence: [November 1, 2026 Instagram post with multiple images of computer displays, keyboard, phone/tablet, desk setup and audio devices](https://imginn.com/p/DfLkufPIW2K/)
   - Note: The public Instagram bio identifies Ferdinand Tettey as a tech creator focused on technology, lifestyle, productivity and setups, and lists Austin, Texas. influData includes the creator in its Austin, United States Technology & Gadgets ranking. [Public Instagram profile and bio](https://imginn.com/ferdie.dev/); [Austin, United States creator listing](https://infludata.com/es/rankings/top-20-influencer-united-states-of-america-austin-tech-instagram); [creator niche and technology/software-workflow profile](https://motionapp.com/creator/ferdiedev/).
+
+
+- **Profile:** [@911reviews](https://www.instagram.com/911reviews/)
+  - Content language: English
+  - Technology focus: Consumer electronics, smartphones, gadgets, audio equipment, smart-home products, product demonstrations and hands-on technology reviews
+  - Qualifying activity observed: 2026-10-09, 2026-10-10 and 2026-10-15 (public Instagram post-count increments)
+  - Evidence: [HypeAuditor's dated Instagram history](https://hypeauditor.com/instagram/911reviews/) records total posts increasing from 1,120 on October 3 to 1,125 on October 9, 1,126 on October 10 and 1,127 on October 15/17. [Social Blade's newer public media count](https://socialblade.com/instagram/user/911reviews) reports 1,132 media items.
+  - Note: 911Reviews' own creator page identifies @911reviews as its Instagram technology-review account covering consumer technology, gadgets and product demonstrations. influData places the account in Tampa, United States, in the Technology & Gadgets category. Public profile and creator copy are in English. [Creator's Instagram description](https://www.911reviews.com/instagram/); [Tampa / US technology creator ranking](https://infludata.com/rankings/top-20-influencer-united-states-of-america-tech-instagram); [public profile and recent post samples](https://pictame.com/en/instagram/911reviews/5493776103).
