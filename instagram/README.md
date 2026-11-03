@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 82 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **86 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 86 existing profiles (all distinct), while 42 files contained no Instagram profile links. The four new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **90 unique profiles**.
 
 ## Current verified shortlist
 
@@ -55,6 +55,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@alliekmiller](https://www.instagram.com/alliekmiller/) | English | 2026-10-26, 2026-10-27 and 2026-10-28 |
 | Germany | [@chip_de](https://www.instagram.com/chip_de/) | German | 2026-10-31 |
 | Netherlands | [@evolving.ai](https://www.instagram.com/evolving.ai/) | English | 2026-10-04, 2026-10-08 and 2026-10-16 |
+| Netherlands | [@soyisaluna](https://www.instagram.com/soyisaluna/) | Spanish | 2026-10-20 and 2026-10-21 |
+| Netherlands | [@yury.ai](https://www.instagram.com/yury.ai/) | English | 2026-10-20 |
 | Spain | [@99setups](https://www.instagram.com/99setups/) | English | 2026-10-07 and 2026-10-09 |
 | United Kingdom | [@highoctane0](https://www.instagram.com/highoctane0/) | English | 2026-10-21 and 2026-10-23 |
 | United Kingdom | [@gamewithkiwi](https://www.instagram.com/gamewithkiwi/) | English | 2026-10-20 |
@@ -107,6 +109,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@interestingengineering](https://www.instagram.com/interestingengineering/) | English | 2026-10-26, 2026-10-27, 2026-10-29 and 2026-10-31 |
 | United States | [@nasa](https://www.instagram.com/nasa/) | English | 2026-10-20 and 2026-10-23 |
 | United States | [@satechi](https://www.instagram.com/satechi/) | English | 2026-10-27 and 2026-10-28 |
+| United States | [@ufd_tech](https://www.instagram.com/ufd_tech/) | English | 2026-10-28 |
+| United States | [@carterpcs_](https://www.instagram.com/carterpcs_/) | English | 2026-10-13 |
 
 ## Country totals
 
@@ -116,12 +120,12 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Germany | 8 |
 | Greece | 1 |
 | Italy | 1 |
-| Netherlands | 3 |
+| Netherlands | 5 |
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 11 |
-| United States | 50 |
-| **Total** | **86** |
+| United States | 52 |
+| **Total** | **90** |
 
 ## Evidence sources
 
@@ -183,3 +187,6 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - Spain — [@maxmaxdata October 14 AI/Big Data post](https://www.glunis.com/ES/Las-Arenas/266866544252552/Maxmaxdata); [InfluData's Spain Technology & Gadgets Instagram ranking](https://infludata.com/pl/rankings/top-20-influencer-spain-tech-instagram); [creator's public professional profile](https://www.mypublicinbox.com/Maxmaxdata). [@nategentile7 October 22 technology posts](https://imginn.com/p/DezUOpBMaVd/) and [October 22 iPhone post](https://imginn.com/p/DeylKVXI102/); [Instagram profile bio](https://imginn.com/nategentile7) and [Barcelona location](https://x.com/nategentile7/with_replies?lang=en).
 - United States — [@nasa October 20 lunar-base vehicle post](https://imginn.com/p/DeuH0dDFGcg/) and [October 23 Artemis post](https://imginn.com/p/De2t82PPyx9/); [NASA's official social media directory](https://www.nasa.gov/social-media/). [@satechi October 27–28 Instagram activity, including the ExtendView dual-4K adapter](https://www.particl.com/data/companies/satechi/assets/1113323); [Satechi's official About page](https://satechi.com/pages/about-us) and [US technology-brand listing](https://infldb.com/top-brands-by-category/tech).
+
+- Netherlands — [@soyisaluna October 20 Whoop wearable/gadget post](https://imginn.com/p/Deuchz6omV9/) and [October 21 Oppo/Android unboxing](https://imginn.com/p/DewtSJGsh7Y/); [influData's Netherlands Technology & Gadgets ranking identifies the creator's location as Amsterdam](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram). [@yury.ai October 20 AI/Claude/ChatGPT workflow post](https://imginn.com/p/Deu24KoDMx4/); [influData lists the account in its Netherlands technology creator ranking](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram).
+- United States — [@ufd_tech October 28 AI-industry post](https://imginn.com/p/DfBTzJuCCjH/); [Zaver profile verifies its US location and technology/gadgets/AI-ML classification](https://zaver.one/creators/instagram/ufd_tech). [@carterpcs_ October 13 Claude/AI post](https://imginn.com/p/Dea2-J-AQiG/); [Leewou creator profile identifies Carter Smith as US-based and technology-focused](https://leewou.com/analyze/instagram/instagram-carter-smith-analysis).

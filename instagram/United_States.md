@@ -353,3 +353,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-27 and 2026-10-28
   - Evidence: [October 27 product post and October 28 ExtendView dual-4K adapter post](https://www.particl.com/data/companies/satechi/assets/1113323)
   - Note: Satechi's official About page describes its technology-accessory products and identifies San Diego as its founding location; its brand listing places the Instagram account in the United States. [Company profile](https://satechi.com/pages/about-us); [US tech-brand listing](https://infldb.com/top-brands-by-category/tech).
+
+- **Profile:** [@ufd_tech](https://www.instagram.com/ufd_tech/)
+  - Content language: English
+  - Technology focus: PC hardware, GPUs, AI, machine learning, computer builds and technology commentary
+  - Qualifying post observed: 2026-10-28
+  - Evidence: [October 28 AI-industry analysis post](https://imginn.com/p/DfBTzJuCCjH/)
+  - Note: Zaver classifies @ufd_tech as a US-based Instagram technology creator in the technology, gadgets and AI/ML categories. [Country and niche verification](https://zaver.one/creators/instagram/ufd_tech).
+
+- **Profile:** [@carterpcs_](https://www.instagram.com/carterpcs_/)
+  - Content language: English
+  - Technology focus: Consumer technology, AI software, PC hardware, gaming technology and technology reviews
+  - Qualifying post observed: 2026-10-13
+  - Evidence: [October 13 post about Claude's AI moderation rules](https://imginn.com/p/Dea2-J-AQiG/)
+  - Note: Leewou's creator profile identifies Carter Smith / @carterpcs_ as a US-based creator and describes his technology-focused account. [Country/niche verification](https://leewou.com/analyze/instagram/instagram-carter-smith-analysis).
