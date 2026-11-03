@@ -611,3 +611,24 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-27
   - Evidence: [October 27, 2026 Instagram partnership post classified as video-editing software](https://www.instagram.com/p/DfAK2zxvv7i/)
   - Note: Modash identifies Jordan Taylor Wright as a United States-based creator; CollabFeed records an October 27 Instagram partnership in Technology / Video Editing Software. The creator's profile describes AI tools for film concepts, editing, call sheets and translation. [US creator profile](https://www.modash.io/content-library/brands/capcut-examples/influencers); [dated CapCut technology partnership](https://collabfeed.io/brands/capcut); [AI filmmaking profile](https://www.nutcake.com/creators/taylorcutfilms)
+
+- **Profile:** [@nasajohnson](https://www.instagram.com/nasajohnson/)
+  - Content language: English
+  - Technology focus: Crewed spaceflight systems, Orion spacecraft, International Space Station hardware, spacecraft power systems, navigation and mission-control technology
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [October 29, 2026 Instagram post about installing a new roll-out solar array on the International Space Station](https://imginn.com/p/DfF3eqGSKKc/)
+  - Note: NASA's official social-media directory lists @nasajohnson for Johnson Space Center in Houston. The public profile describes the account as the lead center for the International Space Station and Orion spacecraft; the October 29 post reports installation of the seventh of eight new solar arrays, expected to increase station power capacity by up to 30%. [NASA official account directory](https://www.nasa.gov/social-media/); [profile bio](https://imginn.com/nasajohnson); [dated post and technical details](https://imginn.com/p/DfF3eqGSKKc/)
+
+- **Profile:** [@nasawebb](https://www.instagram.com/nasawebb/)
+  - Content language: English
+  - Technology focus: James Webb Space Telescope, advanced infrared instruments, space imaging systems, astronomical observation and scientific data
+  - Qualifying posts observed: 2026-10-16 and 2026-10-27
+  - Evidence: [October 16 post about Webb's advanced infrared instruments](https://imginn.com/p/DekQCf3k8Kk/); [October 27 post about using Webb observations to study early supermassive black holes](https://imginn.com/p/DfA9OP2P9Af/)
+  - Note: NASA's official social-media directory lists @nasawebb as the Instagram account for the James Webb Space Telescope; Qoruz identifies Greenbelt, Maryland, United States as the profile location. The recent posts discuss infrared instrumentation and telescope observations. [NASA official account directory](https://www.nasa.gov/social-media/); [profile and US location](https://qoruz.com/NASAWebb/instagram); [October 16 post](https://imginn.com/p/DekQCf3k8Kk/); [October 27 post](https://imginn.com/p/DfA9OP2P9Af/)
+
+- **Profile:** [@nasahubble](https://www.instagram.com/nasahubble/)
+  - Content language: English
+  - Technology focus: Hubble Space Telescope, optical and multi-wavelength imaging, space-observation instruments, telescope engineering and scientific visualization
+  - Qualifying posts observed: 2026-10-27, 2026-10-29 and 2026-10-30
+  - Evidence: [October 27 post showing telescope hardware during assembly](https://imginn.com/p/DfABiuvm2Ru/); [October 29 post comparing Hubble and Webb observations of the Cat's Head Nebula](https://imginn.com/p/DfFDaHJoM49/); [October 30 post on the same telescope imaging work](https://imginn.com/p/DfGqhMUGNXW/)
+  - Note: NASA's official social-media directory lists @nasahubble as the Hubble Space Telescope Instagram account; NASA's Hubble social-media page identifies the account as part of the mission's official channels, managed through NASA's Goddard Space Flight Center in Greenbelt, Maryland. [NASA official account directory](https://www.nasa.gov/social-media/); [NASA Hubble official social-media page](https://science.nasa.gov/mission/hubble/hubble-news/hubble-social-media/); [October 27 post](https://imginn.com/p/DfABiuvm2Ru/); [October 29 post](https://imginn.com/p/DfFDaHJoM49/); [October 30 post](https://imginn.com/p/DfGqhMUGNXW/)
