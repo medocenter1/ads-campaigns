@@ -114,3 +114,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-14, 2026-10-15 and 2026-11-01
   - Evidence: [November 1 Reel reviewing the Razer Kiyo V2 Pro 4K webcam and AI auto-framing](https://www.instagram.com/p/DfM3F6po20L/); [October 14 and 15 profile-post activity](https://pikory.com/u/tocbgaming/8761444658)
   - Note: Infldb lists Tom (@tocbgaming) in the United Kingdom and gives his profile bio; Pikory's public profile describes PC, PS5 and desk setups. The captions are in English. [UK creator listing and bio](https://infldb.com/top-influencers-by-category/tech); [public profile/post archive](https://pikory.com/u/tocbgaming/8761444658)
+
+- **Profile:** [@emdottech](https://www.instagram.com/emdottech/)
+  - Content language: English
+  - Technology focus: AI tips, software and productivity tools, free websites, PC optimization, Windows tips, mobile apps and digital workflows
+  - Qualifying posts observed: 2026-10-22 and 2026-10-29
+  - Evidence: [October 22, 2026 post about five useful mobile apps and phone tools](https://imginn.com/p/Dez3mEciAFM/); [October 29, 2026 post about four free websites and digital tools](https://imginn.com/p/DfEyoMUiPJT/)
+  - Note: The public Instagram profile bio identifies the account as UK-based (“📍 UK 🇬🇧”) and describes it as a daily tech and AI tips page. Both recent post captions are in English. [Public profile and UK location](https://imginn.com/emdottech/); [UK tech creator listing](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/)

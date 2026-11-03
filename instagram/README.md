@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 128 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `chubee.tech` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **129 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 129 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `emdottech` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **130 unique profiles**.
 
 ## Current verified shortlist
 
@@ -151,6 +151,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United Kingdom | [@tocbgaming](https://www.instagram.com/tocbgaming/) | English | 2026-10-14, 2026-10-15 and 2026-11-01 |
 | United States | [@peachietech](https://www.instagram.com/peachietech/) | English | 2026-10-30 and 2026-11-02 |
 | United States | [@chubee.tech](https://www.instagram.com/chubee.tech/) | English | 2026-11-01 |
+| United Kingdom | [@emdottech](https://www.instagram.com/emdottech/) | English | 2026-10-22 and 2026-10-29 |
 
 ## Country totals
 
@@ -163,9 +164,9 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Netherlands | 6 |
 | Spain | 6 |
 | Switzerland | 1 |
-| United Kingdom | 16 |
+| United Kingdom | 17 |
 | United States | 80 |
-| **Total** | **129** |
+| **Total** | **130** |
 
 ## Evidence sources
 
@@ -220,9 +221,11 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 - United States — [@chubee.tech's November 1, 2026 Razer Joro keyboard Instagram post](https://www.monitormentions.com/brand/razer/instagram); [Creatorland identifies Allison De la Rosa as a US-based gaming and tech content creator](https://www.creatorland.com/chubee.tech).
 
+- United Kingdom — [@emdottech October 22, 2026 post about mobile apps and phone tools](https://imginn.com/p/Dez3mEciAFM/) and [October 29, 2026 post about free websites and digital tools](https://imginn.com/p/DfEyoMUiPJT/); [public Instagram bio shows UK location](https://imginn.com/emdottech/); [UK tech creator listing](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 129-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 130-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -355,3 +358,8 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.44
 
 - United States — [@chubee.tech Instagram profile](https://www.instagram.com/chubee.tech/) is Allison De la Rosa's gaming and technology creator account. Creatorland lists the creator's country as the United States and describes content centered on gaming setups, PC and PlayStation 5 equipment, peripherals and creator gear; her bio notes Dominican Republic origin. A public Instagram post dated [November 1, 2026](https://www.monitormentions.com/brand/razer/instagram) showcases the Razer Joro keyboard, with an English caption (“Small setup, big possibilities”), satisfying the recent-post and language criteria. [Creator profile and country label](https://www.creatorland.com/chubee.tech); [dated post and caption](https://www.monitormentions.com/brand/razer/instagram).
+
+
+## Evidence added in V 0.45
+
+- United Kingdom — [@emdottech Instagram profile](https://www.instagram.com/emdottech/) is an English-language technology and AI tips page. Its public profile explicitly lists “UK 🇬🇧” and describes the account as sharing daily tech and AI tips. A public [October 22, 2026 post](https://imginn.com/p/Dez3mEciAFM/) covers five useful apps and mobile tools; its [October 29, 2026 post](https://imginn.com/p/DfEyoMUiPJT/) covers four free websites for PC repair, image editing and productivity. The captions are in English. [Profile bio and UK location](https://imginn.com/emdottech/); [UK technology creator directory](https://mywall.me/influencers/top-tech-influencers-in-uk-on-instagram/).
