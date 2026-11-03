@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 130 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `krystallora` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **131 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were fetched and checked. Nine files contained 131 existing profile links (all distinct), while 42 files contained no Instagram profile links. The new handle `techniktolik` was compared case-insensitively with every profile handle across all 51 files and was absent. No duplicate was added; the shortlist now contains **132 unique profiles**.
 
 ## Current verified shortlist
 
@@ -81,6 +81,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Germany | [@bens_hardware](https://www.instagram.com/bens_hardware/) | German | 2026-11-01 (28 posts / 30 days in Nindo snapshot) |
 | Germany | [@hardwaredealz](https://www.instagram.com/hardwaredealz/) | German | 2026-10-28; 9 posts / 30 days in Nindo snapshot |
 | Germany | [@michael.truch](https://www.instagram.com/michael.truch/) | German | 2026-10-23 |
+| Germany | [@techniktolik](https://www.instagram.com/techniktolik/) | German | 2026-10-21 |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
 | United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
 | United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
@@ -159,7 +160,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Country | Accounts |
 |---|---:|
 | France | 6 |
-| Germany | 12 |
+| Germany | 13 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 6 |
@@ -167,12 +168,12 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Switzerland | 1 |
 | United Kingdom | 17 |
 | United States | 81 |
-| **Total** | **131** |
+| **Total** | **132** |
 
 ## Evidence sources
 
 - France — [@madamet3ch post mirror, October 24](https://imginn.com/p/De4sbNGNoMZ/); [France technology creator directory](https://www.creatorriver.com/influencers/instagram/tech/fr). [@mrjojol67 post mirror, October 14](https://imginn.com/p/DeecRjxIRwb/); [France technology creator directory, with Lyon attribution](https://hiveinfluence.io/top-influencers/instagram/tech/france). [@matrix_ia.fr October 20, 22 and 25 posts](https://imginn.com/p/DetNxNJRaHF/); [Adencer profile identifies Paris, France and Tech/French category](https://adencer.fr/matrix_ia.fr). [@ninon.ia_officiel last-30-day Instagram activity](https://favikon-index.com/fr/profil/ninon-ia); [France technology directory](https://www.scrumball.ai/ranking/top-tech-influencers-on-instagram-in-france); [French AI creator profile](https://www.atfu.io/group/toolbox/discussion/b5b97119-8449-4a29-a417-367e9dd2aeb3).
-- Germany — [Nindo @hinkowicz stats](https://nindo.de/en/hinkowicz/stats/b2e623407c5dad27e5bd9296f049b14b3bcb6e09); [Nindo @pcwelt stats](https://nindo.de/en/pc-welt/stats/1dc63747cdce81e0cf766be02fc8a1a744f04d9e); [Nindo @heiseonline stats](https://nindo.de/heiseonline/stats/205ca11a8248ae5ba1d99d3fa564ca9d290cf3d7); [@iliasbsd October 27 post](https://imginn.com/p/De_wJTGoCNB/); [Nindo activity](https://nindo.de/en/iliasbsd/stats/3b9cc168837302648aa95a9bc923342f3a8d4f87); [@yoragitech October 18 WhatsApp/Android post](https://imginn.com/p/Deo8ZSiNBxu/); [@niklas_volland October 22 ChatGPT Work post](https://imginn.com/p/Dezc0nRshcj/), [October 26 post](https://imginn.com/p/De-D5ViMxP7/) and [Nindo 30-day Instagram statistics](https://nindo.de/en/niklas_volland/stats/12bf435fadf6b4b662f43a8784831199118bb21f).
+- Germany — [Nindo @hinkowicz stats](https://nindo.de/en/hinkowicz/stats/b2e623407c5dad27e5bd9296f049b14b3bcb6e09); [Nindo @pcwelt stats](https://nindo.de/en/pc-welt/stats/1dc63747cdce81e0cf766be02fc8a1a744f04d9e); [Nindo @heiseonline stats](https://nindo.de/heiseonline/stats/205ca11a8248ae5ba1d99d3fa564ca9d290cf3d7); [@iliasbsd October 27 post](https://imginn.com/p/De_wJTGoCNB/); [Nindo activity](https://nindo.de/en/iliasbsd/stats/3b9cc168837302648aa95a9bc923342f3a8d4f87); [@yoragitech October 18 WhatsApp/Android post](https://imginn.com/p/Deo8ZSiNBxu/); [@niklas_volland October 22 ChatGPT Work post](https://imginn.com/p/Dezc0nRshcj/), [October 26 post](https://imginn.com/p/De-D5ViMxP7/) and [Nindo 30-day Instagram statistics](https://nindo.de/en/niklas_volland/stats/12bf435fadf6b4b662f43a8784831199118bb21f). [@techniktolik Germany-based profile and October 21 tech post in German](https://www.scrumball.com/kol/instagram/techniktolik).
 - Greece — [@skaigenerated post mirror, October 30](https://imginn.com/p/DfHTIoEiqVt/); [Greece technology creator directory](https://infludata.com/rankings/top-20-influencer-greece-tech-instagram).
 - Italy — [@gianpaolo.golden post mirror, October 25](https://imginn.com/p/De6No1RROOx/); [Italy technology creator directory](https://hiveinfluence.io/top-influencers/instagram/tech/italy).
 - Netherlands — [@appledsign post mirror, October 27](https://imginn.com/p/De_fRLOOMjC/); [@masters.of.tech public profile/recent posts](https://universe.beacons.ai/creators/masters.of.tech); [Netherlands technology creator directory](https://infludata.com/de/rankings/top-20-influencer-netherlands-tech-instagram).
@@ -228,7 +229,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 131-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 132-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -371,3 +372,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 ## Evidence added in V 0.46
 
 - United States — [@krystallora Instagram profile](https://www.instagram.com/krystallora/) belongs to Krystal Lora, a technology/lifestyle creator based in New York, New York, USA. Social Cat lists the account as Tech/Lifestyle and gives New York as the creator location; Socialveins independently identifies the account as US-based and repeats the Tech/Lifestyle bio. A public Instagram post dated [October 22, 2026](https://socialpruf.com/instagram/krystallora) features the iPhone Duo and uses the English caption “doomscrolling on iPhone Duo”. The account's recent content also includes iPhone and app-related posts. [New York creator listing](https://landing.socialkaat.com/influencers/new-york-lifestyle); [US tech/lifestyle profile](https://socialveins.com/influencer/instagram/krystallora); [dated post and caption](https://socialpruf.com/instagram/krystallora).
+
+## Evidence added in V 0.47
+
+- Germany — [@techniktolik Instagram profile](https://www.instagram.com/techniktolik/) is a German-language technology and gadget account. Scrumball's Instagram statistics listing identifies the account in Germany and records multiple German-language tech posts within the activity window, including an [October 21, 2026 post about a Belkin power bank with up to 120W charging](https://www.scrumball.com/kol/instagram/techniktolik), an October 20 iPhone-case post and an October 19 everyday-carry accessories post. Further dated entries appear on October 12, 8, 5, 4 and 3. [Profile country, tech/gadget tags, dated post records and German captions](https://www.scrumball.com/kol/instagram/techniktolik).

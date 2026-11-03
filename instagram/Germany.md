@@ -86,3 +86,9 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-23
   - Evidence: [October 23 Instagram post explaining AI-assisted discovery of PHP security vulnerabilities](https://imginn.com/p/De2FWSZuNzG/)
   - Note: Nindo labels the Instagram channel DE and its public bio identifies Michael as a tech enthusiast specializing in AI and data science; Feedspot lists @michael.truch among German technology creators and gives Germany as location. [Nindo channel, DE marker and bio](https://nindo.de/michael.truch/stats/0dc8ea860932458817bff05a152ec3c809601c9f); [German technology creator directory and location](https://influencers.feedspot.com/german_tech_instagram_influencers/).
+- **Profile:** [@techniktolik](https://www.instagram.com/techniktolik/)
+  - Content language: German
+  - Technology focus: Consumer technology accessories and devices, power banks, iPhone cases, Apple Watch bands, mobile photography and everyday-carry gadgets
+  - Qualifying post observed: 2026-10-21
+  - Evidence: [October 21 Instagram post about a Belkin power bank](https://www.scrumball.com/kol/instagram/techniktolik)
+  - Note: Scrumball's Instagram statistics page attributes the account to Germany and lists technology and gadget tags. It records German-language Instagram captions dated October 21 (Belkin power bank with up to 120W charging), October 20 (iPhone case), October 19 (everyday-carry accessories), October 12 and October 8, 2026. [Germany, profile, dates and post captions](https://www.scrumball.com/kol/instagram/techniktolik)
