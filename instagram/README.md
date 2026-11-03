@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. Before this update, all 51 country files were read from the current `main` revision and 32 existing handles were extracted. All 18 proposed additions were checked against every prior entry and against one another; the resulting shortlist contains 50 case-insensitively unique handles.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were checked: the eight populated files contained 50 existing profiles and the remaining 43 files contained no Instagram profile links. The 25 proposed profiles were checked against every existing handle and against one another. No duplicate was added; the shortlist now contains **75 unique profiles**.
 
 ## Current verified shortlist
 
@@ -71,20 +71,46 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@okaylandy](https://www.instagram.com/okaylandy/) | English | 2026-10-10 |
 | United States | [@atlus_west](https://www.instagram.com/atlus_west/) | English | 2026-10-17, 2026-10-18, 2026-10-28 and 2026-10-31 |
 | United States | [@sreyahalder](https://www.instagram.com/sreyahalder/) | English | 2026-10-21 |
+| France | [@squarpinstruments](https://www.instagram.com/squarpinstruments/) | English | 2026-10-05 |
+| Germany | [@boschglobal](https://www.instagram.com/boschglobal/) | English | 2026-10-07 |
+| Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
+| United Kingdom | [@xboxuk](https://www.instagram.com/xboxuk/) | English | 2026-10-26 |
+| United Kingdom | [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/) | English | 2026-10-23 |
+| United Kingdom | [@nothing](https://www.instagram.com/nothing/) | English | 2026-10-24 |
+| United Kingdom | [@georgiebarrat](https://www.instagram.com/georgiebarrat/) | English | 2026-10-20 |
+| United States | [@apple](https://www.instagram.com/apple/) | English | 2026-10-27 |
+| United States | [@google](https://www.instagram.com/google/) | English | 2026-10-27 |
+| United States | [@amazon](https://www.instagram.com/amazon/) | English | 2026-10-29 |
+| United States | [@nvidia](https://www.instagram.com/nvidia/) | English | 2026-10-25 |
+| United States | [@openai](https://www.instagram.com/openai/) | English | 2026-10-25 |
+| United States | [@motorola](https://www.instagram.com/motorola/) | English | 2026-10-03 |
+| United States | [@adobe](https://www.instagram.com/adobe/) | English | 2026-10-29 |
+| United States | [@intel](https://www.instagram.com/intel/) | English | 2026-10-19 |
+| United States | [@amd](https://www.instagram.com/amd/) | English | 2026-10-29 |
+| United States | [@xbox](https://www.instagram.com/xbox/) | English | 2026-10-23 |
+| United States | [@macrumors](https://www.instagram.com/macrumors/) | English | 2026-10-25 |
+| United States | [@github](https://www.instagram.com/github/) | English | 2026-10-29 |
+| United States | [@figma](https://www.instagram.com/figma/) | English | 2026-10-26 |
+| United States | [@roblox](https://www.instagram.com/roblox/) | English | 2026-10-31 |
+| United States | [@microsoft](https://www.instagram.com/microsoft/) | English | 2026-10-29 |
+| United States | [@kayvon.ai](https://www.instagram.com/kayvon.ai/) | English | 2026-10-11 |
+| United States | [@meta](https://www.instagram.com/meta/) | English | 2026-10-15 |
+| United States | [@mkbhd](https://www.instagram.com/mkbhd/) | English | 2026-10-27 |
 
 ## Country totals
 
 | Country | Accounts |
 |---|---:|
-| France | 4 |
-| Germany | 7 |
+| France | 5 |
+| Germany | 8 |
 | Greece | 1 |
 | Italy | 1 |
 | Netherlands | 3 |
 | Spain | 2 |
-| United Kingdom | 7 |
-| United States | 25 |
-| **Total** | **50** |
+| Switzerland | 1 |
+| United Kingdom | 11 |
+| United States | 43 |
+| **Total** | **75** |
 
 ## Evidence sources
 
@@ -104,6 +130,32 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 - United Kingdom — [@highoctane0 recent Instagram post archive, including October 21 and 23 tech posts](https://universe.beacons.ai/creators/highoctane0); [UK gaming creators](https://sup.co/creators/united-kingdom/gaming). [@gamewithkiwi October 20 Sims 4 gaming post](https://www.monitormentions.com/creator/gamewithkiwi); [UK-based creator profile](https://www.instalker.org/GameWithKiwi). [@jsetups October 17 AirPods Max charger post](https://imginn.com/p/Dem3TLSxjyH/); [London, UK tech creator profile](https://imginn.com/jsetups/). [@imchecotech October 9 PC-build reel](https://universe.beacons.ai/brands/noctua); [Cambridge-based tech creator listing](https://collabstr.com/imchecotech). [@asherintech October 21 Meraki gadget reel](https://universe.beacons.ai/brands/meraki); [software developer creator profile](https://www.liinks.co/asherintech); [UK creator partnership listing](https://www.modash.io/content-library/brands/asus-examples/influencers).
 - United States — [@c1evergirl creator profile and recent posts](https://universe.beacons.ai/creators/c1evergirl); [UGC Agent US tech creator profile](https://ugcagent.app/creators/instagram/c1evergirl/). [@hall_of_tech PC-build post and profile](https://universe.beacons.ai/creators/hall_of_tech); [California PC-builder profile](https://creatordb.app/creatorstats/hall-of-tech/). [@itskimjava October 29 post and recent Instagram activity](https://universe.beacons.ai/creators/itskimjava); [US-based creator listing](https://www.modash.io/content-library/brands/3wliners-examples/influencers). [@cozyquartzz US-based gaming-tech creator profile and dated posts](https://universe.beacons.ai/creators/cozyquartzz); [Iowa location and creator niche](https://dulcedo.com/entertainment/cozyquartzz). [@tinoreviews October 19 Razer gaming-chair post](https://monitormentions.com/brand/razer/instagram); [US Tech/Gaming profile](https://ugcagent.app/creators/instagram/tinoreviews/); [creator review site](https://tinoreviews.com/). [@mashable October 23 iPhone Duo post](https://imginn.com/p/De1lC0ix-0q/); [Mashable about page](https://mashable.com/about). [@digitaltrends October 20 MagSafe post](https://imginn.com/p/DeuNoOtj6-u/); [official Digital Trends about page](https://www.digitaltrends.com/about/). [@okaylandy recent public Instagram creator-post archive](https://universe.beacons.ai/brands/sonic-the-hedgehog); [US tech/gaming creator index](https://ugcagent.app/creators/tech/united-states/). [@atlus_west October 17, 18, 28 and 31 posts](https://imginn.com/p/Demz3GOiW1M/); [official ATLUS West links](https://linktr.ee/atlus_west); [North American support page](https://support.atlus.com/). [@sreyahalder October 21 post](https://imginn.com/p/Dewfv68oO0y/); [US-based English-language Tech creator profile](https://ugcagent.app/creators/instagram/sreyahalder/).
 
+- France — [@squarpinstruments post dated 2026-10-05](https://imginn.com/p/DeHlp9KkQD6/); [country/company verification](https://squarp.net/legal/).
+- Germany — [@boschglobal post dated 2026-10-07](https://imginn.com/p/DeMM9OhCB14/); [country/company verification](https://www.bosch.com/company/).
+- Switzerland — [@logitech post dated 2026-10-27](https://imginn.com/p/DfAWDfMvQDI/); [country/company verification](https://www.logitech.com/en-us/about.html).
+- United Kingdom — [@xboxuk post dated 2026-10-26](https://imginn.com/p/De92WlvMOCx/); [country/company verification](https://www.xbox.com/en-GB/).
+- United Kingdom — [@mrwhosetheboss post dated 2026-10-23](https://imginn.com/p/De1qD8BIi0m/); [country/company verification](https://creator-data.com/creator/arun-maini).
+- United Kingdom — [@nothing post dated 2026-10-24](https://imginn.com/p/De376h7At-n/); [country/company verification](https://find-and-update.company-information.service.gov.uk/company/12984564).
+- United Kingdom — [@georgiebarrat post dated 2026-10-20](https://imginn.com/p/DeuhQ7PoWSG/); [country/company verification](https://www.georgiebarrat.com/about/).
+- United States — [@apple post dated 2026-10-27](https://imginn.com/p/DfAPqVlGrTc/); [country/company verification](https://www.apple.com/contact/).
+- United States — [@google post dated 2026-10-27](https://imginn.com/p/DfAtbeayWL2/); [country/company verification](https://about.google/our-story/).
+- United States — [@amazon post dated 2026-10-29](https://imginn.com/p/DfEQOr7iqSv/); [country/company verification](https://www.aboutamazon.com/about-us).
+- United States — [@nvidia post dated 2026-10-25](https://imginn.com/p/De7Bg87EY4_/); [country/company verification](https://www.nvidia.com/en-us/about-nvidia/).
+- United States — [@openai post dated 2026-10-25](https://imginn.com/p/De6zjnszAQt/); [country/company verification](https://openai.com/about/).
+- United States — [@motorola post dated 2026-10-03](https://imginn.com/p/DeCEGc6ACvN/); [country/company verification](https://www.motorola.com/us/about).
+- United States — [@adobe post dated 2026-10-29](https://imginn.com/p/DfFoVyCAsb4/); [country/company verification](https://www.adobe.com/about-adobe.html).
+- United States — [@intel post dated 2026-10-19](https://imginn.com/p/Der7RX6FNiO/); [country/company verification](https://www.intel.com/content/www/us/en/company-overview/company-overview.html).
+- United States — [@amd post dated 2026-10-29](https://imginn.com/p/DfFziHcS2VO/); [country/company verification](https://www.amd.com/en/corporate.html).
+- United States — [@xbox post dated 2026-10-23](https://imginn.com/p/De0UFevsyJk/); [country/company verification](https://www.microsoft.com/en-us/about).
+- United States — [@macrumors post dated 2026-10-25](https://imginn.com/p/De7Awi-lygU/); [country/company verification](https://www.macrumors.com/about/).
+- United States — [@github post dated 2026-10-29](https://imginn.com/p/DfFaeWVlyRiF/); [country/company verification](https://github.com/about).
+- United States — [@figma post dated 2026-10-26](https://imginn.com/p/De9s-7bvsbW/); [country/company verification](https://www.figma.com/about/).
+- United States — [@roblox post dated 2026-10-31](https://imginn.com/p/DfKpS2XJ38U/); [country/company verification](https://corp.roblox.com/about/).
+- United States — [@microsoft post dated 2026-10-29](https://imginn.com/p/DfFbmHomkBv/); [country/company verification](https://www.microsoft.com/en-us/about).
+- United States — [@kayvon.ai post dated 2026-10-11](https://imginn.com/p/DeXoDWfqP43/); [country/company verification](https://creatordb.app/creatorstats/kayvonai/).
+- United States — [@meta post dated 2026-10-15](https://imginn.com/p/DehVNQhuxG1/); [country/company verification](https://about.meta.com/).
+- United States — [@mkbhd post dated 2026-10-27](https://imginn.com/p/DfAtZXGRAai/); [country/company verification](https://creator-data.com/creator/marques-browniee).
+
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually verified shortlist, not an exhaustive census. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 75-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.

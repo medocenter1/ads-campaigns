@@ -51,3 +51,31 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-21
   - Evidence: [October 21 Instagram reel about a Meraki coffee-machine upgrade](https://universe.beacons.ai/brands/meraki)
   - Note: The creator's profile identifies him as a software developer and content creator; Modash lists the creator in the United Kingdom: https://www.liinks.co/asherintech ; https://www.modash.io/content-library/brands/asus-examples/influencers
+
+- **Profile:** [@xboxuk](https://www.instagram.com/xboxuk/)
+  - Content language: English
+  - Technology focus: Xbox consoles, controllers, gaming hardware, games and gaming software
+  - Qualifying post observed: 2026-10-26
+  - Evidence: [Instagram post](https://imginn.com/p/De92WlvMOCx/)
+  - Note: This is the United Kingdom-specific Xbox channel and publishes UK-market gaming and hardware content. [Country/company cross-check](https://www.xbox.com/en-GB/).
+
+- **Profile:** [@mrwhosetheboss](https://www.instagram.com/mrwhosetheboss/)
+  - Content language: English
+  - Technology focus: Smartphone reviews, consumer electronics, mobile hardware comparisons and emerging technology
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [Instagram post](https://imginn.com/p/De1qD8BIi0m/)
+  - Note: Creator profile identifies Arun Maini as a London, UK technology and consumer-electronics creator. [Country/company cross-check](https://creator-data.com/creator/arun-maini).
+
+- **Profile:** [@nothing](https://www.instagram.com/nothing/)
+  - Content language: English
+  - Technology focus: Smartphones, mobile operating systems, headphones, wearables and consumer electronics
+  - Qualifying post observed: 2026-10-24
+  - Evidence: [Instagram post](https://imginn.com/p/De376h7At-n/)
+  - Note: Nothing Technology Limited is registered in London, United Kingdom. [Country/company cross-check](https://find-and-update.company-information.service.gov.uk/company/12984564).
+
+- **Profile:** [@georgiebarrat](https://www.instagram.com/georgiebarrat/)
+  - Content language: English
+  - Technology focus: AI tools, Claude workflows, software productivity, automation and practical technology explainers
+  - Qualifying post observed: 2026-10-20
+  - Evidence: [Instagram post](https://imginn.com/p/DeuhQ7PoWSG/)
+  - Note: Georgie Barrat is a UK technology presenter and former Gadget Show host; her public work focuses on making technology and AI useful and accessible. [Country/company cross-check](https://www.georgiebarrat.com/about/).

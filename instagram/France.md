@@ -31,3 +31,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Evidence: [Favikon's 30-day Instagram activity snapshot](https://favikon-index.com/fr/profil/ninon-ia)
   - Note: The France technology-creator directory lists @ninon.ia_officiel under France; ATFU describes Ninon as a French creator specializing in accessible AI education and testing new tools: https://www.scrumball.ai/ranking/top-tech-influencers-on-instagram-in-france ; https://www.atfu.io/group/toolbox/discussion/b5b97119-8449-4a29-a417-367e9dd2aeb3
 
+
+- **Profile:** [@squarpinstruments](https://www.instagram.com/squarpinstruments/)
+  - Content language: English
+  - Technology focus: Electronic music hardware, MIDI/CV interfaces, synthesizer modules, sequencing tools and firmware-enabled instruments
+  - Qualifying post observed: 2026-10-05
+  - Evidence: [Instagram post](https://imginn.com/p/DeHlp9KkQD6/)
+  - Note: SQUARP SAS is registered in Montreuil, France; the account demonstrates music-technology hardware and software. [Country/company cross-check](https://squarp.net/legal/).

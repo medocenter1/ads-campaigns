@@ -177,3 +177,129 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-21
   - Evidence: [October 21 Instagram post tagged Microsoft](https://imginn.com/p/Dewfv68oO0y/)
   - Note: UGC Agent classifies the account as a US-based English-language Instagram tech creator: https://ugcagent.app/creators/instagram/sreyahalder/
+
+- **Profile:** [@apple](https://www.instagram.com/apple/)
+  - Content language: English
+  - Technology focus: Consumer technology, iPhone, Mac, iPad, wearables and Apple software/services
+  - Qualifying post observed: 2026-10-27
+  - Evidence: [Instagram post](https://imginn.com/p/DfAPqVlGrTc/)
+  - Note: Apple is a United States technology company. [Country/company cross-check](https://www.apple.com/contact/).
+
+- **Profile:** [@google](https://www.instagram.com/google/)
+  - Content language: English
+  - Technology focus: Search, artificial intelligence, Android, software, cloud services and consumer applications
+  - Qualifying post observed: 2026-10-27
+  - Evidence: [Instagram post](https://imginn.com/p/DfAtbeayWL2/)
+  - Note: Google is a United States technology company. [Country/company cross-check](https://about.google/our-story/).
+
+- **Profile:** [@amazon](https://www.instagram.com/amazon/)
+  - Content language: English
+  - Technology focus: Consumer devices, smart-home products, e-readers, streaming devices and technology services
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [Instagram post](https://imginn.com/p/DfEQOr7iqSv/)
+  - Note: Amazon is a United States technology company and retailer. [Country/company cross-check](https://www.aboutamazon.com/about-us).
+
+- **Profile:** [@nvidia](https://www.instagram.com/nvidia/)
+  - Content language: English
+  - Technology focus: GPUs, AI computing, accelerated software, data centers and developer platforms
+  - Qualifying post observed: 2026-10-25
+  - Evidence: [Instagram post](https://imginn.com/p/De7Bg87EY4_/)
+  - Note: NVIDIA is a United States computing and semiconductor company. [Country/company cross-check](https://www.nvidia.com/en-us/about-nvidia/).
+
+- **Profile:** [@openai](https://www.instagram.com/openai/)
+  - Content language: English
+  - Technology focus: Artificial intelligence, ChatGPT, AI applications, software interfaces and developer tools
+  - Qualifying post observed: 2026-10-25
+  - Evidence: [Instagram post](https://imginn.com/p/De6zjnszAQt/)
+  - Note: OpenAI is headquartered in the United States. [Country/company cross-check](https://openai.com/about/).
+
+- **Profile:** [@motorola](https://www.instagram.com/motorola/)
+  - Content language: English
+  - Technology focus: Smartphones, mobile devices, smartphone cameras, chipsets and AI-powered mobile features
+  - Qualifying post observed: 2026-10-03
+  - Evidence: [Instagram post](https://imginn.com/p/DeCEGc6ACvN/)
+  - Note: Motorola Mobility is a United States-based mobile-device business headquartered in Chicago. [Country/company cross-check](https://www.motorola.com/us/about).
+
+- **Profile:** [@adobe](https://www.instagram.com/adobe/)
+  - Content language: English
+  - Technology focus: Creative software, Photoshop, Illustrator, After Effects, 3D tools and AI-enabled design workflows
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [Instagram post](https://imginn.com/p/DfFoVyCAsb4/)
+  - Note: Adobe is a United States software company. [Country/company cross-check](https://www.adobe.com/about-adobe.html).
+
+- **Profile:** [@intel](https://www.instagram.com/intel/)
+  - Content language: English
+  - Technology focus: CPUs, computing hardware, semiconductor technology and PC platforms
+  - Qualifying post observed: 2026-10-19
+  - Evidence: [Instagram post](https://imginn.com/p/Der7RX6FNiO/)
+  - Note: Intel is a United States semiconductor company. [Country/company cross-check](https://www.intel.com/content/www/us/en/company-overview/company-overview.html).
+
+- **Profile:** [@amd](https://www.instagram.com/amd/)
+  - Content language: English
+  - Technology focus: CPUs, GPUs, data-center processors, gaming hardware and computing platforms
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [Instagram post](https://imginn.com/p/DfFziHcS2VO/)
+  - Note: AMD is a United States semiconductor and computing company. [Country/company cross-check](https://www.amd.com/en/corporate.html).
+
+- **Profile:** [@xbox](https://www.instagram.com/xbox/)
+  - Content language: English
+  - Technology focus: Gaming consoles, game software, digital entertainment and gaming services
+  - Qualifying post observed: 2026-10-23
+  - Evidence: [Instagram post](https://imginn.com/p/De0UFevsyJk/)
+  - Note: Xbox is Microsoft's United States gaming platform. [Country/company cross-check](https://www.microsoft.com/en-us/about).
+
+- **Profile:** [@macrumors](https://www.instagram.com/macrumors/)
+  - Content language: English
+  - Technology focus: Apple products, consumer electronics, mobile devices, software updates and technology news
+  - Qualifying post observed: 2026-10-25
+  - Evidence: [Instagram post](https://imginn.com/p/De7Awi-lygU/)
+  - Note: MacRumors is a United States-based technology publication focused on Apple and consumer devices. [Country/company cross-check](https://www.macrumors.com/about/).
+
+- **Profile:** [@github](https://www.instagram.com/github/)
+  - Content language: English
+  - Technology focus: Software development, code collaboration, developer tools, open-source projects and AI coding
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [Instagram post](https://imginn.com/p/DfFaeWVlyRiF/)
+  - Note: GitHub is a United States software-development platform. [Country/company cross-check](https://github.com/about).
+
+- **Profile:** [@figma](https://www.instagram.com/figma/)
+  - Content language: English
+  - Technology focus: Interface-design software, prototyping, collaborative design tools and AI-assisted creative software
+  - Qualifying post observed: 2026-10-26
+  - Evidence: [Instagram post](https://imginn.com/p/De9s-7bvsbW/)
+  - Note: Figma is a United States software company. [Country/company cross-check](https://www.figma.com/about/).
+
+- **Profile:** [@roblox](https://www.instagram.com/roblox/)
+  - Content language: English
+  - Technology focus: Gaming platform software, user-generated games, developer tools and interactive experiences
+  - Qualifying post observed: 2026-10-31
+  - Evidence: [Instagram post](https://imginn.com/p/DfKpS2XJ38U/)
+  - Note: Roblox is a United States technology and platform company. [Country/company cross-check](https://corp.roblox.com/about/).
+
+- **Profile:** [@microsoft](https://www.instagram.com/microsoft/)
+  - Content language: English
+  - Technology focus: Software, Windows, Microsoft 365, cloud computing, AI and developer technologies
+  - Qualifying post observed: 2026-10-29
+  - Evidence: [Instagram post](https://imginn.com/p/DfFbmHomkBv/)
+  - Note: Microsoft is a United States software and technology company headquartered in Redmond, Washington. [Country/company cross-check](https://www.microsoft.com/en-us/about).
+
+- **Profile:** [@kayvon.ai](https://www.instagram.com/kayvon.ai/)
+  - Content language: English
+  - Technology focus: AI applications, Claude, MCP servers, AI coding tools and practical machine-learning education
+  - Qualifying post observed: 2026-10-11
+  - Evidence: [Instagram post](https://imginn.com/p/DeXoDWfqP43/)
+  - Note: CreatorDB identifies Kayvon as a New York-based AI creator whose Instagram content focuses on AI tools and coding. [Country/company cross-check](https://creatordb.app/creatorstats/kayvonai/).
+
+- **Profile:** [@meta](https://www.instagram.com/meta/)
+  - Content language: English
+  - Technology focus: Virtual reality, AI, smart glasses, immersive hardware and consumer technology
+  - Qualifying post observed: 2026-10-15
+  - Evidence: [Instagram post](https://imginn.com/p/DehVNQhuxG1/)
+  - Note: Meta is a United States technology company. [Country/company cross-check](https://about.meta.com/).
+
+- **Profile:** [@mkbhd](https://www.instagram.com/mkbhd/)
+  - Content language: English
+  - Technology focus: Consumer electronics, smartphones, computers, EV technology and emerging technology reviews
+  - Qualifying post observed: 2026-10-27
+  - Evidence: [Instagram post](https://imginn.com/p/DfAtZXGRAai/)
+  - Note: Creator Data identifies Marques Brownlee as a technology creator based in New Jersey, United States. [Country/company cross-check](https://creator-data.com/creator/marques-browniee).

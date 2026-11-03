@@ -51,3 +51,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-31
   - Evidence: [October 31 Instagram giveaway post reference](https://www.gewinn-portal.de/forum/index.php?pageNo=7&user-post-list/9974-kugelrund/=)
   - Note: The October 31 post explicitly directs users to follow @chip_de and like the Instagram post; CHIP is a German technology and consumer portal: https://www.chip.de/ueber-uns/
+
+- **Profile:** [@boschglobal](https://www.instagram.com/boschglobal/)
+  - Content language: English
+  - Technology focus: Industrial technology, engineering, mobility systems, connected products and AI-enabled manufacturing
+  - Qualifying post observed: 2026-10-07
+  - Evidence: [Instagram post](https://imginn.com/p/DeMM9OhCB14/)
+  - Note: Bosch is a German engineering and technology group. [Country/company cross-check](https://www.bosch.com/company/).
