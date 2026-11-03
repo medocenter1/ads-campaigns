@@ -38,3 +38,10 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-05
   - Evidence: [Instagram post](https://imginn.com/p/DeHlp9KkQD6/)
   - Note: SQUARP SAS is registered in Montreuil, France; the account demonstrates music-technology hardware and software. [Country/company cross-check](https://squarp.net/legal/).
+
+- **Profile:** [@get.switched](https://www.instagram.com/get.switched/)
+  - Content language: French / English
+  - Technology focus: Mechanical keyboards, PC builds, gaming peripherals, desk setups, tech accessories and product unboxings/reviews
+  - Qualifying Instagram posts observed: 2026-10-29 and 2026-10-31
+  - Evidence: [October 29 Corsair gaming-mouse / PureVector technology post and October 31 French-language desk-setup tour](https://universe.beacons.ai/creators/get.switched)
+  - Note: Jennifer Integlia describes herself as a French Instagram creator whose content centers on desk setups and peripherals, especially mechanical keyboards. Creator profile and recent-post archive: https://universe.beacons.ai/creators/get.switched ; France / French-language cross-check: https://tokranks.com/es/creator/get.switched

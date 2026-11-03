@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 103 existing profiles (all distinct), while 42 files contained no Instagram profile links. The two new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **105 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 105 existing profiles (all distinct), while 42 files contained no Instagram profile links. The new handle was compared case-insensitively with all existing handles. No duplicate was added; the shortlist now contains **106 unique profiles**.
 
 ## Current verified shortlist
 
@@ -75,6 +75,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@atlus_west](https://www.instagram.com/atlus_west/) | English | 2026-10-17, 2026-10-18, 2026-10-28 and 2026-10-31 |
 | United States | [@sreyahalder](https://www.instagram.com/sreyahalder/) | English | 2026-10-21 |
 | France | [@squarpinstruments](https://www.instagram.com/squarpinstruments/) | English | 2026-10-05 |
+| France | [@get.switched](https://www.instagram.com/get.switched/) | French / English | 2026-10-29 and 2026-10-31 |
 | Germany | [@boschglobal](https://www.instagram.com/boschglobal/) | English | 2026-10-07 |
 | Germany | [@herr_tech](https://www.instagram.com/herr_tech/) | German | 159 posts in last 30 days; latest 2 days before snapshot |
 | Switzerland | [@logitech](https://www.instagram.com/logitech/) | English | 2026-10-27 |
@@ -131,7 +132,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 | Country | Accounts |
 |---|---:|
-| France | 5 |
+| France | 6 |
 | Germany | 9 |
 | Greece | 1 |
 | Italy | 1 |
@@ -140,7 +141,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Switzerland | 1 |
 | United Kingdom | 12 |
 | United States | 64 |
-| **Total** | **105** |
+| **Total** | **106** |
 
 ## Evidence sources
 
@@ -188,7 +189,7 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 
 ## Verification caveats
 
-Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 105-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
+Public creator directories and Instagram mirrors can lag or disagree. The dated public post is the activity proof; country and technology focus are cross-checked separately. Some directory ranking pages include inactive, irrelevant, or vaguely classified accounts, so rank alone is never treated as evidence of recent posting. Empty country files are intentional: no profile was added without adequate evidence for the activity, subject and country/language requirements. This is a manually checked 106-profile shortlist, not an exhaustive census. The list includes individual creators, technology publishers and official technology-company accounts; country assignment follows the creator's stated location, a country-specific account, or the company's registered/headquarters location. Recheck activity before outreach.
 
 - Spain — [@ai.withphil October 19 AI/video-tools post](https://imginn.com/p/DerrAaVIxjl/); [Phil Franco professional profile and Palma, Spain location](https://es.linkedin.com/in/phil-franco-443201326); [CreatorDB AI/Technology profile](https://creatordb.app/creatorstats/aiwithphil/).
 - United States — [@uncover.ai October 20 AI/software post](https://imginn.com/p/DetWtZ2GGxu/) and [October 25 post](https://imginn.com/p/De6akU6sYol/); [Uncover AI company page identifies Chicago headquarters and links to Instagram](https://www.linkedin.com/company/uncover-ai). [@mollymahoneyofficial October 14 Claude/Google Workspace post](https://imginn.com/p/DefaMwKFGGQ/); [CreatorDB identifies Molly Mahoney as a US-based AI consultant and AI/Technology Instagram creator](https://creatordb.app/creatorstats/mollymahoneyofficial/).
@@ -222,3 +223,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 - United States — [@gyasilinje October 28, 29 and 31 Instagram posts](https://app.fohr.co/creators/gyasilinje); Fohr identifies Gyasi Calhoun as a Brooklyn/New York-based technology reviewer, product tester and software engineer, with English as the top audience language. [Creator profile and dated posts](https://app.fohr.co/creators/gyasilinje). [@milesabovetech October 26 and 27 Instagram Reels](https://app.fohr.co/creators/milesabovetech-gmail-com); Fohr identifies Miles Franklin as an Austin-based technology reviewer, product demonstrator and tech educator. [Creator profile and dated posts](https://app.fohr.co/creators/milesabovetech-gmail-com).
 
 - United States — [@echainzzzz Instagram posts on October 23, including iPhone apps and technology accessories](https://universe.beacons.ai/creators/echainzzzz); Fohr classifies Erick Chanez as a consumer-electronics and gaming-gadget reviewer, while his 2026 media kit identifies Miami, Florida as his base and links Instagram @echainzzzz. [Dated posts and tech niche](https://universe.beacons.ai/creators/echainzzzz); [creator media kit / location / account](https://echainzz.com/mediakit/). [@unclejessy4real October 29 and 30 Instagram posts on full-color UV 3D printing and the CJ270 printer](https://universe.beacons.ai/creators/unclejessy4real); Scout classifies the creator as US-based, English-language Technology & Software and lists his Instagram handle; [3D-printing creator directory](https://infldb.com/top-influencers-by-category/3d%20printing).
+
+## Evidence added in V 0.24
+
+- France — [@get.switched October 29 gaming-mouse technology post and October 31 desk-setup tour](https://universe.beacons.ai/creators/get.switched); the creator's media-kit profile describes Jennifer Integlia as a French creator focused on mechanical keyboards, desk setups and peripherals. [Creator profile, content dates and focus](https://universe.beacons.ai/creators/get.switched); [French-language / France profile cross-check](https://tokranks.com/es/creator/get.switched); [October 31 setup-tour listing](https://universe.beacons.ai/creators/get.switched).
