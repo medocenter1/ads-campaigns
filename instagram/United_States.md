@@ -475,3 +475,11 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying post observed: 2026-10-04
   - Evidence: [October 4 Instagram post](https://imginn.com/p/DeFZUvJSdcv/) says "We Build PCs for YOUR Budget" and invites viewers to follow for more PC-related content, using the hashtags #pc, #pcgaming, #pcbuild, #pcgamer and #gamingpc.
   - Note: Seattle Built's official contact page lists its store at 17171 Bothell Way NE, Lake Forest Park, Washington 98155, USA. Its official website says the business specializes in personalized computers, preconfigured PC builds and custom PC design. [Official store address and contact information](https://seattlebuilt.com/contact/); [official company and services overview](https://seattlebuilt.com/).
+
+
+- **Profile:** [@andythesalemtechguy](https://www.instagram.com/andythesalemtechguy/)
+  - Content language: English
+  - Technology focus: Personal computers, PC cases and custom builds, gaming hardware, electronics, computer repair and technology product reviews
+  - Qualifying post observed: 2026-10-18
+  - Evidence: [October 18 Instagram post reviewing the Phanteks EX5 PC case](https://imginn.com/p/DeohowIBqiK/); the caption discusses computer case design/buildability and includes #tech, #technology, #pc and #computer.
+  - Note: Modash identifies Andy Harding as a United States creator and reproduces the public bio “The Greatest Technician Boston Based”; it links the Instagram account @andythesalemtechguy. HypeAuditor categorizes the account in Personal Computers, Tech, Technology and Electronics. The cited post and public bio are in English. [Country, Boston bio and Instagram link](https://www.modash.io/content-library/brands/jackery-examples/influencers); [technology category and October account activity](https://hypeauditor.com/instagram/andythesalemtechguy/).
