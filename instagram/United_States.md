@@ -409,3 +409,17 @@ Activity window checked: 2026-10-03 to 2026-11-03 (inclusive)
   - Qualifying posts observed: 2026-10-14, 2026-10-16, 2026-10-17 and 2026-10-31
   - Evidence: [October 14 Roadster event post](https://imginn.com/p/DedGX2zz7st/), [October 16 Roadster Track Mode post](https://imginn.com/p/DekZh8yTSmp/), [October 17 Roadster post](https://imginn.com/p/DenJbRWhmMu/) and [October 31 Robotaxi post](https://imginn.com/p/DfI02-LTwkc/)
   - Note: Tesla's official About page describes its electric vehicles, batteries, software updates and autonomous-vehicle focus; its headquarters are in Austin, Texas. [Official company overview](https://www.tesla.com/about); [official headquarters/contact information](https://ir.tesla.com/contact-us).
+
+- **Profile:** [@fatihlabs](https://www.instagram.com/fatihlabs/)
+  - Content language: English
+  - Technology focus: AI tools, generative-AI video and image creation, creative software, CapCut and AI video workflows
+  - Qualifying posts observed: 2026-10-26 and 2026-10-29
+  - Evidence: [October 26 post from CapCut World LA](https://imginn.com/p/De8jbStm2M7/) and [October 29 post demonstrating PixVerse Canvas AI video generation](https://imginn.com/p/DfFjUK5iQhK/)
+  - Note: The public Instagram mirror profile lists California, USA and describes the page as an AI creator; Deecode Media House lists the account in its Tech creator roster. [Profile/location/language context](https://imginn.com/fatihlabs/); [creator roster](https://www.deecodemediahouse.com/).
+
+- **Profile:** [@setupspawn](https://www.instagram.com/setupspawn/)
+  - Content language: English
+  - Technology focus: PC hardware, computer tips, programming, useful software/websites, tech gadgets and educational technology content
+  - Qualifying activity observed: Instagram post count increased from 1,717 on 2026-10-05 to 1,724 on 2026-10-17
+  - Evidence: [HypeAuditor's October 2026 daily Instagram analytics](https://hypeauditor.com/instagram/setupspawn/) records the post-count increases during the activity window
+  - Note: CreatorDB classifies Setupspawn as a United States-based Tech & PC Tips creator; the creator's public site lists Texas and English-language PC tips. [Country/niche verification](https://creatordb.app/creatorstats/setupspawn/); [creator profile and location](https://solo.to/setupspawn); [creator's own description](https://www.patreon.com/MattyMctech/about).

@@ -15,7 +15,7 @@ Country assignment follows the country attribution in the cited creator director
 
 ## Duplicate handling
 
-Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 96 existing profiles (all distinct), while 42 files contained no Instagram profile links. The three new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **99 unique profiles**.
+Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles are compared case-insensitively across **all country files** before insertion. A profile is stored in one country file only. For this update, all 51 country files were fetched and checked. Nine files contained 99 existing profiles (all distinct), while 42 files contained no Instagram profile links. The two new handles were compared case-insensitively with all existing handles and one another. No duplicate was added; the shortlist now contains **101 unique profiles**.
 
 ## Current verified shortlist
 
@@ -120,6 +120,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | United States | [@eluna.ai](https://www.instagram.com/eluna.ai/) | English | 2026-10-04 and 2026-10-24 |
 | United States | [@thinkwithmark](https://www.instagram.com/thinkwithmark/) | English | 2026-10-15 |
 | United States | [@teslamotors](https://www.instagram.com/teslamotors/) | English | 2026-10-14, 2026-10-16, 2026-10-17 and 2026-10-31 |
+| United States | [@fatihlabs](https://www.instagram.com/fatihlabs/) | English | 2026-10-26 and 2026-10-29 |
+| United States | [@setupspawn](https://www.instagram.com/setupspawn/) | English | Instagram post count increased by 7 between 2026-10-05 and 2026-10-17 |
 
 ## Country totals
 
@@ -133,8 +135,8 @@ Profile URLs are normalized to `https://www.instagram.com/<handle>/`. Handles ar
 | Spain | 6 |
 | Switzerland | 1 |
 | United Kingdom | 12 |
-| United States | 58 |
-| **Total** | **99** |
+| United States | 60 |
+| **Total** | **101** |
 
 ## Evidence sources
 
@@ -208,3 +210,7 @@ Public creator directories and Instagram mirrors can lag or disagree. The dated 
 
 - Netherlands — [@nateherkai October 6 Claude Code post](https://imginn.com/p/DeKLFjSOu8Y/), [October 14 Claude skills post](https://imginn.com/p/DeeW_QFuKOf/) and [October 25 AI workflow post](https://imginn.com/p/De7MatdDOnZ/); [influData's Netherlands Technology & Gadgets ranking](https://infludata.com/it/rankings/top-20-influencer-netherlands-tech-instagram) attributes the creator to the Netherlands; [CreatorDB classifies the account as English-language AI & Tech](https://creatordb.app/creatorstats/nateherkai/).
 - United States — [@thinkwithmark October 15 Mark II / TIME Best Inventions post](https://imginn.com/p/DehpHvcj5Py/); [Mark's LinkedIn company profile](https://www.linkedin.com/company/thinkwithmark) lists Technology, Information and Media; [official product/About page](https://www.thinkwithmark.com/pages/about) describes the smart bookmark; [public profile lists Los Angeles](https://xitter.cf/thinkwithmark). [@teslamotors October 14 Roadster announcement](https://imginn.com/p/DedGX2zz7st/), [October 16 Track Mode post](https://imginn.com/p/DekZh8yTSmp/), [October 17 Roadster post](https://imginn.com/p/DenJbRWhmMu/) and [October 31 Robotaxi post](https://imginn.com/p/DfI02-LTwkc/); [Tesla's official About page](https://www.tesla.com/about) and [official investor-relations contact page](https://ir.tesla.com/contact-us) confirm its technology focus and Texas headquarters.
+
+
+- United States — [@fatihlabs October 26 CapCut World post](https://imginn.com/p/De8jbStm2M7/) and [October 29 AI-video post](https://imginn.com/p/DfFjUK5iQhK/); [public Instagram mirror profile](https://imginn.com/fatihlabs/) identifies the account as a California, USA-based AI creator; [Deecode Media House creator roster](https://www.deecodemediahouse.com/) lists fatihlabs in Tech and California.
+- United States — [@setupspawn activity snapshot](https://hypeauditor.com/instagram/setupspawn/) records the Instagram post count increasing from 1,717 on October 5 to 1,724 on October 17, 2026; the profile covers tech tips, tech humor, educational tech, gadgets and reviews. [CreatorDB's US-based Tech & PC Tips profile](https://creatordb.app/creatorstats/setupspawn/); [profile's Texas location and English-language tech/PC focus](https://solo.to/setupspawn); [creator's description of computer tips, programming and software background](https://www.patreon.com/MattyMctech/about).
